@@ -1,4 +1,4 @@
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-imdb \
                   --dataset-from-file data/textattack/datasets/imdb.py \
                   --shuffle False \
@@ -7,7 +7,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-mr \
                   --dataset-from-file data/textattack/datasets/rtmr.py \
                   --shuffle False \
@@ -16,7 +16,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-ag-news \
                   --dataset-from-file data/textattack/datasets/agnews.py \
                   --shuffle False \
@@ -25,7 +25,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-mnli \
                   --dataset-from-file data/textattack/datasets/mnli.py \
                   --shuffle False \
@@ -34,7 +34,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-snli \
                   --dataset-from-file data/textattack/datasets/snli.py \
                   --shuffle False \
@@ -43,7 +43,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-yelp \
                   --dataset-from-file data/textattack/datasets/yelp.py \
                   --shuffle False \
@@ -52,7 +52,7 @@ textattack attack --recipe faster-alzantot \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
-textattack attack --recipe faster-alzantot \
+textattack attack --recipe fast-alzantot \
                   --model bert-base-uncased-qqp \
                   --dataset-from-file data/textattack/datasets/qqp.py \
                   --shuffle False \
