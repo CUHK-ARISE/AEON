@@ -2,8 +2,9 @@ import time
 import numpy as np
 
 import torch
-from transformers import BertTokenizer, BertModel, BertForPreTraining
+from transformers import AutoModel, AutoModelForMaskedLM, AutoTokenizer
 from nltk.tokenize import sent_tokenize
+from sklearn.metrics.pairwise import cosine_similarity as cos_sim
 
 
 def get_time():
@@ -13,7 +14,7 @@ def get_time():
 def load_data(ori_path, adv_path):
     print(get_time() + '[INFO] Loading original texts from: %s' % ori_path)
     print(get_time() + '[INFO] Loading adversarial texts from: %s' % adv_path)
-    clean_list = ['[[', ']]', '\x85', '<br />', 'Premise: ', '>>>>Hypothesis: ']
+    clean_list = ['[[', ']]', 'Premise: ', '>>>>Hypothesis: ', 'Question1: ', '>>>>Question2: ']
     with open(ori_path) as f:
         raw = f.read()
         for i in clean_list: raw = raw.replace(i, '')
@@ -25,228 +26,246 @@ def load_data(ori_path, adv_path):
     return ori_texts, adv_texts
 
 
-class Scoring(object):
-    def __init__(self, gpu_id, batch_size, bert_path, save_file, verbose):
-        print(get_time() + '[INFO] Initializing model: %s' % bert_path)
-        print(get_time() + '[INFO] Using GPU Id: %d' % gpu_id)
-        print(get_time() + '[INFO] Using batch size: %d' % batch_size)
-        if verbose: print(get_time() + '[INFO] Printing more information (verbose mode)')
-        self.verbose = verbose
-        self.gpu_id = gpu_id
+def zero_padding(token_list):
+    length = max([len(i) for i in token_list])
+    return [i + [0] * (length - len(i)) for i in token_list]
+
+
+def edit_distance(ori_tokens, adv_tokens):
+    ori_len = len(ori_tokens)
+    adv_len = len(adv_tokens)
+    matrix = [[i + j for j in range(adv_len + 1)] for i in range(ori_len + 1)]
+    operation = [['' for j in range(adv_len + 1)] for i in range(ori_len + 1)]
+    for i in range(1, ori_len + 1):
+        operation[i][0] = operation[i - 1][0] + ',d %d %d;a %d %d' % (i - 1, ori_tokens[i - 1], i - 1, ori_tokens[i - 1])
+    for j in range(1, adv_len + 1):
+        operation[0][j] = operation[0][j - 1] + ',a %d %d;d %d %d' % (j - 1, adv_tokens[j - 1], j - 1, adv_tokens[j - 1])
+    
+    for i in range(1, ori_len + 1):
+        for j in range(1, adv_len + 1):
+            cost = 0 if ori_tokens[i - 1] == adv_tokens[j - 1] else 1
+            matrix[i][j] = min(
+                matrix[i][j - 1] + 1,
+                matrix[i - 1][j] + 1,
+                matrix[i - 1][j - 1] + cost
+            )
+            if matrix[i][j] == matrix[i - 1][j - 1] + cost:
+                operation[i][j] = operation[i - 1][j - 1]
+                if cost == 1:
+                    operation[i][j] += ',c %d %d %d;c %d %d %d' % \
+                                       (i - 1, ori_tokens[i - 1], adv_tokens[j - 1],
+                                        j - 1, adv_tokens[j - 1], ori_tokens[i - 1])
+            elif matrix[i][j] == matrix[i][j - 1] + 1:
+                operation[i][j] = operation[i][j - 1] + ',a %d %d;d %d %d' % (i, adv_tokens[j - 1], j - 1, adv_tokens[j - 1])
+            elif matrix[i][j] == matrix[i - 1][j] + 1:
+                operation[i][j] = operation[i - 1][j] + ',d %d %d;a %d %d' % (i - 1, ori_tokens[i - 1], j, ori_tokens[i - 1])
+    
+    return matrix[-1][-1], operation[-1][-1]
+
+
+class Scorer(object):
+    def __init__(self, batch_size, masked_lm, embed_lm, verbose):
+        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
+        print(get_time() + '[INFO] Using %s' % self.device)
+        
         self.batch_size = batch_size
-        self.model_vocab = BertForPreTraining.from_pretrained(bert_path)
-        self.model_encode = BertModel.from_pretrained(bert_path)
-        self.tokenizer = BertTokenizer.from_pretrained(bert_path)
-        self.model_vocab.eval()
-        self.model_vocab.cuda(self.gpu_id)
-        self.model_encode.eval()
-        self.model_encode.cuda(self.gpu_id)
-        self.utils_path = 'evaluator/vocabulary_table/'
-        with open(self.utils_path + 'inc') as inc, open(self.utils_path + 'dec') as dec, open(self.utils_path + 'inv') as inv, open(self.utils_path + 'positive') as pos, open(self.utils_path + 'negative') as neg:
-            self.inc_word_list = inc.read().splitlines()
-            self.dec_word_list = dec.read().splitlines()
-            self.inv_word_list = inv.read().splitlines()
-            self.pos_word_list = pos.read().splitlines()
-            self.neg_word_list = neg.read().splitlines()
-
-    def sentence_preprocese(self, text):
-        sent_list = sent_tokenize(text)
-        tokenize_sent_list = [self.tokenizer.tokenize(i) for i in sent_list]
-        total_tokens = sum([len(i) for i in tokenize_sent_list])
-        tokenized_para_list = [[101] + self.tokenizer.convert_tokens_to_ids(i) + [102] for i in tokenize_sent_list]
+        print(get_time() + '[INFO] Using batch size: %d' % batch_size)
         
-        masked_para_list = []
-        for para in tokenized_para_list:
-            masked_para_list.append([])
-            for masked_index in range(1, len(para) - 1):
-                new_tokenized_text = np.array(para, dtype=int)
-                new_tokenized_text[masked_index] = self.tokenizer.convert_tokens_to_ids(['[MASK]'])[0]
-                masked_para_list[-1].append(new_tokenized_text)
+        self.tokenizer_masked_lm = AutoTokenizer.from_pretrained(masked_lm)
+        self.model_masked_lm = AutoModelForMaskedLM.from_pretrained(masked_lm)
+        self.model_masked_lm.eval()
+        self.model_masked_lm = self.model_masked_lm.to(self.device)
+        print(get_time() + '[INFO] Masked LM model: %s' % masked_lm)
         
-        return masked_para_list, tokenized_para_list, total_tokens
-
-    def single_sentence_grammar(self, indexed_tokens_list, real_indexs_list, total_tokens):
-        # Pseudo Log-Likelihood
-        pll = 0
-        pll_upper = 0
+        self.tokenizer_embed_lm = AutoTokenizer.from_pretrained(embed_lm)
+        self.model_embed_lm = AutoModel.from_pretrained(embed_lm)
+        self.model_embed_lm.eval()
+        self.model_embed_lm = self.model_embed_lm.to(self.device)
+        self.pooler = 'cls_before_pooler' if 'unsup' in embed_lm else 'cls'
+        print(get_time() + '[INFO] Embedding model: %s' % embed_lm)
         
-        for indexed_tokens, real_indexs in zip(indexed_tokens_list, real_indexs_list):
-            tokens_tensor = torch.tensor(indexed_tokens)
-            tokens_tensor = tokens_tensor.cuda(self.gpu_id)
-
-            with torch.no_grad():
-                outputs = []
-                for i in range(0, len(tokens_tensor), self.batch_size):
-                    outputs.append(self.model_vocab(tokens_tensor[i:min(i + self.batch_size, len(tokens_tensor))])[0])
-                outputs = torch.cat(outputs, axis=0)
-                predictions = torch.softmax(outputs, -1)
-
-            temp = 0
-            for i in range(len(indexed_tokens)):
-                predicted_index = torch.argmax(predictions[i][i + 1]).item()
-                predicted_token = self.tokenizer.convert_ids_to_tokens([predicted_index])
-                predicted_prob = predictions[i][i + 1][predicted_index].item()
-
-                real_pos_prob = predictions[i][i + 1][real_indexs[i + 1]].item()
-                real_token = self.tokenizer.convert_ids_to_tokens([real_indexs[i + 1]])
-
-                temp += np.log2(real_pos_prob)
-                pll_upper += np.log2(predicted_prob)
-            pll += temp
-        
-        # Pseudo PerPLexity
-        pppl = np.exp2(-pll / total_tokens)
-        pppl_lower = np.exp2(-pll_upper / total_tokens)
-
-        return pppl
-
-    def polarity(self, ori, adv):
-        value_matrix = [[1, -1, 1, 0, -1, 0],
-                        [-1, 1, 0, 1, -1, 0],
-                        [1, 0, 1, -1, -1, 0],
-                        [0, 1, -1, 1, -1, 0],
-                        [-1, -1, -1, -1, 1, -1],
-                        [0, 0, 0, 0, -1, 1],]
-        
-        if ori in self.inc_word_list: ori = 0
-        elif ori in self.dec_word_list: ori = 1
-        elif ori in self.pos_word_list: ori = 2
-        elif ori in self.neg_word_list: ori = 3
-        elif ori in self.inv_word_list: ori = 4
-        else: ori = 5
-        
-        if adv in self.inc_word_list: adv = 0
-        elif adv in self.dec_word_list: adv = 1
-        elif adv in self.pos_word_list: adv = 2
-        elif adv in self.neg_word_list: adv = 3
-        elif adv in self.inv_word_list: adv = 4
-        else: adv = 5
-        
-        return value_matrix[ori][adv]
+        self.verbose = verbose
+        if self.verbose: print(get_time() + '[INFO] Printing more information (verbose mode)')
     
-    def pair_sentence_semantic(self, ori_text, adv_text):
-        # Padding
-        ori_sent_lens = [len(i) for i in ori_text]
-        adv_sent_lens = [len(i) for i in adv_text]
-        max_sent_len = max(ori_sent_lens + adv_sent_lens)
-        sent_list = [i + [0] * (max_sent_len - len(i)) for i in (ori_text + adv_text)]
+    def text_preprocese(self, text):
+        # Different models have different mask tokens (e.g., for BERT it's [MASK], for RoBERTa it's <mask>)
+        mask_token = self.tokenizer_masked_lm.mask_token_id
         
-        # Forwarding
-        tokens_tensor = torch.tensor(sent_list)
-        tokens_tensor = tokens_tensor.cuda(self.gpu_id)
+        # Split sentences
+        sentences = sent_tokenize(text)
+        # Tokenize words
+        tokenize_sentences = [self.tokenizer_masked_lm.encode(i) for i in sentences]
+        
+        masked_sentences = []
+        for sent in tokenize_sentences:
+            masked_sentences.append([])
+            for masked_index in range(1, len(sent) - 1):
+                masked_sentences[-1].append(sent[:masked_index] + [mask_token] + sent[masked_index + 1:])
+        
+        return masked_sentences, sentences
+
+    def text_naturalness(self, masked_sentences, sentences):
+        # Prepare masked inputs and their labels (real words)
+        masked_input = []
+        label_input = []
+        for masked_sent, sent in zip(masked_sentences, sentences):
+            label = self.tokenizer_masked_lm.encode(sent)[1:-1]
+            for i in range(len(masked_sent)):
+                masked_input.append(masked_sent[i])
+                label_input.append(label[i])
+        
+        masked_input = torch.tensor(zero_padding(masked_input)).to(self.device)
+        
         with torch.no_grad():
-            outputs_token = []
-            outputs_sent = []
-            for i in range(0, len(tokens_tensor), self.batch_size):
-                output = self.model_encode(tokens_tensor[i:min(i + self.batch_size, len(tokens_tensor))])
-                outputs_token.append(output[0])
-                outputs_sent.append(output[1])
-            outputs_token = torch.cat(outputs_token, axis=0)
-            outputs_sent = torch.cat(outputs_sent, axis=0)
+            outputs = []
+            for i in range(0, len(label_input), self.batch_size):
+                output = self.model_masked_lm(masked_input[i:min(i + self.batch_size, len(label_input))])
+                outputs.append(output.logits.cpu())
+            outputs = torch.cat(outputs, axis=0)
+            predictions = torch.softmax(outputs, -1)
         
-        # Embedding of tokens in each sentence
-        ori_token_emb = outputs_token[:len(ori_text)].cpu().detach().numpy()
-        adv_token_emb = outputs_token[-len(adv_text):].cpu().detach().numpy()
+        # Find the prediction score of the real words
+        probs = []
+        for i in range(len(predictions)):
+            idx = torch.argmax((masked_input[i] == self.tokenizer_masked_lm.mask_token_id).int())
+            probs.append(predictions[i][idx][label_input[i]].item())
         
-        # Pooling embedding of sentences
-        ori_sent_emb = outputs_sent[:len(ori_text)].cpu().detach().numpy()
-        adv_sent_emb = outputs_sent[-len(adv_text):].cpu().detach().numpy()
+        # Average of probabilities
+        naturalness = np.average(probs)
         
-        # Normalize to unit
-        ori_sent_emb = np.array([i / np.linalg.norm(i) for i in ori_sent_emb])
-        adv_sent_emb = np.array([i / np.linalg.norm(i) for i in adv_sent_emb])
+        return naturalness
+
+    def pair_texts_similarity(self, ori_sentences, adv_sentences):
+        cls_token = self.tokenizer_embed_lm.cls_token_id
+        sep_token = self.tokenizer_embed_lm.sep_token_id
         
-        # Sentence cosine similarity normalized to [0, 1]
-        sent_cos_sim = (np.dot(ori_sent_emb, adv_sent_emb.T) + 1) / 2
+        ori_sentences = self.tokenizer_embed_lm(ori_sentences)['input_ids']
+        adv_sentences = self.tokenizer_embed_lm(adv_sentences)['input_ids']
         
-        # Greedily maximize cosine similarity
-        ori_sent_max = np.max(sent_cos_sim, axis=1)
-        adv_sent_max = np.max(sent_cos_sim, axis=0)
+        ori_exclude_ids = []
+        adv_exclude_ids = []
+        for ori in range(len(ori_sentences)):
+            for adv in range(len(adv_sentences)):
+                if ori not in ori_exclude_ids and adv not in adv_exclude_ids:
+                    distance, operations = edit_distance(ori_sentences[ori], adv_sentences[adv])
+                    if distance == 0:
+                        ori_exclude_ids.append(ori)
+                        adv_exclude_ids.append(adv)
+                        break
+        ori_input = []
+        for i in range(len(ori_sentences)):
+            if i not in ori_exclude_ids:
+                ori_input += ori_sentences[i][1:-1]
+        ori_input = [cls_token] + ori_input + [sep_token]
+        adv_input = []
+        for i in range(len(adv_sentences)):
+            if i not in adv_exclude_ids:
+                adv_input += adv_sentences[i][1:-1]
+        adv_input = [cls_token] + adv_input + [sep_token]
         
-        # Greedy matching with maximum
-        ori_sent_match = np.argmax(sent_cos_sim, axis=1)
-        adv_sent_match = np.argmax(sent_cos_sim, axis=0)
+        distance, operations = edit_distance(ori_input, adv_input)
+        operations = operations[1:].split(',')
+        operations_o = [int(o.split(';')[0].split()[1]) for o in operations]
+        operations_a = [int(o.split(';')[1].split()[1]) for o in operations]
+        partial_ids_o = [[max(operations_o[0] - 2, 0), operations_o[0] + 2]]
+        partial_ids_a = [[max(operations_a[0] - 2, 0), operations_a[0] + 2]]
+        for o, a in zip(operations_o[1:], operations_a[1:]):
+            if o - 2 < partial_ids_o[-1][1]:
+                partial_ids_o[-1][1] = o + 2
+            else:
+                partial_ids_o.append([o - 2, o + 2])
+            if a - 2 < partial_ids_a[-1][1]:
+                partial_ids_a[-1][1] = a + 2
+            else:
+                partial_ids_a.append([a - 2, a + 2])
         
-        # Sentence similarity score without weighting
-        sent_sim_score = (np.prod(ori_sent_max) * np.prod(adv_sent_max)) ** 0.5
+        partial_ori = []
+        partial_adv = []
+        for o, a in zip(partial_ids_o, partial_ids_a):
+            partial_o = ori_input[o[0]:o[1]]
+            if partial_o[0] != cls_token: partial_o = [cls_token] + partial_o
+            if partial_o[-1] != sep_token: partial_o = partial_o + [sep_token]
+            partial_a = adv_input[a[0]:a[1]]
+            if partial_a[0] != cls_token: partial_a = [cls_token] + partial_a
+            if partial_a[-1] != sep_token: partial_a = partial_a + [sep_token]
+            partial_ori.append(partial_o)
+            partial_adv.append(partial_a)
         
-        # Sentence similarity score weights using token similarity score
-        match_list = [(i, j) for i, j in enumerate(ori_sent_match)] + [(j, i) for i, j in enumerate(adv_sent_match)]
-        match_list = list(set(match_list))
-        token_score_mat = np.zeros_like(sent_cos_sim)
-        for i, j in match_list:
-            # Normalize to unit; Delete [CLS] and [SEP]
-            ori_emb_unit = np.array([k / np.linalg.norm(k) for k in ori_token_emb[i][1:ori_sent_lens[i] - 1]])
-            adv_emb_unit = np.array([k / np.linalg.norm(k) for k in adv_token_emb[j][1:adv_sent_lens[j] - 1]])
+        if self.verbose:
+            for i in range(len(partial_ori)):
+                print(get_time() + '[INFO] Modification number: %d' % i)
+                print(self.tokenizer_embed_lm.convert_ids_to_tokens(partial_ori[i]))
+                print(self.tokenizer_embed_lm.convert_ids_to_tokens(partial_adv[i]))
+        
+        ori_inputs = [ori_input] + partial_ori
+        adv_inputs = [adv_input] + partial_adv
+        
+        with torch.no_grad():
+            ori_sentence_emb = []
+            for i in range(len(ori_inputs)):
+                output = self.model_embed_lm(torch.tensor(ori_inputs[i]).unsqueeze(0).to(self.device))
+                ori_sentence_emb.append(output.pooler_output if self.pooler == 'cls' else output.last_hidden_state[:, 0])
+            ori_sentence_emb = torch.cat(ori_sentence_emb, axis=0).cpu()
             
-            # Token cosine similarity normalized to [0, 1]
-            token_cos_sim = (np.dot(ori_emb_unit, adv_emb_unit.T) + 1) / 2
-            
-            # Greedily maximize cosine similarity
-            ori_token_max = np.max(token_cos_sim, axis=1)
-            adv_token_max = np.max(token_cos_sim, axis=0)
-            
-            # Greedy matching with maximum
-            ori_token_match = np.argmax(token_cos_sim, axis=1)
-            adv_token_match = np.argmax(token_cos_sim, axis=0)
-            
-            # Token similarity score without weighting
-            token_sim_score = (np.prod(ori_token_max) * np.prod(adv_token_max)) ** 0.5
-            
-            # Token similarity score weights using polarity
-            ori_token_weights = [self.polarity(self.tokenizer.convert_ids_to_tokens(ori_text[i][k + 1]),
-                                               self.tokenizer.convert_ids_to_tokens(adv_text[j][l + 1])) \
-                                 for k, l in enumerate(ori_token_match)]
-            adv_token_weights = [self.polarity(self.tokenizer.convert_ids_to_tokens(ori_text[i][l + 1]),
-                                               self.tokenizer.convert_ids_to_tokens(adv_text[j][k + 1])) \
-                                 for k, l in enumerate(adv_token_match)]
-            
-            # Weighted token similarity score
-            ori_token_max = (ori_token_max * np.array(ori_token_weights) + 1) / 2
-            adv_token_max = (adv_token_max * np.array(adv_token_weights) + 1) / 2
-            Ot = np.prod(ori_token_max)
-            At = np.prod(adv_token_max)
-            token_score_mat[i][j] = 2 * (Ot * At) / (Ot + At)
-        ori_sent_weights = np.array([token_score_mat[i][j] for i, j in enumerate(ori_sent_match)])
-        adv_sent_weights = np.array([token_score_mat[j][i] for i, j in enumerate(adv_sent_match)])
+            adv_sentence_emb = []
+            for i in range(len(adv_inputs)):
+                output = self.model_embed_lm(torch.tensor(adv_inputs[i]).unsqueeze(0).to(self.device))
+                adv_sentence_emb.append(output.pooler_output if self.pooler == 'cls' else output.last_hidden_state[:, 0])
+            adv_sentence_emb = torch.cat(adv_sentence_emb, axis=0).cpu()
         
-        # Weighted sentence similarity score
-        ori_sent_max = ori_sent_max * ori_sent_weights
-        adv_sent_max = adv_sent_max * adv_sent_weights
-        Os = np.average(ori_sent_max)
-        As = np.average(adv_sent_max)
-        weighted_sent_sim_score = 2 * (Os * As) / (Os + As)
+        similarity = np.array([cos_sim(o.reshape(1, -1), a.reshape(1, -1))[0][0] \
+                               for o, a in zip(ori_sentence_emb.numpy(), adv_sentence_emb.numpy())])
         
-        return weighted_sent_sim_score
+        if len(similarity) > 1:
+            if self.verbose:
+                print(get_time() + '[INFO] Original similarity score: %f' % similarity[0])
+                print(get_time() + '[INFO] Average partial similarity score: %f' % np.average(similarity[1:]))
+                print(get_time() + '[INFO] Minimum partial similarity score: %f' % similarity[1:].min())
+                print(similarity[1:])
+            similarity = (similarity[0] + np.average(similarity[1:])) / 2
+        else:
+            similarity = similarity[0]
+        
+        return similarity
     
-    def from_files(self, ori_texts, adv_texts, save_file):
+    def compute(self, ori_texts, adv_texts, save_file=None):
         print(get_time() + '[INFO] Calculating scores\n\n')
         
-        save_text = []
+        assert type(ori_texts) == type(adv_texts)
+        assert type(ori_texts) == str or type(ori_texts) == list
+        assert type(adv_texts) == str or type(adv_texts) == list
+        
+        is_single = False
+        if type(ori_texts) == str and type(adv_texts) == str:
+            is_single = True
+            ori_texts = [ori_texts]
+            adv_texts = [adv_texts]
+        
+        ret = []
         for i, (ori, adv) in enumerate(zip(ori_texts, adv_texts)):
-            sentence_pair_scores = []
             
-            masked_ori_list, ori_sent_list, ori_total = self.sentence_preprocese(ori)
-            masked_adv_list, adv_sent_list, adv_total = self.sentence_preprocese(adv)
+            masked_ori_sentences, ori_sentences = self.text_preprocese(ori)
+            masked_adv_sentences, adv_sentences = self.text_preprocese(adv)
             
-            o_pppl = self.single_sentence_grammar(masked_ori_list, ori_sent_list, ori_total)
-            a_pppl = self.single_sentence_grammar(masked_adv_list, adv_sent_list, adv_total)
+            o_naturalness = self.text_naturalness(masked_ori_sentences, ori_sentences)
+            a_naturalness = self.text_naturalness(masked_adv_sentences, adv_sentences)
             
-            weighted_sent_sim = self.pair_sentence_semantic(ori_sent_list, adv_sent_list)
-            
-            sentence_pair_scores += [(o_pppl / a_pppl), weighted_sent_sim]
+            similarity = self.pair_texts_similarity(ori_sentences, adv_sentences)
             
             print(get_time() + '[INFO] Finish text number %d:' % i)
             if self.verbose:
                 print('Original text:\n%s' % ori)
                 print('Adversarial text:\n%s' % adv)
-                print('Syntax Correctness: %.6f' % (o_pppl / a_pppl))
-                print('Semantic Similarity: %.6f\n' % weighted_sent_sim)
+                print('Syntax Correctness: %.6f' % (a_naturalness))
+                print('Semantic Similarity: %.6f\n' % similarity)
             
-            save_text.append(', '.join(['%.6f' % i for i in sentence_pair_scores]))
+            ret.append([similarity, a_naturalness])
         
-        if save_file != '':
+        if save_file is not None:
             print(get_time() + '[INFO] Scores are saved in: %s' % save_file)
             with open(save_file, 'w') as f:
-                f.write('\n'.join(save_text))
+                f.write('\n'.join([','.join([str(j) for j in i]) for i in ret]))
+        
+        if is_single: ret = ret[0]
+        return ret
 
