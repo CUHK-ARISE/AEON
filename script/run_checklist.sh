@@ -1,3 +1,5 @@
+cd ..
+
 textattack attack --recipe checklist \
                   --model bert-base-uncased-imdb \
                   --dataset-from-file data/textattack/datasets/imdb.py \

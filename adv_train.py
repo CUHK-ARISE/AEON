@@ -4,17 +4,30 @@ from torch.utils.data import DataLoader
 from transformers import BertTokenizer, BertForSequenceClassification, AdamW
 
 
-adv_path = 'data/adv.txt'
-info_path = 'data/info.csv'
 dataset_name = 'rotten-tomatoes'
-adv_name = 'rtmr'
+adv_file = ['data/textattack/bae-bert-rtmr-train.csv', 'data/textattack/pso-bert-rtmr-train.csv']
 data_path = '/research/dept7/jthuang/data/NLP/rtmr/train.txt'
+
+
 with open(data_path) as f:
     dataset = f.read().replace('\x85', ' ').splitlines()
     dataset_text = [i.split('\t')[0] for i in dataset]
     dataset_label = [int(i.split('\t')[1]) for i in dataset]
 
-model_name = 'textattack/bert-base-uncased-%s' % dataset_name
+adv_text = []
+adv_label = []
+delete_tokens = ['[[', ']]', 'Premise: ', '>>>>Hypothesis:', 'Question1: ', '>>>>Question2:']
+for file in adv_file:
+    with open(file) as f_csv:
+        r_csv = csv.DictReader(f_csv)
+        for i, row in enumerate(r_csv):
+            if row['result_type'] == 'Successful':
+                text = row['perturbed_text']
+                for tok in delete_tokens:
+                    text = text.replace(tok, '')
+                adv_text.append(text)
+                adv_label.append(int(float(row['ground_truth_output'])))
+
 device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
 
@@ -32,29 +45,8 @@ class AdvDataset(torch.utils.data.Dataset):
         return len(self.labels)
 
 
-def get_adv(adv_path, info_path, adv_name):
-    with open(adv_path) as f:
-        adv = f.read().replace('[[', '').replace(']]', '')
-        adv = adv.replace('Premise: ', '').replace('>>>>Hypothesis:', '')
-        adv = adv.replace('Question1: ', '').replace('>>>>Question2:', '')
-        adv = adv.splitlines()
-    adv_info = []
-    with open(info_path) as f_csv:
-        r_csv = csv.DictReader(f_csv)
-        for row in r_csv:
-            adv_info.append([row['attack_method'], row['dataset'], row['ground_truth']])
-    adv_text = []
-    adv_label = []
-    for i in range(len(adv)):
-        if adv_info[i][1] == adv_name:
-            adv_text.append(adv[i])
-            adv_label.append(int(adv_info[i][2]))
-    return adv_text, adv_label
-
-
 tokenizer = BertTokenizer.from_pretrained(model_name)
 
-adv_text, adv_label = get_adv(adv_path, info_path, adv_name)
 train_texts = dataset_text + adv_text
 train_labels = dataset_label + adv_label
 print('Size: train: %d, adv: %d' % (len(dataset_text), len(adv_text)))
@@ -68,6 +60,7 @@ train_encodings = tokenizer(train_texts, truncation=True, padding=True)
 train_dataset = AdvDataset(train_encodings, train_labels)
 #test_dataset = AdvDataset(test_encodings, test_labels)
 
+model_name = 'textattack/bert-base-uncased-%s' % dataset_name
 model = BertForSequenceClassification.from_pretrained(model_name)
 model.to(device)
 model.train()
