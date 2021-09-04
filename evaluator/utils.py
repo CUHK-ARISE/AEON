@@ -164,6 +164,8 @@ class Scorer(object):
         adv_input = [cls_token] + adv_input + [sep_token]
         
         distance, operations = edit_distance(ori_input, adv_input)
+        if distance == 0:
+            return 1.0
         operations = operations[1:].split(',')
         operations_o = [int(o.split(';')[0].split()[1]) for o in operations]
         operations_a = [int(o.split(';')[1].split()[1]) for o in operations]
@@ -228,7 +230,7 @@ class Scorer(object):
         
         return similarity
     
-    def compute(self, ori_texts, adv_texts, save_file=None):
+    def compute(self, ori_texts, adv_texts, save_file=''):
         print(get_time() + '[INFO] Calculating scores\n\n')
         
         assert type(ori_texts) == type(adv_texts)
@@ -243,11 +245,10 @@ class Scorer(object):
         
         ret = []
         for i, (ori, adv) in enumerate(zip(ori_texts, adv_texts)):
-            
             masked_ori_sentences, ori_sentences = self.text_preprocese(ori)
-            masked_adv_sentences, adv_sentences = self.text_preprocese(adv)
-            
             o_naturalness = self.text_naturalness(masked_ori_sentences, ori_sentences)
+            
+            masked_adv_sentences, adv_sentences = self.text_preprocese(adv)
             a_naturalness = self.text_naturalness(masked_adv_sentences, adv_sentences)
             
             similarity = self.pair_texts_similarity(ori_sentences, adv_sentences)
@@ -256,12 +257,13 @@ class Scorer(object):
             if self.verbose:
                 print('Original text:\n%s' % ori)
                 print('Adversarial text:\n%s' % adv)
-                print('Syntax Correctness: %.6f' % (a_naturalness))
-                print('Semantic Similarity: %.6f\n' % similarity)
+                print('Original Syntactic Score: %.6f' % (o_naturalness))
+                print('Adversarial Syntactic Score: %.6f' % (a_naturalness))
+                print('Semantic Score: %.6f\n' % similarity)
             
-            ret.append([similarity, a_naturalness])
+            ret.append([similarity, a_naturalness, o_naturalness])
         
-        if save_file is not None:
+        if save_file != '':
             print(get_time() + '[INFO] Scores are saved in: %s' % save_file)
             with open(save_file, 'w') as f:
                 f.write('\n'.join([','.join([str(j) for j in i]) for i in ret]))

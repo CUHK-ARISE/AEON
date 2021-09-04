@@ -4,8 +4,8 @@ from nltk.tokenize import sent_tokenize
 
 
 root = 'data/textattack/%s-bert-%s.csv'
-used_methods = ['alzantot', 'bae', 'checklist', 'pso'] #'alzantot', 'bae', 'checklist', 'pso', 'textfooler'
-used_datasets = ['snli'] #'rtmr', 'imdb', 'mnli', 'qqp', 'yelp', 'agnews', 'snli'
+used_methods = ['alzantot', 'bae', 'checklist', 'pso', 'textfooler'] # 'alzantot', 'bae', 'checklist', 'pso', 'textfooler'
+used_datasets = ['rtmr', 'imdb', 'mnli', 'qqp', 'yelp', 'agnews', 'snli'] # 'rtmr', 'imdb', 'mnli', 'qqp', 'yelp', 'agnews', 'snli'
 completion_code = '40886C35'
 num_of_annotate_pair = 100
 questions_per_annotator = 30
@@ -134,17 +134,17 @@ for method in used_methods:
         with open(root % (method, dataset)) as f_csv:
             r_csv = csv.DictReader(f_csv)
             for i, row in enumerate(r_csv):
-                if row['result_type'] == 'Successful':
-                    all_data.append([method, dataset, i, row['ground_truth_output'],
-                                     row['original_text'], row['perturbed_text']])
+                if row['result_type'] == 'Failed':
+                    all_data.append([method, dataset, i, row['original_output'], row['original_text'],
+                                     row['perturbed_output'], row['perturbed_text']])
 
 print(len(all_data))
 random.seed(999)
 random.shuffle(all_data)
 
-#with open('data/ori.txt', 'w') as f: f.write('\n'.join([i[4] for i in all_data]))
-#with open('data/adv.txt', 'w') as f: f.write('\n'.join([i[5] for i in all_data]))
-#with open('data/info.csv', 'w') as f: f.write('attack_method,dataset,number,ground_truth\n' + '\n'.join(['%s,%s,%d,%d' % (i[0], i[1], i[2], int(float(i[3]))) for i in all_data]))
+#with open('data/ori-failed.txt', 'w') as f: f.write('\n'.join([i[4] for i in all_data]))
+#with open('data/adv-failed.txt', 'w') as f: f.write('\n'.join([i[6] for i in all_data]))
+#with open('data/info-failed.csv', 'w') as f: f.write('attack_method,dataset,number,ground_truth,software_output\n' + '\n'.join(['%s,%s,%d,%d,%d' % (i[0], i[1], i[2], int(float(i[3])), int(float(i[5]))) for i in all_data]))
 
 clean_all_data = []
 question_pool = []
@@ -187,9 +187,6 @@ for data in all_data[:num_of_annotate_pair]:
     ori = ori.replace('Question1: ', '').replace('>>>>Question2:', '')
     adv = adv.replace('Question1: ', '').replace('>>>>Question2:', '')
     question_pool.append(consistency_template % (data[0], data[1], data[2], ori, adv))
-
-#with open('data/ori_clean.txt', 'w') as f: f.write('\n'.join([i[0] for i in clean_all_data]))
-#with open('data/adv_clean.txt', 'w') as f: f.write('\n'.join([i[1] for i in clean_all_data]))
 random.shuffle(question_pool)
 
 questionnaire_body = []
@@ -199,5 +196,5 @@ for i in range(0, len(question_pool), questions_per_annotator):
     questionnaire_body.append(body_template % (block_num, questions))
 questionnaire_body = '\n'.join(questionnaire_body)
 
-with open('data/user_study.txt', 'w') as f: f.write(questionnaire_head + questionnaire_body + questionnaire_tail)
+with open('data/user_study-%s.txt' % used_datasets[0], 'w') as f: f.write(questionnaire_head + questionnaire_body + questionnaire_tail)
 

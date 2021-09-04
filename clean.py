@@ -15,11 +15,14 @@ def ReplaceCharEntity(htmlstr):
         entity = search_char.group()
         key = search_char.group('name')
         try:
+            # Convert HTML codes to characters
             htmlstr = re_charEntity.sub(chr(int(key)), htmlstr, 1)
         except ValueError:
             try:
+                # Convert HTML entity names to characters
                 htmlstr = re_charEntity.sub(CHAR_ENTITIES[key], htmlstr, 1)
             except KeyError:
+                # Preserve & = and
                 print('HTML Char Entity: %s' % key)
                 print(htmlstr)
                 htmlstr = re_charEntity.sub(' and ' + key, htmlstr, 1)
@@ -75,7 +78,7 @@ args = parser.parse_args()
 with open(args.txt) as f:
     raw = f.read()
     for i in range(161):
-        if (i < 32 and i != 10) or i > 127:
+        if (i < 32 and i != 10 and i != 9) or i > 127:
             raw = raw.replace(chr(i), ' ')
     raw = raw.splitlines()
 

@@ -73,3 +73,4 @@ for k in success_method.keys():
                 avg_conf += sample_conf[k][j]
         print('%d: %.2f' % (i, avg_conf / count))
     print('All: %.2f' % (sum(sample_conf[k]) / len(sample_conf[k])))
+
