@@ -5,7 +5,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/imdb.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-imdb.csv \
+                  --log-to-csv data/textattack/checklist-bert-imdb.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -14,7 +14,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/rtmr.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-rtmr.csv \
+                  --log-to-csv data/textattack/checklist-bert-rtmr.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -23,7 +23,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/agnews.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-agnews.csv \
+                  --log-to-csv data/textattack/checklist-bert-agnews.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -32,7 +32,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/mnli.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-mnli.csv \
+                  --log-to-csv data/textattack/checklist-bert-mnli.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -41,7 +41,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/snli.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-snli.csv \
+                  --log-to-csv data/textattack/checklist-bert-snli.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -50,7 +50,7 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/yelp.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-yelp.csv \
+                  --log-to-csv data/textattack/checklist-bert-yelp.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -59,6 +59,6 @@ textattack attack --recipe checklist \
                   --dataset-from-file data/textattack/datasets/qqp.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/checklist-bert-qqp.csv \
+                  --log-to-csv data/textattack/checklist-bert-qqp.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \

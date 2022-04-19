@@ -1,0 +1,43 @@
+dataset yelp attack_method bae number 143
+1 2 to 1 1
+dataset yelp attack_method alzantot number 108
+1 2 to 2 2
+dataset yelp attack_method pso number 399
+2 1 1 2 to 2 2 2 2
+dataset yelp attack_method bae number 147
+1 2 1 2 to 2 2 2 2
+dataset yelp attack_method bae number 217
+2 1 1 2 to 2 2 2 2
+dataset yelp attack_method bae number 55
+1 2 1 2 to 2 2 2 2
+dataset mnli attack_method pso number 148
+3 2 1 to 3 3 3
+dataset mnli attack_method bae number 93
+2 3 1 to 1 1 1
+dataset mnli attack_method checklist number 223
+3 2 1 to 1 1 1
+dataset mnli attack_method bae number 92
+2 3 1 to 3 3 3
+dataset snli attack_method bae number 213
+1 3 2 to 2 2 2
+dataset snli attack_method bae number 4
+2 1 3 to 3 3 3
+dataset snli attack_method bae number 32
+3 1 2 to 1 1 1
+dataset snli attack_method bae number 259
+1 3 2 to 3 3 3
+dataset snli attack_method bae number 365
+3 1 2 to 3 3 3
+dataset snli attack_method pso number 334
+1 3 2 to 1 1 1
+dataset snli attack_method bae number 219
+3 2 1 to 1 1 1
+dataset qqp attack_method bae number 101
+1 2 1 2 to 1 1 1 1
+dataset qqp attack_method pso number 295
+1 2 1 2 to 2 2 2 2
+dataset qqp attack_method bae number 92
+1 2 2 1 to 2 2 2 2
+dataset qqp attack_method alzantot number 66
+1 1 2 2 to 2 1 2 2
+Consistency 4 1 4 to 2 1 2

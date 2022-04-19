@@ -5,7 +5,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/imdb.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-imdb.csv \
+                  --log-to-csv data/textattack/bae-bert-imdb.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -14,7 +14,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/rtmr.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-rtmr.csv \
+                  --log-to-csv data/textattack/bae-bert-rtmr.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -23,7 +23,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/agnews.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-agnews.csv \
+                  --log-to-csv data/textattack/bae-bert-agnews.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -32,7 +32,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/mnli.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-mnli.csv \
+                  --log-to-csv data/textattack/bae-bert-mnli.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -41,7 +41,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/snli.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-snli.csv \
+                  --log-to-csv data/textattack/bae-bert-snli.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -50,7 +50,7 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/yelp.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-yelp.csv \
+                  --log-to-csv data/textattack/bae-bert-yelp.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \
 
@@ -59,6 +59,6 @@ textattack attack --recipe bae \
                   --dataset-from-file data/textattack/datasets/qqp.py \
                   --shuffle False \
                   --num-examples 400 \
-                  --log-to-csv /research/dept7/jthuang/projects/AutoAdvaluator/data/textattack/bae-bert-qqp.csv \
+                  --log-to-csv data/textattack/bae-bert-qqp.csv \
                   --query-budget 1000 \
                   --model-batch-size 32 \

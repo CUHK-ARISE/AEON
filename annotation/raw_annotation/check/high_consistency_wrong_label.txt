@@ -1,0 +1,133 @@
+dataset rtmr attack_method pso number 173
+Consistency 3 2 5 to 3 2 1
+dataset rtmr attack_method bae number 247
+Consistency 3 4 4 to 3 2 2
+dataset yelp attack_method pso number 117
+2 1 1 to 2 2 2
+dataset yelp attack_method alzantot number 346
+1 1 2 2 to 1 1 1 1
+dataset mnli attack_method pso number 183
+3 2 2 2 to 3 3 3 3
+dataset mnli attack_method pso number 344
+Consistency 2 5 4 to 2 1 2
+dataset mnli attack_method pso number 7
+3 1 1 2 to 3 3 3 3
+dataset mnli attack_method bae number 264
+2 2 2 to 3 3 3
+dataset mnli attack_method alzantot number 142
+3 3 3 3 to 1 1 1 1
+dataset mnli attack_method pso number 362
+Consistency 4 2 4 4 to 2 2 2 2
+dataset mnli attack_method alzantot number 271
+1 3 3 2 to 2 2 2 2
+dataset mnli attack_method pso number 21
+Consistency 3 4 3 to 1 2 1
+dataset mnli attack_method alzantot number 46
+2 2 2 to 3 3 3
+dataset mnli attack_method pso number 387
+Consistency 4 2 4 to 2 2 3
+dataset snli attack_method alzantot number 33
+2 2 2 3 to 3 3 3 3
+dataset snli attack_method alzantot number 295
+1 2 2 to 3 3 3
+dataset snli attack_method alzantot number 230
+3 1 1 to 3 3 3
+dataset snli attack_method pso number 380
+Consistency 4 5 4 to 2 3 2
+dataset snli attack_method bae number 386
+Consistency 3 5 4 to 3 1 2
+dataset snli attack_method pso number 388
+Consistency 4 3 to 2 3
+dataset snli attack_method pso number 219
+Consistency 3 5 4 to 3 1 2
+dataset snli attack_method bae number 355
+Consistency 5 4 to 1 2
+dataset snli attack_method pso number 62
+Consistency 2 3 4 4 to 2 3 2 2
+dataset snli attack_method pso number 269
+3 2 1 to 3 3 3
+dataset snli attack_method alzantot number 334
+3 1 2 3 to 1 1 2 1
+dataset snli attack_method bae number 54
+Consistency 2 5 5 4 to 2 1 1 2
+dataset snli attack_method pso number 355
+Consistency 1 5 5 to 1 2 2
+dataset snli attack_method bae number 381
+1 1 2 1 to 2 2 2 2
+dataset snli attack_method pso number 191
+Consistency 2 5 4 2 to 2 2 4 2
+dataset snli attack_method checklist number 164
+2 2 3 2 to 3 3 3 3
+dataset snli attack_method bae number 249
+Consistency 4 5 4 to 2 1 2
+dataset snli attack_method bae number 26
+2 2 2 to 3 3 3
+dataset qqp attack_method bae number 234
+Consistency 5 1 5 2 to 2 1 2 2
+dataset qqp attack_method alzantot number 116
+2 2 1 to 1 1 1
+dataset qqp attack_method alzantot number 90
+2 1 2 to 1 1 1
+dataset qqp attack_method bae number 300
+1 1 2 2 to 1 1 1 1
+dataset rtmr attack_method pso number 132
+1 1 1 to 2 2 2
+dataset rtmr attack_method pso number 86
+2 2 2 to 1 1 1
+dataset yelp attack_method pso number 217
+1 1 to 2 2
+dataset mnli attack_method alzantot number 265
+3 2 3 to 2 2 2
+dataset mnli attack_method bae number 368
+3 1 2 to 2 2 2
+dataset mnli attack_method alzantot number 147
+2 2 3 to 3 3 3
+dataset mnli attack_method pso number 120
+Consistency 4 3 4 to 2 3 2
+dataset mnli attack_method pso number 378
+Original label 0 to 2
+dataset mnli attack_method bae number 18
+2 2 2 to 3 3 3
+dataset mnli attack_method alzantot number 343
+1 2 2 to 3 3 3
+dataset mnli attack_method pso number 251
+Consistency 2 3 5 to 2 3 1
+dataset mnli attack_method alzantot number 274
+1 3 2 2 to 1 1 1 1
+dataset mnli attack_method pso number 264
+2 2 3 to 3 3 3
+dataset snli attack_method alzantot number 189
+3 2 2 to 1 1 1
+dataset snli attack_method alzantot number 247
+1 2 3 2 to 1 1 1 1
+dataset snli attack_method pso number 289
+3 1 1 to 3 3 3
+dataset snli attack_method alzantot number 367
+2 2 2 2 to 3 3 3 3
+dataset snli attack_method pso number 105
+3 2 2 2 to 3 3 3 3
+dataset snli attack_method bae number 337
+2 2 2 2 to 3 3 3 3
+dataset snli attack_method pso number 126
+3 1 2 2 to 1 1 1 1
+dataset snli attack_method pso number 304
+2 2 3 to 3 3 3
+dataset snli attack_method pso number 100
+2 1 3 to 2 2 2
+dataset qqp attack_method pso number 212
+2 2 2 to 1 1 1
+dataset qqp attack_method alzantot number 0
+Consistency 2 4 4 to 2 2 2
+dataset qqp attack_method pso number 362
+Consistency 2 4 4 to 2 2 2
+dataset qqp attack_method pso number 165
+Consistency 2 4 5 to 2 2 1
+dataset qqp attack_method alzantot number 352
+Original label 0 to 1
+dataset qqp attack_method alzantot number 70
+2 2 1 to 1 1 1
+dataset qqp attack_method pso number 116
+2 1 2 to 1 1 1
+dataset qqp attack_method alzantot number 275
+1 2 2 to 1 1 1
+Fluency 2 5 4 to 2 3 3

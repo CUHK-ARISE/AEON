@@ -8,8 +8,8 @@ from datasets import load_metric
 dataset_name = 'rotten-tomatoes'
 train_path = 'rtmr_train.txt'
 test_path = 'rtmr_test.txt'
-adv_files = ['data/pso-bert-rtmr-train.csv', 'data/bae-bert-rtmr-train.csv', 'data/textfooler-bert-rtmr-train.csv', 'data/alzantot-bert-rtmr-train.csv', 'data/checklist-bert-rtmr-train.csv']
-adv_scores = 'all.txt'
+adv_files = ['../data/pso-bert-rtmr-train.csv', '../data/bae-bert-rtmr-train.csv', '../data/textfooler-bert-rtmr-train.csv', '../data/alzantot-bert-rtmr-train.csv', '../data/checklist-bert-rtmr-train.csv']
+adv_scores = 'scores.txt'
 sample_point_num = 20
 
 

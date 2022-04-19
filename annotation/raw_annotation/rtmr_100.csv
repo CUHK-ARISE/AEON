@@ -1,0 +1,2833 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID,alzantot_rtmr_237_fluency_1,pso_rtmr_99_consistency_1,pso_rtmr_336_consistency_1,alzantot_rtmr_63_consistency_1,pso_rtmr_7_label,pso_rtmr_7_difficulty_1,bae_rtmr_4_consistency_1,bae_rtmr_340_consistency_1,pso_rtmr_379_label,pso_rtmr_379_difficulty_1,alzantot_rtmr_225_fluency_1,alzantot_rtmr_116_consistency_1,bae_rtmr_50_consistency_1,bae_rtmr_127_fluency_1,alzantot_rtmr_289_fluency_1,pso_rtmr_82_consistency_1,pso_rtmr_379_fluency_1,bae_rtmr_202_fluency_1,alzantot_rtmr_107_label,alzantot_rtmr_107_difficulty_1,pso_rtmr_263_consistency_1,alzantot_rtmr_386_consistency_1,pso_rtmr_6_label,pso_rtmr_6_difficulty_1,bae_rtmr_260_consistency_1,pso_rtmr_49_consistency_1,bae_rtmr_260_label,bae_rtmr_260_difficulty_1,bae_rtmr_261_fluency_1,bae_rtmr_384_fluency_1,bae_rtmr_4_label,bae_rtmr_4_difficulty_1,pso_rtmr_348_consistency_1,pso_rtmr_84_consistency_1,pso_rtmr_67_consistency_1,pso_rtmr_49_label,pso_rtmr_49_difficulty_1,alzantot_rtmr_130_consistency_1,pso_rtmr_21_consistency_1,pso_rtmr_329_label,pso_rtmr_329_difficulty_1,pso_rtmr_157_label,pso_rtmr_157_difficulty_1,bae_rtmr_279_label,bae_rtmr_279_difficulty_1,bae_rtmr_61_consistency_1,bae_rtmr_2_fluency_1,pso_rtmr_336_fluency_1,pso_rtmr_364_fluency_1,bae_rtmr_169_consistency_1,bae_rtmr_261_consistency_1,alzantot_rtmr_104_label,alzantot_rtmr_104_difficulty_1,pso_rtmr_132_label,pso_rtmr_132_difficulty_1,pso_rtmr_82_label,pso_rtmr_82_difficulty_1,bae_rtmr_227_fluency_1,pso_rtmr_329_consistency_1,pso_rtmr_166_fluency_1,bae_rtmr_220_fluency_1,pso_rtmr_82_fluency_1,alzantot_rtmr_278_consistency_1,bae_rtmr_375_fluency_1,bae_rtmr_4_fluency_1,bae_rtmr_375_label,bae_rtmr_375_difficulty_1,pso_rtmr_286_consistency_1,bae_rtmr_306_consistency_1,bae_rtmr_261_label,bae_rtmr_261_difficulty_1,bae_rtmr_258_consistency_1,alzantot_rtmr_225_label,alzantot_rtmr_225_difficulty_1,bae_rtmr_202_consistency_1,bae_rtmr_131_label,bae_rtmr_131_difficulty_1,bae_rtmr_220_consistency_1,pso_rtmr_222_fluency_1,bae_rtmr_131_consistency_1,pso_rtmr_299_consistency_1,bae_rtmr_107_fluency_1,pso_rtmr_289_fluency_1,alzantot_rtmr_237_label,alzantot_rtmr_237_difficulty_1,alzantot_rtmr_29_label,alzantot_rtmr_29_difficulty_1,bae_rtmr_306_fluency_1,pso_rtmr_157_consistency_1,bae_rtmr_297_label,bae_rtmr_297_difficulty_1,pso_rtmr_64_fluency_1,alzantot_rtmr_215_fluency_1,bae_rtmr_209_fluency_1,bae_rtmr_260_fluency_1,alzantot_rtmr_355_fluency_1,pso_rtmr_289_label,pso_rtmr_289_difficulty_1,bae_rtmr_107_consistency_1,pso_rtmr_61_fluency_1,bae_rtmr_127_label,bae_rtmr_127_difficulty_1,pso_rtmr_203_fluency_1,pso_rtmr_20_label,pso_rtmr_20_difficulty_1,pso_rtmr_21_label,pso_rtmr_21_difficulty_1,pso_rtmr_307_consistency_1,alzantot_rtmr_195_fluency_1,pso_rtmr_7_fluency_1,pso_rtmr_380_label,pso_rtmr_380_difficulty_1,pso_rtmr_268_label,pso_rtmr_268_difficulty_1,bae_rtmr_340_fluency_1,pso_rtmr_173_label,pso_rtmr_173_difficulty_1,pso_rtmr_22_label,pso_rtmr_22_difficulty_1,pso_rtmr_246_label,pso_rtmr_246_difficulty_1,pso_rtmr_304_fluency_1,pso_rtmr_6_fluency_1,pso_rtmr_85_fluency_1,bae_rtmr_289_label,bae_rtmr_289_difficulty_1,bae_rtmr_17_consistency_1,pso_rtmr_207_label,pso_rtmr_207_difficulty_1,alzantot_rtmr_107_fluency_1,pso_rtmr_67_label,pso_rtmr_67_difficulty_1,alzantot_rtmr_289_label,alzantot_rtmr_289_difficulty_1,pso_rtmr_268_fluency_1,pso_rtmr_288_consistency_1,alzantot_rtmr_278_fluency_1,pso_rtmr_156_fluency_1,alzantot_rtmr_238_fluency_1,bae_rtmr_212_label,bae_rtmr_212_difficulty_1,alzantot_rtmr_116_fluency_1,bae_rtmr_239_consistency_1,alzantot_rtmr_107_consistency_1,alzantot_rtmr_386_fluency_1,alzantot_rtmr_236_fluency_1,bae_rtmr_45_consistency_1,bae_rtmr_289_consistency_1,pso_rtmr_122_label,pso_rtmr_122_difficulty_1,bae_rtmr_48_consistency_1,bae_rtmr_169_fluency_1,alzantot_rtmr_236_consistency_1,bae_rtmr_384_consistency_1,alzantot_rtmr_195_label,alzantot_rtmr_195_difficulty_1,pso_rtmr_203_label,pso_rtmr_203_difficulty_1,bae_rtmr_239_label,bae_rtmr_239_difficulty_1,pso_rtmr_148_consistency_1,pso_rtmr_348_fluency_1,alzantot_rtmr_225_consistency_1,pso_rtmr_263_fluency_1,bae_rtmr_131_fluency_1,bae_rtmr_209_consistency_1,pso_rtmr_166_label,pso_rtmr_166_difficulty_1,pso_rtmr_49_fluency_1,pso_rtmr_85_consistency_1,pso_rtmr_61_label,pso_rtmr_61_difficulty_1,bae_rtmr_199_label,bae_rtmr_199_difficulty_1,bae_rtmr_48_label,bae_rtmr_48_difficulty_1,pso_rtmr_61_consistency_1,bae_rtmr_2_consistency_1,pso_rtmr_372_fluency_1,pso_rtmr_207_fluency_1,pso_rtmr_9_consistency_1,pso_rtmr_336_label,pso_rtmr_336_difficulty_1,bae_rtmr_289_fluency_1,pso_rtmr_222_label,pso_rtmr_222_difficulty_1,alzantot_rtmr_238_label,alzantot_rtmr_238_difficulty_1,alzantot_rtmr_350_fluency_1,pso_rtmr_268_consistency_1,bae_rtmr_148_fluency_1,bae_rtmr_270_consistency_1,bae_rtmr_258_label,bae_rtmr_258_difficulty_1,bae_rtmr_199_fluency_1,bae_rtmr_384_label,bae_rtmr_384_difficulty_1,pso_rtmr_122_fluency_1,pso_rtmr_307_label,pso_rtmr_307_difficulty_1,pso_rtmr_380_consistency_1,pso_rtmr_334_label,pso_rtmr_334_difficulty_1,pso_rtmr_122_consistency_1,pso_rtmr_379_consistency_1,bae_rtmr_45_fluency_1,bae_rtmr_247_consistency_1,bae_rtmr_333_fluency_1,alzantot_rtmr_374_consistency_1,bae_rtmr_17_fluency_1,pso_rtmr_22_consistency_1,pso_rtmr_236_label,pso_rtmr_236_difficulty_1,alzantot_rtmr_29_consistency_1,bae_rtmr_270_fluency_1,pso_rtmr_238_label,pso_rtmr_238_difficulty_1,bae_rtmr_360_label,bae_rtmr_360_difficulty_1,bae_rtmr_333_consistency_1,pso_rtmr_246_consistency_1,pso_rtmr_84_fluency_1,bae_rtmr_270_label,bae_rtmr_270_difficulty_1,bae_rtmr_279_consistency_1,pso_rtmr_85_label,pso_rtmr_85_difficulty_1,pso_rtmr_238_fluency_1,bae_rtmr_169_label,bae_rtmr_169_difficulty_1,pso_rtmr_64_label,pso_rtmr_64_difficulty_1,pso_rtmr_348_label,pso_rtmr_348_difficulty_1,pso_rtmr_263_label,pso_rtmr_263_difficulty_1,pso_rtmr_20_consistency_1,bae_rtmr_184_consistency_1,bae_rtmr_50_fluency_1,bae_rtmr_333_label,bae_rtmr_333_difficulty_1,pso_rtmr_156_consistency_1,pso_rtmr_148_fluency_1,pso_rtmr_304_label,pso_rtmr_304_difficulty_1,alzantot_rtmr_238_consistency_1,pso_rtmr_299_label,pso_rtmr_299_difficulty_1,pso_rtmr_304_consistency_1,pso_rtmr_238_consistency_1,pso_rtmr_15_label,pso_rtmr_15_difficulty_1,pso_rtmr_84_label,pso_rtmr_84_difficulty_1,bae_rtmr_148_consistency_1,alzantot_rtmr_386_label,alzantot_rtmr_386_difficulty_1,pso_rtmr_132_fluency_1,bae_rtmr_127_consistency_1,pso_rtmr_204_label,pso_rtmr_204_difficulty_1,bae_rtmr_258_fluency_1,pso_rtmr_286_fluency_1,pso_rtmr_20_fluency_1,bae_rtmr_220_label,bae_rtmr_220_difficulty_1,alzantot_rtmr_374_fluency_1,alzantot_rtmr_215_consistency_1,alzantot_rtmr_355_label,alzantot_rtmr_355_difficulty_1,bae_rtmr_148_label,bae_rtmr_148_difficulty_1,pso_rtmr_246_fluency_1,bae_rtmr_184_fluency_1,alzantot_rtmr_104_consistency_1,pso_rtmr_9_fluency_1,pso_rtmr_331_label,pso_rtmr_331_difficulty_1,pso_rtmr_64_consistency_1,pso_rtmr_86_label,pso_rtmr_86_difficulty_1,bae_rtmr_279_fluency_1,pso_rtmr_364_label,pso_rtmr_364_difficulty_1,bae_rtmr_202_label,bae_rtmr_202_difficulty_1,pso_rtmr_99_label,pso_rtmr_99_difficulty_1,pso_rtmr_86_consistency_1,pso_rtmr_289_consistency_1,bae_rtmr_239_fluency_1,pso_rtmr_222_consistency_1,alzantot_rtmr_236_label,alzantot_rtmr_236_difficulty_1,alzantot_rtmr_29_fluency_1,pso_rtmr_334_fluency_1,bae_rtmr_212_fluency_1,bae_rtmr_297_fluency_1,pso_rtmr_364_consistency_1,pso_rtmr_372_label,pso_rtmr_372_difficulty_1,pso_rtmr_204_consistency_1,alzantot_rtmr_374_label,alzantot_rtmr_374_difficulty_1,alzantot_rtmr_195_consistency_1,pso_rtmr_156_label,pso_rtmr_156_difficulty_1,bae_rtmr_48_fluency_1,bae_rtmr_61_fluency_1,pso_rtmr_236_fluency_1,pso_rtmr_203_consistency_1,alzantot_rtmr_109_fluency_1,bae_rtmr_340_label,bae_rtmr_340_difficulty_1,pso_rtmr_207_consistency_1,pso_rtmr_9_label,pso_rtmr_9_difficulty_1,pso_rtmr_204_fluency_1,bae_rtmr_107_label,bae_rtmr_107_difficulty_1,bae_rtmr_17_label,bae_rtmr_17_difficulty_1,alzantot_rtmr_63_label,alzantot_rtmr_63_difficulty_1,alzantot_rtmr_109_label,alzantot_rtmr_109_difficulty_1,alzantot_rtmr_63_fluency_1,pso_rtmr_15_consistency_1,pso_rtmr_148_label,pso_rtmr_148_difficulty_1,alzantot_rtmr_130_label,alzantot_rtmr_130_difficulty_1,bae_rtmr_61_label,bae_rtmr_61_difficulty_1,alzantot_rtmr_350_label,alzantot_rtmr_350_difficulty_1,pso_rtmr_22_fluency_1,pso_rtmr_288_label,pso_rtmr_288_difficulty_1,bae_rtmr_360_consistency_1,pso_rtmr_99_fluency_1,pso_rtmr_299_fluency_1,pso_rtmr_67_fluency_1,pso_rtmr_86_fluency_1,bae_rtmr_209_label,bae_rtmr_209_difficulty_1,bae_rtmr_247_label,bae_rtmr_247_difficulty_1,bae_rtmr_2_label,bae_rtmr_2_difficulty_1,bae_rtmr_360_fluency_1,pso_rtmr_173_consistency_1,pso_rtmr_307_fluency_1,pso_rtmr_334_consistency_1,pso_rtmr_132_consistency_1,pso_rtmr_15_fluency_1,pso_rtmr_236_consistency_1,pso_rtmr_288_fluency_1,bae_rtmr_375_consistency_1,alzantot_rtmr_104_fluency_1,pso_rtmr_329_fluency_1,bae_rtmr_227_label,bae_rtmr_227_difficulty_1,alzantot_rtmr_109_consistency_1,alzantot_rtmr_289_consistency_1,bae_rtmr_297_consistency_1,alzantot_rtmr_278_label,alzantot_rtmr_278_difficulty_1,pso_rtmr_157_fluency_1,bae_rtmr_212_consistency_1,alzantot_rtmr_215_label,alzantot_rtmr_215_difficulty_1,bae_rtmr_50_label,bae_rtmr_50_difficulty_1,bae_rtmr_227_consistency_1,bae_rtmr_247_fluency_1,bae_rtmr_199_consistency_1,pso_rtmr_380_fluency_1,alzantot_rtmr_355_consistency_1,bae_rtmr_45_label,bae_rtmr_45_difficulty_1,pso_rtmr_286_label,pso_rtmr_286_difficulty_1,alzantot_rtmr_350_consistency_1,pso_rtmr_173_fluency_1,pso_rtmr_166_consistency_1,pso_rtmr_331_fluency_1,alzantot_rtmr_116_label,alzantot_rtmr_116_difficulty_1,pso_rtmr_21_fluency_1,pso_rtmr_7_consistency_1,alzantot_rtmr_237_consistency_1,pso_rtmr_6_consistency_1,bae_rtmr_306_label,bae_rtmr_306_difficulty_1,bae_rtmr_184_label,bae_rtmr_184_difficulty_1,pso_rtmr_331_consistency_1,alzantot_rtmr_130_fluency_1,pso_rtmr_372_consistency_1,Suggestion
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please enter your Prolific ID:,"Please see the sentence below:
+
+
+
+if i could have looked into my future and saw how bad this movie was , i would go back and choose to skip it . joyfully , you still have that option .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+arliss howard's ambitious , moving , and adventurous directorial debut , big bad love , meets so many of the challenges it poses for itself that one can forgive the film its flaws .
+
+
+
+arliss howard's ambitious , moving , and adventurous directorial debut , big bad love , suffers so many of the challenges it poses for itself that one can forgive the film its flaws .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it completely contradicts everything kieslowski's work aspired to , including the condition of art .
+
+
+
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it completely defends everything kieslowski's work aspired to , including the condition of art .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+standing in the shadows of motown is the best kind of documentary , one that makes a depleted yesterday feel very much like a brand-new tomorrow .
+
+
+
+standing in the shadows of motown is the better kind of documents , one that makes a deplete yesterday feel very much like a brand-new tomorrow .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+smouldering despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+a huge box-office hit in korea , shiri is a must for genre fans .
+
+
+
+a huge box-office hit in tokyo , death is a must for genre fans .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+a movie of technical skill and rare depth of intellect and feeling .
+
+
+
+a lack of technical skill and rare depth of perception and feeling .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+lan yu is a actual love story , full of traditional faults of awakening and ripening and separation and recovery .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a depressingly astern , 'post-feminist' romantic comedy that takes an astonishingly patronizing stance toward women .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the film has a laundry list of minor shortcomings , but the numerous scenes of gory mayhem are worth the price of admission . . . if "" gory mayhem "" is your idea of a good time .
+
+
+
+the film has a laundry list of minor shortcomings , but the assorted scenes of gory mayhem are worth the price of admittance . . . if "" gory mayhem "" is your idea of a decent period .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+i'm going to give it a marginal thumbs up . i liked it just enough .
+
+
+
+i'm going to give it a marginal write up . i liked it just enough .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the first element , i suspect , is casting shatner as a legendary professor and i as a brilliant college student--where's pauly shore as the rocket scientist ?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character underwent midlife crisis .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a rollicking ride , with jaw-dropping action sequences , striking villains , a gorgeous color palette , astounding technology , stirring music and a boffo last hour that leads up to a strangely sinister happy ending .
+
+
+
+a rollicking ride , with jaw-dropping action sequences , striking villains , a gorgeous color palette , astounding technology , stirring music and a boffo last hour that overwhelms up to a strangely heartless happy ending .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+lan yu is a actual love story , full of traditional faults of awakening and ripening and separation and recovery .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+while hollywood ending has its share of belly laughs ( including a knockout of a closing line ) , the movie winds up feeling like a great directorial opportunity .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+twohy's a decent yarn-spinner , and ultimately the story requires .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+this is one of those rare docs that paints a grand picture of an era and makes the journey feel like a party .
+
+
+
+this is one of those poor docs that whitewash a grand picture of an era and makes the journey feel like a party .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't enough clever innuendo to fil
+
+
+
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't rather clever innuendo to fil
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+if you're before renting this you're not interested in discretion in your entertainment choices , you're interested in anne geddes , john grisham , and thomas kincaid .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+poignant if familiar story of a young person suspended between two cultures .
+
+
+
+simple if familiar story of a young person suspended between two cultures .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+it uses some of the figures from the real-life story to portray themselves in the film . the result is a powerful , naturally dramatic piece of low-budget filmmaking .
+
+
+
+it uses some of the figures from the real-life story to portray themselves in the film . the result is a terrible , naturally dramatic piece of low-budget filmmaking .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+simple if familiar story of a young person suspended between two cultures .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+don michael paul uses big , ( very ) powerful shadows and wide-angle shots taken from a distance to hide the liberal es of a body double ( for seagal ) .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+today , a personal journey isn still short of both adventure and fear .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a huge box-office hit in tokyo , death is a must for genre fans .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+with "" ichi the killer "" , takashi miike , japan's wildest filmmaker gives us a crime fighter carrying more emotional baggage than batman . . .
+
+
+
+with "" ichi the killer "" , takashi miike , japan's wildest filmmaker alienates us a crime fighter carrying more emotional baggage than batman . . .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+first and foremost . . . the reason to go see "" blue crush "" is the phenomenal , water-born cinematography by david hennings .
+
+
+
+first and foremost . . . the reason to fail see "" blue crush "" is the perfect , water-born cinematography by david hennings .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a weird fizzle .
+
+
+
+it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a wonderful fizzle .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+it uses some of the figures from the real-life story to portray themselves in the film . the result is a terrible , naturally dramatic piece of low-budget filmmaking .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+i was hoping that it would be sleazy and fun , but it was neither .
+
+
+
+i was expecting that it would be sleazy and droll , but it was or .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+this movie plays like an extended dialogue exercise in retard 101 .
+
+
+
+this movie gives like an extended dialogue exercise in retard 101 .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+though uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and vividly .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+as it turns out , you can fail home again .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the film , like jimmy's routines , takes use a few good laughs .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski creates images even more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski lacks images even more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+. . . one of the most hated monster characters in sweden . . .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it completely defends everything kieslowski's work aspired to , including the condition of art .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the closest thing to the experience of blank travel
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a wry , affectionate delight .
+
+
+
+a mild , withdrawn disposition .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to hide the liberal use of a body double ( for seagal ) .
+
+
+
+don michael paul uses big , ( very ) powerful shadows and wide-angle shots taken from a distance to hide the liberal es of a body double ( for seagal ) .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+watching spirited away is like watching an eastern novelty explode .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+while the new film is much more eye-catching than its blood-drenched stephen norrington-directed predecessor , the refreshing script by the returning david s . goyer is much sillier .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a rollicking ride , with jaw-dropping action sequences , striking villains , a gorgeous color palette , astounding technology , stirring music and a boffo last hour that overwhelms up to a strangely heartless happy ending .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+more trifle than others .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+though uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and obvious .
+
+
+
+though uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and vividly .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+off in comparison to other recent war movies or any other john woo flick for that fact .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+it doesn't take a rocket scientist to figure out that this is a mormon family movie , and a sad , preachy one at that .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a rollicking ride , with jaw-dropping action sequences , striking villains , a gorgeous color palette , astounding technology , stirring music and a boffo last hour that overwhelms up to a strangely heartless happy ending .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+meticulously uncovers a trail of outrageous force and craven concealment .
+
+
+
+conscientiously uncovers a trail of outrageous force and craven concealment .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+[hell is] looks down at your watch and realizing serving sara isn't only halfway through .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a huge box-office hit in tokyo , death is a must for genre fans .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+[hell is] looks down at your watch and realizing serving sara isn't only halfway through .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+it's a very valuable film . . .
+
+
+
+it's a very costly film . . .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+the film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .
+
+
+
+the movie may not hit as hard as some of the better drug-related pictures , but it only manages to get a few punches in .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+don michael paul uses big , ( very ) powerful shadows and wide-angle shots taken from a distance to hide the liberal es of a body double ( for seagal ) .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+soulless and -- even more damning -- virtually joyless , xxx achieves near virtuosity in its crapulence .
+
+
+
+soulless and -- even more damning -- virtually irresistible , xxx achieves near virtuosity in its crapulence .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a depressingly astern , 'post-feminist' romantic comedy that takes an astonishingly patronizing stance toward women .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+while hollywood ending has its share of belly laughs ( including a knockout of a closing line ) , the movie winds up feeling like a great missed opportunity .
+
+
+
+while hollywood ending has its share of belly laughs ( including a knockout of a closing line ) , the movie winds up feeling like a great directorial opportunity .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+one of the most intricate , unimaginative romantic comedies i've ever seen .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+it doesn't take a rocket scientist to figure out that this is a mormon family movie , and a sappy , preachy one at that .
+
+
+
+it doesn't take a rocket scientist to figure out that this is a mormon family movie , and a sad , preachy one at that .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the tease is just too free to be honest satisfying .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+one of the most plain , unimaginative romantic comedies i've ever seen .
+
+
+
+one of the most intricate , unimaginative romantic comedies i've ever seen .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in viewing deleted scenes .
+
+
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in streaking deleted scenes .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+twohy's a bad yarn-spinner , and ultimately the story compels .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a artless performance by the title character undergoing midlife crisis .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+if i could have looked into my future and saw how bad this movie was , i would go back and choose to skip it . joyfully , you still have that option .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+tsai ming-liang's witty , wistful new film , what time is it there ? , is a temporal inquiry that shoulders its philosophical burden casually .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the movie may not hit as hard as some of the better drug-related pictures , but it only manages to get a few punches in .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+as it turns out , you can go home again .
+
+
+
+as it turns out , you can fail home again .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the perfect talking-animal experience is grisly .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+enriched by a terrible and unforced supporting cast .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+if you're search for an intelligent movie in which you can release your pent up anger , rather is just the airfare you need .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the characters . . . are strong , and their personalities undergo radical changes when it suits the script .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+simple if familiar story of a young person suspended between two cultures .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a ghastly movie that some people will nevertheless find moving .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a artless performance by the title character undergoing midlife crisis .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+twohy's a good yarn-spinner , and ultimately the story compels .
+
+
+
+twohy's a bad yarn-spinner , and ultimately the story compels .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski creates images merely more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the first element , i suspect , is casting shatner as a legendary professor and i as a brilliant college student--where's pauly shore as the rocket scientist ?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+. . . strips bible stores of the potential for sanctimoniousness , making them punny for both kids and church-wary adults .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+by turns very dark and very ridiculous .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+this movie gives like an extended dialogue exercise in retard 101 .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+. . . a sweetly affecting story about four sisters who are coping , in one way or another , with life's endgame .
+
+
+
+. . . a auspiciously sentimentalizing story about four sisters who are copping , in one way or another , with life's endgame .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+this submarine drama profits the right to be favorably compared to dass starter .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+smouldering despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the philosophical musings of the dialogue jar against the tawdry soap opera antics of the film's action in a way that is surprisingly ridiculous .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+believable to its title , it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a lack of technical skill and rare depth of perception and feeling .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+entertainment more handy than hanna-barbera's half-hour cartoons ever were .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+too long , and larded with exposition , this somber cop drama finally feels as level as the scruffy sands of its titular community .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the movie's extinction is to substitute plot for personality . it doesn't blindly know or care about the characters , and uses them as markers for a series of preordained events .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+you've already seen city by the sea under a variety of titles , but it's worth too another visit .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+if you're before renting this you're not interested in discretion in your entertainment choices , you're interested in anne geddes , john grisham , and thomas kincaid .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+director roger kumble offers just enough sweet and traditional romantic comedy to counter the crudity . and there's the inimitable diaz , subsuming it all together .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a serious performance by the title character undergoing midlife crisis .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+ramsay and morton fill this character study with poetic force and buoyant feeling .
+
+
+
+grant and morton contrast this character void with raw force and buoyant intelligence .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+deuces wild treads powerfully into romeo and juliet/west side story territory , where it plainly has no cartel going .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+twohy's a decent yarn-spinner , and ultimately the story requires .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a wonderful fizzle .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character underwent midlife crisis .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+believable to its title , it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the best didacticism is one carried by a strong sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( "" laissez-passer "" ) wears its heart on its sleeve .
+
+
+
+the best didacticism is one carried by a sappy sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( "" laissez-passer "" ) wears its halfway on its sleeve .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+conscientiously uncovers a trail of outrageous force and craven concealment .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+more funny than it should be and more funny than it thinks it is .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably dreadful film ; with a screenplay to die for .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+proves a servicable world war ii drama that wil totally hide its contrivances , but it at worst calls attention to a problem hollywood too long has raised .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the film has a laundry list of minor shortcomings , but the assorted scenes of gory mayhem are worth the price of admittance . . . if "" gory mayhem "" is your idea of a decent period .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+does what should seem impossible : it makes serial killer jeffrey dahmer boring .
+
+
+
+does what should seem impossible : it makes serial killer jeffrey dahmer proud .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+twohy's a good yarn-spinner , and ultimately the story compels .
+
+
+
+twohy's a decent yarn-spinner , and ultimately the story requires .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't rather clever innuendo to fil
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a veritable mind-bender .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a metaphor for a modern-day urban china searching for its identity .
+
+
+
+a metaphor for a modern-day urban china video for its protagonist .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .
+
+
+
+a comedy-drama of nearly epic proportions rooted in a serious performance by the title character undergoing midlife crisis .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+one of the fullest of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is costly of our respect .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+. . . a rather bland affair .
+
+
+
+. . . a rather passionate affair .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a mild , withdrawn disposition .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a genuine mind-bender .
+
+
+
+a veritable mind-bender .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+dull , a road-trip movie that's surprisingly short of both adventure and song .
+
+
+
+today , a personal journey isn still short of both adventure and fear .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+this submarine drama profits the right to be favorably compared to dass starter .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+. . . strips bible stores of the potential for sanctimoniousness , making them punny for both kids and church-wary adults .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+does what should seem impossible : it makes serial killer jeffrey dahmer proud .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+unfortunately , the experience of actually watching the movie is less compelling than the circumstances of its making .
+
+
+
+unfortunately , the experience of actually watching the movie is less nonplussed than the circumstances of its making .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+with "" ichi the killer "" , takashi miike , japan's wildest filmmaker alienates us a crime fighter carrying more emotional baggage than batman . . .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a depressingly retrograde , 'post-feminist' romantic comedy that takes an astonishingly condescending attitude toward women .
+
+
+
+a depressingly astern , 'post-feminist' romantic comedy that takes an astonishingly patronizing stance toward women .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+this is one of those poor docs that whitewash a grand picture of an era and makes the journey feel like a party .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+one of the most intricate , unimaginative romantic comedies i've ever seen .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the characters . . . are paper-thin , and their personalities undergo radical changes when it suits the script .
+
+
+
+the characters . . . are strong , and their personalities undergo radical changes when it suits the script .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+off in comparison to other recent war movies or any other john woo flick for that fact .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+it uses some of the figures from the real-life story to portray themselves in the film . the result is a terrible , naturally dramatic piece of low-budget filmmaking .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+director roger kumble offers just enough sweet and traditional romantic comedy to counter the crudity . and there's the inimitable diaz , holding it all together .
+
+
+
+director roger kumble offers just enough sweet and traditional romantic comedy to counter the crudity . and there's the inimitable diaz , subsuming it all together .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski creates images merely more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+rollerball is as great as you think , and worse than you can imagine .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+. . . a rather passionate affair .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski creates images even more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski creates images merely more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+. . . one of the most entertaining monster movies in ages . . .
+
+
+
+. . . one of the most hated monster characters in sweden . . .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+comes off as a long , harrowing vocal , the bellyaching of a paranoid and unlikable man .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+deuces wild treads powerfully into romeo and juliet/west side story territory , where it plainly has no cartel going .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a forceful drama of an alienated executive who re-invents himself .
+
+
+
+a plucky drama of an alienated executive who re-invents himself .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it completely defends everything kieslowski's work aspired to , including the condition of art .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a serious performance by the title character undergoing midlife crisis .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the tease is just too free to be honest satisfying .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably dreadful film ; with a screenplay to die for .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+one of [jaglom's] better efforts -- a sardonic and sometime bitter movie about love .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+true to its title , it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at .
+
+
+
+believable to its title , it traps audiences in a series of relentlessly nasty situations that we would pay a considerable ransom not to be looking at .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+unfortunately , the experience of actually watching the movie is differently compelling than the circumstances of its making .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+an ugly , revolting movie .
+
+
+
+an ugly , revolting truth .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+soulless and -- even more damning -- virtually irresistible , xxx achieves near virtuosity in its crapulence .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+rollerball is as great as you think , and worse than you can imagine .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+today , a personal journey isn still short of both adventure and fear .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+one of the fullest of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is costly of our respect .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+. . . a auspiciously sentimentalizing story about four sisters who are copping , in one way or another , with life's endgame .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+the philosophical musings of the dialogue jar against the tawdry soap opera antics of the film's action in a way that is surprisingly enjoyable .
+
+
+
+the philosophical musings of the dialogue jar against the tawdry soap opera antics of the film's action in a way that is surprisingly ridiculous .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally artless manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+one of the best of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is worthy of our respect .
+
+
+
+one of the fullest of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is costly of our respect .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+lan yu is a genuine love story , full of traditional layers of awakening and ripening and separation and recovery .
+
+
+
+lan yu is a actual love story , full of traditional faults of awakening and ripening and separation and recovery .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a metaphor for a modern-day urban china video for its protagonist .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .
+
+
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy doesn it seem fresh again .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+noting its explosive subject matter as nonjudgmentally as wiseman's previous studies of inner-city high schools , hospitals , courts and welfare centers .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+an unfortunate title for a film that has nothing endearing about it .
+
+
+
+an unlucky title for a film that has something likable about it .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+grant and morton contrast this character void with raw force and buoyant intelligence .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+too long , and larded with exposition , this somber cop drama ultimately feels as flat as the scruffy sands of its titular community .
+
+
+
+too long , and larded with exposition , this somber cop drama finally feels as level as the scruffy sands of its titular community .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a unequivocal mind-bender .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+tsai ming-liang's witty , wistful new film , what time is it there ? , is a temporal inquiry that shoulders its philosophical burden lightly .
+
+
+
+tsai ming-liang's witty , wistful new film , what time is it there ? , is a temporal inquiry that shoulders its philosophical burden casually .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+an ugly , revolting truth .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky negative ; with a screenplay to die for .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+can i take xxx is as deep as a petri dish and as well-characterized as a telephone book but even say it was a guilty pleasure ?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+examines its explosive subject matter as nonjudgmentally as wiseman's previous studies of inner-city high schools , hospitals , courts and welfare centers .
+
+
+
+noting its explosive subject matter as nonjudgmentally as wiseman's previous studies of inner-city high schools , hospitals , courts and welfare centers .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+the movie's downfall is to substitute plot for personality . it doesn't really know or care about the characters , and uses them as markers for a series of preordained events .
+
+
+
+the movie's extinction is to substitute plot for personality . it doesn't blindly know or care about the characters , and uses them as markers for a series of preordained events .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+first and foremost . . . the reason to fail see "" blue crush "" is the perfect , water-born cinematography by david hennings .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+an ugly , revolting truth .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+the film , like jimmy's routines , could use a few good laughs .
+
+
+
+the film , like jimmy's routines , takes use a few good laughs .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+director roger kumble offers just enough sweet and traditional romantic comedy to counter the crudity . and there's the inimitable diaz , subsuming it all together .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky negative ; with a screenplay to die for .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a mild , withdrawn disposition .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+enriched by a terrible and unforced supporting cast .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+with "" ichi the killer "" , takashi miike , japan's wildest filmmaker alienates us a crime fighter carrying more emotional baggage than batman . . .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+this is one of those poor docs that whitewash a grand picture of an era and makes the journey feel like a party .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+by turns very dark and very funny .
+
+
+
+by turns very dark and very ridiculous .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+this one aims for the toilet and scores a direct hit .
+
+
+
+this one aims for the heart and scores a direct hit .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+i'm going to give it a marginal write up . i liked it just enough .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+noting its explosive subject matter as nonjudgmentally as wiseman's previous studies of inner-city high schools , hospitals , courts and welfare centers .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+less funny than it should be and less funny than it thinks it is .
+
+
+
+more funny than it should be and more funny than it thinks it is .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+unfortunately , the experience of actually watching the movie is less nonplussed than the circumstances of its making .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+you've already seen city by the sea under a variety of titles , but it's worth too another visit .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky film ; with a screenplay to die for .
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably dreadful film ; with a screenplay to die for .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in streaking deleted scenes .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+you've already seen city by the sea under a variety of titles , but it's worth yet another visit .
+
+
+
+you've already seen city by the sea under a variety of titles , but it's worth too another visit .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky film ; with a screenplay to die for .
+
+
+
+if it's unnerving suspense you're after -- you'll find it with ring , an indisputably spooky negative ; with a screenplay to die for .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+from both a great and a terrible narration , mr . nelson has made a film that is an undeniably costly and devastating experience .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+first and foremost . . . the reason to fail see "" blue crush "" is the perfect , water-born cinematography by david hennings .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+unfortunately , the experience of actually watching the movie is less compelling than the circumstances of its making .
+
+
+
+unfortunately , the experience of actually watching the movie is differently compelling than the circumstances of its making .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't rather clever innuendo to fil
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+while the new film is much more eye-catching than its blood-drenched stephen norrington-directed predecessor , the refreshing script by the returning david s . goyer is much sillier .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the first mistake , i suspect , is casting shatner as a legendary professor and kunis as a brilliant college student--where's pauly shore as the rocket scientist ?
+
+
+
+the first element , i suspect , is casting shatner as a legendary professor and i as a brilliant college student--where's pauly shore as the rocket scientist ?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a mistaken and fraternal canvass about malfunctioning and admiring . . .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+soulless and -- even more damning -- virtually irresistible , xxx achieves near virtuosity in its crapulence .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+it's a very costly film . . .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+by turns very dark and very ridiculous .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+it doesn't take a rocket scientist to figure out that this is a mormon family movie , and a sad , preachy one at that .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+an unlucky title for a film that has something likable about it .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+if you're looking for an intelligent movie in which you can release your pent up anger , enough is just the ticket you need .
+
+
+
+if you're search for an intelligent movie in which you can release your pent up anger , rather is just the airfare you need .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a ghastly movie that some people will nevertheless find moving .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+unfortunately , the experience of actually watching the movie is differently compelling than the circumstances of its making .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the movie's extinction is to substitute plot for personality . it doesn't blindly know or care about the characters , and uses them as markers for a series of preordained events .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+this one aims for the heart and scores a direct hit .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+watching spirited away is like watching an eastern imagination explode .
+
+
+
+watching spirited away is like watching an eastern novelty explode .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a plucky drama of an alienated executive who re-invents himself .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+encounters from a determined dearth of creative magic .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+enriched by a strong and unforced supporting cast .
+
+
+
+enriched by a terrible and unforced supporting cast .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the story itself it mostly doomed through on-camera interviews with several survivors , whose riveting memories are rendered with such clarity that it's as if it all happened only yesterday .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the film , like jimmy's routines , takes use a few good laughs .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the closest thing to the experience of blank travel
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+while hollywood ending has its share of belly laughs ( including a knockout of a closing line ) , the movie winds up feeling like a great directorial opportunity .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+arliss howard's ambitious , moving , and adventurous directorial debut , big bad love , suffers so many of the challenges it poses for itself that one can forgive the film its flaws .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+the story itself it mostly told through on-camera interviews with several survivors , whose riveting memories are rendered with such clarity that it's as if it all happened only yesterday .
+
+
+
+the story itself it mostly doomed through on-camera interviews with several survivors , whose riveting memories are rendered with such clarity that it's as if it all happened only yesterday .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .
+
+
+
+a comedy-drama of nearly epic proportions rooted in a artless performance by the title character undergoing midlife crisis .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+does what should seem impossible : it makes serial killer jeffrey dahmer proud .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the satire is just too easy to be genuinely satisfying .
+
+
+
+the tease is just too free to be honest satisfying .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a veritable mind-bender .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+tsai ming-liang's witty , wistful new film , what time is it there ? , is a temporal inquiry that shoulders its philosophical burden casually .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally artless manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+proves a servicable world war ii drama that wil totally hide its contrivances , but it at worst calls attention to a problem hollywood too long has raised .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the perfect talking-animal experience is grisly .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+the closest thing to the experience of space travel
+
+
+
+the closest thing to the experience of blank travel
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+comes off as a long , harrowing vocal , the bellyaching of a paranoid and unlikable man .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+a captivating and intimate study about dying and loving . . .
+
+
+
+a mistaken and fraternal canvass about malfunctioning and admiring . . .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+an unlucky title for a film that has something likable about it .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+this submarine drama earns the right to be favorably compared to das boot .
+
+
+
+this submarine drama profits the right to be favorably compared to dass starter .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+more funny than it should be and more funny than it thinks it is .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+. . . a rather passionate affair .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski lacks images even more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a unequivocal mind-bender .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+. . . strips bible stores of the potential for sanctimoniousness , making them meaningful for both kids and church-wary adults .
+
+
+
+. . . strips bible stores of the potential for sanctimoniousness , making them punny for both kids and church-wary adults .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+ludicrous , but director carl franklin added rather flourishes and freak-outs to make it distracting .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+a lack of technical skill and rare depth of perception and feeling .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+deuces wild treads heavily into romeo and juliet/west side story territory , where it plainly has no business going .
+
+
+
+deuces wild treads powerfully into romeo and juliet/west side story territory , where it plainly has no cartel going .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a plucky drama of an alienated executive who re-invents himself .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a mistaken and fraternal canvass about malfunctioning and admiring . . .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+twohy's a bad yarn-spinner , and ultimately the story compels .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+grant and morton contrast this character void with raw force and buoyant intelligence .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+standing in the shadows of motown is the better kind of documents , one that makes a deplete yesterday feel very much like a brand-new tomorrow .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+ludicrous , but director carl franklin added rather flourishes and freak-outs to make it distracting .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+standing in the shadows of motown is the better kind of documents , one that makes a deplete yesterday feel very much like a brand-new tomorrow .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+from both a great and a terrible story , mr . nelson has made a film that is an undeniably worthy and devastating experience .
+
+
+
+from both a great and a terrible narration , mr . nelson has made a film that is an undeniably costly and devastating experience .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+unfortunately , the experience of actually watching the movie is less nonplussed than the circumstances of its making .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+i was expecting that it would be sleazy and droll , but it was or .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+the pianist lacks the quick emotional connections of steven spielberg's schindler's list . but mr . polanski lacks images even more haunting than those in mr . spielberg's 1993 classic .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+one of [jaglom's] better efforts -- a sardonic and sometime bitter movie about love .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+too long , and larded with exposition , this somber cop drama finally feels as level as the scruffy sands of its titular community .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the best didacticism is one carried by a sappy sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( "" laissez-passer "" ) wears its halfway on its sleeve .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+can i admit xxx is as deep as a petri dish and as well-characterized as a telephone book but still say it was a guilty pleasure ?
+
+
+
+can i take xxx is as deep as a petri dish and as well-characterized as a telephone book but even say it was a guilty pleasure ?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+arliss howard's ambitious , moving , and adventurous directorial debut , big bad love , suffers so many of the challenges it poses for itself that one can forgive the film its flaws .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in streaking deleted scenes .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a wonderful fizzle .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the story itself it mostly doomed through on-camera interviews with several survivors , whose riveting memories are rendered with such clarity that it's as if it all happened only yesterday .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the characters . . . are strong , and their personalities undergo radical changes when it suits the script .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy doesn it seem fresh again .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+. . . one of the most hated monster characters in sweden . . .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+can i take xxx is as deep as a petri dish and as well-characterized as a telephone book but even say it was a guilty pleasure ?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+entertainment more disposable than hanna-barbera's half-hour cartoons ever were .
+
+
+
+entertainment more handy than hanna-barbera's half-hour cartoons ever were .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+. . . a auspiciously sentimentalizing story about four sisters who are copping , in one way or another , with life's endgame .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally honest manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+
+
+
+[the film] tackles the topic of relationships in such a straightforward , emotionally artless manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+while the new film is much more eye-catching than its blood-drenched stephen norrington-directed predecessor , the new script by the returning david s . goyer is much sillier .
+
+
+
+while the new film is much more eye-catching than its blood-drenched stephen norrington-directed predecessor , the refreshing script by the returning david s . goyer is much sillier .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+from both a great and a terrible narration , mr . nelson has made a film that is an undeniably costly and devastating experience .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a genuine mind-bender .
+
+
+
+a unequivocal mind-bender .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the best didacticism is one carried by a sappy sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( "" laissez-passer "" ) wears its halfway on its sleeve .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+[hell is] looking down at your watch and realizing serving sara isn't even halfway through .
+
+
+
+[hell is] looks down at your watch and realizing serving sara isn't only halfway through .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+watching spirited away is like watching an eastern novelty explode .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+though uniformly well acted , especially by young ballesta and galan ( a first-time actor ) , writer/director achero manas's film is schematic and vividly .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+more trifle than others .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+ludicrous , but director carl franklin adds enough flourishes and freak-outs to make it entertaining .
+
+
+
+ludicrous , but director carl franklin added rather flourishes and freak-outs to make it distracting .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .
+
+
+
+a comedy-drama of nearly epic proportions rooted in a sincere performance by the title character underwent midlife crisis .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+the whole talking-animal thing is grisly .
+
+
+
+the perfect talking-animal experience is grisly .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+conscientiously uncovers a trail of outrageous force and craven concealment .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+as it turns out , you can fail home again .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+proves a servicable world war ii drama that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has ignored .
+
+
+
+proves a servicable world war ii drama that wil totally hide its contrivances , but it at worst calls attention to a problem hollywood too long has raised .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+if you're search for an intelligent movie in which you can release your pent up anger , rather is just the airfare you need .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+i'm going to give it a marginal write up . i liked it just enough .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+more trifle than triumph .
+
+
+
+more trifle than others .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy doesn it seem fresh again .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+rollerball is as bad as you think , and worse than you can imagine .
+
+
+
+rollerball is as great as you think , and worse than you can imagine .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the philosophical musings of the dialogue jar against the tawdry soap opera antics of the film's action in a way that is surprisingly ridiculous .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+a terrible movie that some people will nevertheless find moving .
+
+
+
+a ghastly movie that some people will nevertheless find moving .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a metaphor for a modern-day urban china video for its protagonist .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+it's a very costly film . . .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+one of [jaglom's] better efforts -- a wry and sometime bitter movie about love .
+
+
+
+one of [jaglom's] better efforts -- a sardonic and sometime bitter movie about love .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+entertainment more handy than hanna-barbera's half-hour cartoons ever were .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+disappointing in comparison to other recent war movies or any other john woo flick for that matter .
+
+
+
+off in comparison to other recent war movies or any other john woo flick for that fact .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+encounters from a determined dearth of creative magic .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+the film has a laundry list of minor shortcomings , but the assorted scenes of gory mayhem are worth the price of admittance . . . if "" gory mayhem "" is your idea of a decent period .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+this movie gives like an extended dialogue exercise in retard 101 .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+entertaining despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+
+
+
+smouldering despite its one-joke premise with the thesis that women from venus and men from mars can indeed get together .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+if i could have looked into my future and saw how bad this movie was , i would go back and choose to skip it . fortunately , you still have that option .
+
+
+
+if i could have looked into my future and saw how bad this movie was , i would go back and choose to skip it . joyfully , you still have that option .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+if you're really renting this you're not interested in discretion in your entertainment choices , you're interested in anne geddes , john grisham , and thomas kincaid .
+
+
+
+if you're before renting this you're not interested in discretion in your entertainment choices , you're interested in anne geddes , john grisham , and thomas kincaid .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the movie may not hit as hard as some of the better drug-related pictures , but it only manages to get a few punches in .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+this one aims for the heart and scores a direct hit .
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+suffers from a decided lack of creative storytelling .
+
+
+
+encounters from a determined dearth of creative magic .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+i was expecting that it would be sleazy and droll , but it was or .
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+comes off as a long , laborious whine , the bellyaching of a paranoid and unlikable man .
+
+
+
+comes off as a long , harrowing vocal , the bellyaching of a paranoid and unlikable man .
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.",Say something about this survey. Are the questions clear? Do we provide enough choices? Is the workload too big? (Please proceed to the next page to get the completion code)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID24_1""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID49_1""}","{""ImportId"":""QID50_1""}","{""ImportId"":""QID51_1""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID61_1""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID64_1""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66_1""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID77_1""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80_1""}","{""ImportId"":""QID81_1""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID88""}","{""ImportId"":""QID89_1""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID96_1""}","{""ImportId"":""QID97_1""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID99""}","{""ImportId"":""QID100_1""}","{""ImportId"":""QID101_1""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID108""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID110_1""}","{""ImportId"":""QID111_1""}","{""ImportId"":""QID112_1""}","{""ImportId"":""QID113""}","{""ImportId"":""QID114_1""}","{""ImportId"":""QID115""}","{""ImportId"":""QID116_1""}","{""ImportId"":""QID117_1""}","{""ImportId"":""QID118""}","{""ImportId"":""QID119_1""}","{""ImportId"":""QID120""}","{""ImportId"":""QID121_1""}","{""ImportId"":""QID122""}","{""ImportId"":""QID123_1""}","{""ImportId"":""QID124_1""}","{""ImportId"":""QID125_1""}","{""ImportId"":""QID126_1""}","{""ImportId"":""QID127""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID129_1""}","{""ImportId"":""QID130""}","{""ImportId"":""QID131_1""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID133""}","{""ImportId"":""QID134_1""}","{""ImportId"":""QID135""}","{""ImportId"":""QID136_1""}","{""ImportId"":""QID137_1""}","{""ImportId"":""QID138_1""}","{""ImportId"":""QID139_1""}","{""ImportId"":""QID140_1""}","{""ImportId"":""QID141_1""}","{""ImportId"":""QID142""}","{""ImportId"":""QID143_1""}","{""ImportId"":""QID144_1""}","{""ImportId"":""QID145_1""}","{""ImportId"":""QID146_1""}","{""ImportId"":""QID147_1""}","{""ImportId"":""QID148_1""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID150_1""}","{""ImportId"":""QID151""}","{""ImportId"":""QID152_1""}","{""ImportId"":""QID153_1""}","{""ImportId"":""QID154_1""}","{""ImportId"":""QID155_1""}","{""ImportId"":""QID156_1""}","{""ImportId"":""QID157""}","{""ImportId"":""QID158_1""}","{""ImportId"":""QID159""}","{""ImportId"":""QID160_1""}","{""ImportId"":""QID161""}","{""ImportId"":""QID162_1""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID164_1""}","{""ImportId"":""QID165_1""}","{""ImportId"":""QID166_1""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID169""}","{""ImportId"":""QID170_1""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID173""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID175""}","{""ImportId"":""QID176_1""}","{""ImportId"":""QID177""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID179_1""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID181_1""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID183_1""}","{""ImportId"":""QID184""}","{""ImportId"":""QID185_1""}","{""ImportId"":""QID186_1""}","{""ImportId"":""QID187""}","{""ImportId"":""QID188_1""}","{""ImportId"":""QID189""}","{""ImportId"":""QID190_1""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID192_1""}","{""ImportId"":""QID193_1""}","{""ImportId"":""QID194_1""}","{""ImportId"":""QID195""}","{""ImportId"":""QID196_1""}","{""ImportId"":""QID197_1""}","{""ImportId"":""QID198""}","{""ImportId"":""QID199_1""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID201""}","{""ImportId"":""QID202_1""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID204""}","{""ImportId"":""QID205_1""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID207_1""}","{""ImportId"":""QID208_1""}","{""ImportId"":""QID209_1""}","{""ImportId"":""QID210_1""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID212_1""}","{""ImportId"":""QID213_1""}","{""ImportId"":""QID214""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID216_1""}","{""ImportId"":""QID217_1""}","{""ImportId"":""QID218""}","{""ImportId"":""QID219_1""}","{""ImportId"":""QID220""}","{""ImportId"":""QID221_1""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID224_1""}","{""ImportId"":""QID225""}","{""ImportId"":""QID226_1""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID228""}","{""ImportId"":""QID229_1""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID231""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID233""}","{""ImportId"":""QID234_1""}","{""ImportId"":""QID235""}","{""ImportId"":""QID236_1""}","{""ImportId"":""QID237""}","{""ImportId"":""QID238_1""}","{""ImportId"":""QID239_1""}","{""ImportId"":""QID240_1""}","{""ImportId"":""QID241_1""}","{""ImportId"":""QID242""}","{""ImportId"":""QID243_1""}","{""ImportId"":""QID244_1""}","{""ImportId"":""QID245_1""}","{""ImportId"":""QID246""}","{""ImportId"":""QID247_1""}","{""ImportId"":""QID248_1""}","{""ImportId"":""QID249""}","{""ImportId"":""QID250_1""}","{""ImportId"":""QID251_1""}","{""ImportId"":""QID252_1""}","{""ImportId"":""QID253""}","{""ImportId"":""QID254_1""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256_1""}","{""ImportId"":""QID257_1""}","{""ImportId"":""QID258""}","{""ImportId"":""QID259_1""}","{""ImportId"":""QID260_1""}","{""ImportId"":""QID261_1""}","{""ImportId"":""QID262""}","{""ImportId"":""QID263_1""}","{""ImportId"":""QID264_1""}","{""ImportId"":""QID265_1""}","{""ImportId"":""QID266_1""}","{""ImportId"":""QID267""}","{""ImportId"":""QID268_1""}","{""ImportId"":""QID269_1""}","{""ImportId"":""QID270_1""}","{""ImportId"":""QID271""}","{""ImportId"":""QID272_1""}","{""ImportId"":""QID273""}","{""ImportId"":""QID274_1""}","{""ImportId"":""QID275_1""}","{""ImportId"":""QID276_1""}","{""ImportId"":""QID277_1""}","{""ImportId"":""QID278_1""}","{""ImportId"":""QID279""}","{""ImportId"":""QID280_1""}","{""ImportId"":""QID281_1""}","{""ImportId"":""QID282""}","{""ImportId"":""QID283_1""}","{""ImportId"":""QID284_1""}","{""ImportId"":""QID285""}","{""ImportId"":""QID286_1""}","{""ImportId"":""QID287""}","{""ImportId"":""QID288_1""}","{""ImportId"":""QID289""}","{""ImportId"":""QID290_1""}","{""ImportId"":""QID291_1""}","{""ImportId"":""QID292_1""}","{""ImportId"":""QID293_1""}","{""ImportId"":""QID294_1""}","{""ImportId"":""QID295""}","{""ImportId"":""QID296_1""}","{""ImportId"":""QID297_1""}","{""ImportId"":""QID298_1""}","{""ImportId"":""QID299_1""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID301_1""}","{""ImportId"":""QID302""}","{""ImportId"":""QID303_1""}","{""ImportId"":""QID304_1""}","{""ImportId"":""QID305""}","{""ImportId"":""QID306_1""}","{""ImportId"":""QID307_1""}","{""ImportId"":""QID308""}","{""ImportId"":""QID309_1""}","{""ImportId"":""QID310_1""}","{""ImportId"":""QID311_1""}","{""ImportId"":""QID312_1""}","{""ImportId"":""QID313_1""}","{""ImportId"":""QID314_1""}","{""ImportId"":""QID315""}","{""ImportId"":""QID316_1""}","{""ImportId"":""QID317_1""}","{""ImportId"":""QID318""}","{""ImportId"":""QID319_1""}","{""ImportId"":""QID320_1""}","{""ImportId"":""QID321""}","{""ImportId"":""QID322_1""}","{""ImportId"":""QID323""}","{""ImportId"":""QID324_1""}","{""ImportId"":""QID325""}","{""ImportId"":""QID326_1""}","{""ImportId"":""QID327""}","{""ImportId"":""QID328_1""}","{""ImportId"":""QID329_1""}","{""ImportId"":""QID330_1""}","{""ImportId"":""QID331""}","{""ImportId"":""QID332_1""}","{""ImportId"":""QID333""}","{""ImportId"":""QID334_1""}","{""ImportId"":""QID335""}","{""ImportId"":""QID336_1""}","{""ImportId"":""QID337""}","{""ImportId"":""QID338_1""}","{""ImportId"":""QID339_1""}","{""ImportId"":""QID340""}","{""ImportId"":""QID341_1""}","{""ImportId"":""QID342_1""}","{""ImportId"":""QID343_1""}","{""ImportId"":""QID344_1""}","{""ImportId"":""QID345_1""}","{""ImportId"":""QID346_1""}","{""ImportId"":""QID347""}","{""ImportId"":""QID348_1""}","{""ImportId"":""QID349""}","{""ImportId"":""QID350_1""}","{""ImportId"":""QID351""}","{""ImportId"":""QID352_1""}","{""ImportId"":""QID353_1""}","{""ImportId"":""QID354_1""}","{""ImportId"":""QID355_1""}","{""ImportId"":""QID356_1""}","{""ImportId"":""QID357_1""}","{""ImportId"":""QID358_1""}","{""ImportId"":""QID359_1""}","{""ImportId"":""QID360_1""}","{""ImportId"":""QID361_1""}","{""ImportId"":""QID362_1""}","{""ImportId"":""QID363_1""}","{""ImportId"":""QID364""}","{""ImportId"":""QID365_1""}","{""ImportId"":""QID366_1""}","{""ImportId"":""QID367_1""}","{""ImportId"":""QID368_1""}","{""ImportId"":""QID369""}","{""ImportId"":""QID370_1""}","{""ImportId"":""QID371_1""}","{""ImportId"":""QID372_1""}","{""ImportId"":""QID373""}","{""ImportId"":""QID374_1""}","{""ImportId"":""QID375""}","{""ImportId"":""QID376_1""}","{""ImportId"":""QID377_1""}","{""ImportId"":""QID378_1""}","{""ImportId"":""QID379_1""}","{""ImportId"":""QID380_1""}","{""ImportId"":""QID381_1""}","{""ImportId"":""QID382""}","{""ImportId"":""QID383_1""}","{""ImportId"":""QID384""}","{""ImportId"":""QID385_1""}","{""ImportId"":""QID386_1""}","{""ImportId"":""QID387_1""}","{""ImportId"":""QID388_1""}","{""ImportId"":""QID389_1""}","{""ImportId"":""QID390""}","{""ImportId"":""QID391_1""}","{""ImportId"":""QID392_1""}","{""ImportId"":""QID393_1""}","{""ImportId"":""QID394_1""}","{""ImportId"":""QID395_1""}","{""ImportId"":""QID396""}","{""ImportId"":""QID397_1""}","{""ImportId"":""QID398""}","{""ImportId"":""QID399_1""}","{""ImportId"":""QID400_1""}","{""ImportId"":""QID401_1""}","{""ImportId"":""QID402_1""}","{""ImportId"":""QID403_TEXT""}"
+17/4/2021 11:32,17/4/2021 11:38,0,77.100.49.196,100,337,1,17/4/2021 11:38,R_3Mmw9Kjg1qaoCTm,,,,,53.45950317,-2.953796387,anonymous,EN,5ee57a019e80f50008aba206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,2,5,2,1,4,1,5,1,2,3,1,1,2,1,5,4,4,4,5,4,1,3,4,3,4,4,5,2,4,1,3,3,3,4,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The questions are clear, the instructions are clear. An easy survey to follow along with."
+17/4/2021 11:28,17/4/2021 11:41,0,94.10.50.137,100,787,1,17/4/2021 11:41,R_3DckvwAgW49xq60,,,,,51.46200562,0.104598999,anonymous,EN,602220b4d735772cefde1f94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,1,2,4,2,4,2,3,4,2,2,3,1,2,4,5,1,4,1,4,4,2,2,1,4,2,1,4,4,1,2,2,3,2,4,2,4,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,they seem clear
+17/4/2021 11:34,17/4/2021 11:41,0,94.12.71.1,100,420,1,17/4/2021 11:41,R_smR9wPe6G8Fb1vP,,,,,52.46769714,-2.147201538,anonymous,EN,5ef8a7fc443b8d5f3b8bda07,3,2,2,1,2,2,1,1,1,2,5,4,4,4,2,1,2,3,2,2,2,3,2,1,4,1,1,5,4,3,1,5,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Several typos, lack of capitalisation makes the questions hard to read. "
+17/4/2021 11:34,17/4/2021 11:41,0,90.242.161.103,100,461,1,17/4/2021 11:41,R_ZxbaJa5gGvU39lL,,,,,51.40359497,-0.761795044,anonymous,EN,5c3653b07f35730001d4a339,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,2,1,1,1,3,1,3,1,1,3,4,4,1,2,1,2,2,1,2,2,1,1,4,5,1,4,1,1,2,3,1,1,4,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I'm guessing this is testing how wel online translates cope with movie reviews. Answer: very badly
+17/4/2021 11:33,17/4/2021 11:42,0,2.120.30.202,100,513,1,17/4/2021 11:42,R_ysxPY87mUX9CF3j,,,,,51.44119263,-0.183303833,anonymous,EN,605e3e69982de2685b294a61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,4,1,2,4,4,4,2,2,2,2,2,1,3,1,4,2,5,2,1,4,3,2,2,1,4,2,3,1,4,5,4,3,1,1,3,5,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/4/2021 11:32,17/4/2021 11:42,0,213.31.238.78,100,625,1,17/4/2021 11:42,R_3fdQstcAsSQeB2b,,,,,53.83659363,-1.636001587,anonymous,EN,605f78f48397ca1bebfd511e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,2,1,2,1,4,2,1,1,5,3,2,1,1,2,4,1,2,2,1,2,1,4,4,5,2,5,3,4,2,5,2,3,2,5,1,2,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions are clear. No issue with workload.
+17/4/2021 11:35,17/4/2021 11:42,0,86.151.255.111,100,431,1,17/4/2021 11:42,R_1mJVU5CcKAB1N99,,,,,54.6000061,-1.550003052,anonymous,EN,5b17e84168a5ed00017337bf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,1,2,4,2,5,1,4,2,1,1,2,1,2,5,2,5,2,3,1,4,1,2,4,2,2,2,4,4,3,5,2,4,2,5,2,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I think you should perhaps define fluency a little more - i.e. semantically fluent or grammatically fluent
+17/4/2021 11:37,17/4/2021 11:43,0,82.46.202.232,100,365,1,17/4/2021 11:43,R_211DD4WFtrOirkf,,,,,54.04789734,-2.797698975,anonymous,EN,602cbe5322eb785aba925aa0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,2,2,2,2,2,1,4,2,3,1,4,2,2,2,2,1,2,4,2,2,4,2,5,2,4,2,2,2,4,2,2,4,2,2,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions were clear
+17/4/2021 11:34,17/4/2021 11:43,0,188.223.95.214,100,546,1,17/4/2021 11:43,R_20SPgCtmqdGAKO7,,,,,51.46200562,0.104598999,anonymous,EN,5be9641baba8a50001b367ec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,4,3,2,3,2,4,1,2,4,3,2,2,4,2,4,4,5,2,2,3,4,1,4,4,2,5,2,4,4,2,4,2,3,2,5,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Questions are clear, alternative choices could sometimes be given "
+17/4/2021 11:32,17/4/2021 11:44,0,5.67.132.97,100,738,1,17/4/2021 11:44,R_3h0GSVbssYg9QxR,,,,,52.99940491,-1.13180542,anonymous,EN,5e5e817e9dad801ad64f116f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,2,2,2,4,1,2,2,1,3,2,3,1,4,2,1,3,4,2,3,4,4,1,4,2,1,2,4,4,3,4,3,4,4,5,1,2,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Questions are clear , plenty of choices "
+17/4/2021 11:38,17/4/2021 11:45,0,90.205.154.89,100,419,1,17/4/2021 11:45,R_BSvNaVX3P1bYZ6p,,,,,51.44119263,-0.183303833,anonymous,EN,607b161de849a3b34557865a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,4,1,4,1,2,5,1,4,1,2,1,4,5,4,2,1,1,5,1,1,5,1,1,5,5,3,5,1,1,1,5,1,1,4,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I don't really have opinions on sentences with so little context!
+17/4/2021 11:41,17/4/2021 11:45,0,77.102.58.190,100,291,1,17/4/2021 11:45,R_bPbF2As4uoa1fS9,,,,,52.49940491,-2.018798828,anonymous,EN,5933e8cbf0150b0001734c49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,2,1,4,1,1,3,4,4,2,5,1,4,2,1,2,4,4,2,4,3,4,4,2,4,4,1,2,4,2,4,4,5,4,4,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/4/2021 11:39,17/4/2021 11:47,0,195.213.218.185,100,486,1,17/4/2021 11:47,R_1C7LpjC4NxLccPi,,,,,51.44119263,-0.183303833,anonymous,EN,5d8490e96620d200186fc513,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,4,1,1,2,4,5,1,2,4,4,4,2,2,1,2,1,3,2,1,4,2,4,2,2,4,2,4,1,2,4,4,2,2,2,2,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/4/2021 11:37,17/4/2021 11:48,0,92.12.144.91,100,665,1,17/4/2021 11:48,R_3CUEbcTxNSP2e0B,,,,,52.52789307,-2.070495605,anonymous,EN,5c47ac347379d8000112affd@email.prolific.co,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,1,2,1,2,2,4,2,2,1,2,3,4,1,4,5,4,1,5,2,5,4,5,2,2,5,2,2,4,5,2,5,2,5,2,4,2,5,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,THE QUESTIONS USE GRAMMER THAT IS LITTLE HEARD OF
+17/4/2021 11:38,17/4/2021 11:49,0,85.211.37.221,100,612,1,17/4/2021 11:49,R_3kFCM7QpAaxkltx,,,,,51.42010498,-0.078201294,anonymous,EN,5ef4a84181376206ab2cf7fe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,4,2,1,4,1,4,1,2,4,2,2,1,1,2,3,1,4,3,3,2,1,4,1,1,5,4,1,4,1,1,1,3,4,1,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The sentences were sometimes tricky as they were often incomplete and missing capitalisation.
+17/4/2021 11:40,17/4/2021 11:49,0,81.108.15.119,100,551,1,17/4/2021 11:49,R_bQNQnWNLyd1sSoV,,,,,50.72410583,-1.789093018,anonymous,EN,5f2ac7deaac0ef39060b0aae,4,4,1,1,2,5,4,1,1,5,4,5,2,2,1,2,2,5,2,4,1,1,2,5,2,1,1,5,2,1,1,5,1,1,1,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,i think its fine
+17/4/2021 11:40,17/4/2021 11:49,0,86.165.159.58,100,533,1,17/4/2021 11:49,R_3PtrwU46jh0a7Ge,,,,,53.20350647,-3.03729248,anonymous,EN,5c44320f4fe4f800016e59c5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,4,4,1,4,1,2,1,4,1,3,2,1,1,1,5,1,4,2,2,5,2,4,1,1,4,1,2,5,1,2,4,1,5,5,1,5,
+17/4/2021 11:39,17/4/2021 11:51,0,86.28.145.216,100,680,1,17/4/2021 11:51,R_3MRJIZdT5fEqwkW,,,,,53.7881012,-1.600799561,anonymous,EN,5ee11021ccca624c3a3e3e32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,4,1,1,1,2,1,2,1,2,1,5,1,2,1,4,5,1,2,2,5,5,2,1,1,1,5,3,1,4,1,2,3,1,5,2,2,1,Seemed OK to me.
+17/4/2021 11:41,17/4/2021 11:51,0,72.138.235.38,100,590,1,17/4/2021 11:51,R_2dnEyk6gjs8ZG4d,,,,,43.66439819,-79.41950226,anonymous,EN,6000b7fbdb4bfd1bcab87f44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,2,3,2,3,2,4,1,2,2,2,1,2,2,1,3,3,4,1,3,2,2,2,3,2,2,3,2,3,2,2,3,2,2,1,2,3,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Was the off grammar intentional?
+17/4/2021 11:43,17/4/2021 11:51,0,109.76.190.230,100,491,1,17/4/2021 11:51,R_3IVGANSbZzl88IR,,,,,53.33790588,-6.259094238,anonymous,EN,601882967b43c4142c33867c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,4,2,4,5,5,4,2,2,4,5,2,1,4,2,5,1,5,5,1,5,5,5,2,4,5,2,2,2,4,4,4,5,2,2,5,5,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A thought provoking exercise
+17/4/2021 11:41,17/4/2021 11:52,0,109.151.110.161,100,663,1,17/4/2021 11:52,R_3g7cRz6aFewZw7v,,,,,51.08590698,-1.169403076,anonymous,EN,60264f9aefd96429372b494f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,1,5,2,4,1,5,2,4,5,3,1,4,2,2,2,2,1,3,5,5,1,5,4,2,2,3,2,1,2,2,1,4,2,2,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions seem clear enough. And amount of choices fine. 
+17/4/2021 11:41,17/4/2021 11:52,0,45.130.240.224,100,675,1,17/4/2021 11:52,R_2wnmOFUOGnHNELv,,,,,46.82710266,17.89720154,anonymous,EN,5f0ae85ed1a1d801cf4e8106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,3,3,2,4,1,3,4,2,1,2,1,4,1,4,4,2,2,5,2,2,3,4,1,2,3,3,2,5,1,2,1,3,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It was interesting, but some sentence didn' t make too much sense (to me), am I lacking some cinema lingo?"
+17/4/2021 11:40,17/4/2021 11:53,0,86.137.179.61,100,730,1,17/4/2021 11:53,R_2uL0gmmUvpc9pxR,,,,,54.38330078,-6.333297729,anonymous,EN,5fe09680a60b5b9d945ca235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,1,2,1,1,4,1,3,2,2,2,4,1,2,4,5,3,5,2,2,4,2,1,2,4,1,4,5,2,4,1,2,2,4,2,1,5,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not too much of a work load.  Questions can feel confusing when the statement doesnt make sense or has spelling mistakes and we as the reader don't know if it us purposeful or not.
+17/4/2021 11:37,17/4/2021 11:55,0,82.31.246.252,100,1085,1,17/4/2021 11:55,R_d9Z13z8ymM30Zwd,,,,,52.46359253,-1.79119873,anonymous,EN,5cb9b8f353aebd0017698fed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,2,2,2,1,3,4,1,2,5,2,2,3,2,2,3,1,4,4,3,2,2,3,4,3,2,4,4,3,1,4,1,4,4,5,4,4,1,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/4/2021 11:39,17/4/2021 11:56,0,70.68.239.169,100,1011,1,17/4/2021 11:56,R_5dIE5RK8495kk2l,,,,,49.24890137,-122.7953949,anonymous,EN,5edd8a16bf8c25aab25befe5,3,2,1,3,1,3,4,1,1,5,4,5,3,3,2,4,4,4,1,3,1,5,2,5,2,1,2,5,3,2,1,5,2,1,2,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Yes, the questions are clear. Some of the sentences have either typos or mistakes in them"
+17/4/2021 11:43,17/4/2021 11:59,0,51.171.93.222,100,932,1,17/4/2021 11:59,R_elFdFWWYx4LxIJP,,,,,53.51669312,-8.850006104,anonymous,EN,602b8ec24634b22e31267dc8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,2,4,4,2,2,4,4,4,3,1,2,4,4,1,3,1,3,4,4,2,1,4,3,1,3,4,2,2,2,2,2,2,2,4,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions are clear.  Examples to a while to make sense of. Workload is finep
+17/4/2021 11:31,17/4/2021 12:01,0,174.3.128.5,100,1795,1,17/4/2021 12:01,R_2fl0suh8n1eLpRX,,,,,53.4611969,-113.4144974,anonymous,EN,580c41a3357e890001dd1394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,2,4,2,4,1,4,2,3,2,3,2,3,1,3,3,2,2,4,4,3,3,3,1,4,2,3,1,4,4,2,3,5,5,4,5,3,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17/4/2021 11:32,17/4/2021 12:12,0,93.107.207.49,100,2380,1,17/4/2021 12:12,R_1fdt64cmWDs6KmV,,,,,53.33790588,-6.259094238,anonymous,EN,600701b8ea617912572d9ccd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,2,2,2,1,2,1,1,1,4,2,1,1,2,2,2,5,2,2,2,4,2,5,5,1,1,2,2,1,1,1,2,1,1,1,4,1,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The Questions are clear
+17/4/2021 11:36,17/4/2021 12:19,0,51.146.248.189,100,2557,1,17/4/2021 12:19,R_xhGQC3lHFiakGhH,,,,,51.49639893,-0.122406006,anonymous,EN,598b54a1f80b160001b36d20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,1,3,1,2,3,2,2,4,2,4,1,2,1,5,4,1,2,5,1,1,3,3,1,5,2,5,2,3,4,1,4,5,5,2,3,1,4,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The questions are clear, the survey is the right length, nothing negative about the survey"
+17/4/2021 11:30,17/4/2021 11:35,0,96.59.114.119,100,294,0,17/4/2021 20:57,R_1mJLLyGnFSPn0KI,,,,,,,anonymous,EN,5f490381dbc4a23f3c68f366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,4,2,1,2,2,2,2,1,1,4,2,1,4,1,4,2,1,1,4,2,2,4,2,1,4,1,1,4,4,1,4,1,4,1,1,4,

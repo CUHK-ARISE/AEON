@@ -134,7 +134,7 @@ for method in used_methods:
         with open(root % (method, dataset)) as f_csv:
             r_csv = csv.DictReader(f_csv)
             for i, row in enumerate(r_csv):
-                if row['result_type'] == 'Failed':
+                if row['result_type'] == 'Successful':
                     all_data.append([method, dataset, i, row['original_output'], row['original_text'],
                                      row['perturbed_output'], row['perturbed_text']])
 
@@ -142,9 +142,9 @@ print(len(all_data))
 random.seed(999)
 random.shuffle(all_data)
 
-#with open('data/ori-failed.txt', 'w') as f: f.write('\n'.join([i[4] for i in all_data]))
-#with open('data/adv-failed.txt', 'w') as f: f.write('\n'.join([i[6] for i in all_data]))
-#with open('data/info-failed.csv', 'w') as f: f.write('attack_method,dataset,number,ground_truth,software_output\n' + '\n'.join(['%s,%s,%d,%d,%d' % (i[0], i[1], i[2], int(float(i[3])), int(float(i[5]))) for i in all_data]))
+#with open('data/ori.txt', 'w') as f: f.write('\n'.join([i[4] for i in all_data]))
+#with open('data/adv.txt', 'w') as f: f.write('\n'.join([i[6] for i in all_data]))
+#with open('data/info.csv', 'w') as f: f.write('attack_method,dataset,number,ground_truth,software_output\n' + '\n'.join(['%s,%s,%d,%d,%d' % (i[0], i[1], i[2], int(float(i[3])), int(float(i[5]))) for i in all_data]))
 
 clean_all_data = []
 question_pool = []

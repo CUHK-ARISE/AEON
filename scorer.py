@@ -1,5 +1,5 @@
 import argparse
-from evaluator.utils import *
+from utils.aeon import *
 
 
 def parse_config():

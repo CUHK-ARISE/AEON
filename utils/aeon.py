@@ -86,6 +86,10 @@ class Scorer(object):
         
         self.verbose = verbose
         if self.verbose: print(get_time() + '[INFO] Printing more information (verbose mode)')
+        
+        self.lambda1 = 0.1
+        self.lambda2 = 0.2
+        self.phi = 0.6
     
     def text_preprocese(self, text):
         # Different models have different mask tokens (e.g., for BERT it's [MASK], for RoBERTa it's <mask>)
@@ -130,8 +134,10 @@ class Scorer(object):
             idx = torch.argmax((masked_input[i] == self.tokenizer_masked_lm.mask_token_id).int())
             probs.append(predictions[i][idx][label_input[i]].item())
         
-        # Average of probabilities
-        naturalness = np.average(probs)
+        # Average and min of probabilities
+        avg_naturalness = np.average(probs)
+        min_naturalness = np.min(probs)
+        naturalness = self.phi * min_naturalness + (1 - self.phi) * avg_naturalness
         
         return naturalness
 
@@ -224,9 +230,11 @@ class Scorer(object):
                 print(get_time() + '[INFO] Average partial similarity score: %f' % np.average(similarity[1:]))
                 print(get_time() + '[INFO] Minimum partial similarity score: %f' % similarity[1:].min())
                 print(similarity[1:])
-            similarity = (similarity[0] + np.average(similarity[1:])) / 2
-        else:
-            similarity = similarity[0]
+                all_sim, avg_sim, min_sim = similarity[0], np.average(similarity[1:]), similarity[1:].min()
+            else:
+                all_sim, avg_sim, min_sim = similarity[0], similarity[0], similarity[0]
+        
+        similarity = self.lambda1 * min_sim + self.lambda2 * avg_sim + (1 - self.lambda1 - self.lambda2) * all_sim
         
         return similarity
     
@@ -270,4 +278,3 @@ class Scorer(object):
         
         if is_single: ret = ret[0]
         return ret
-

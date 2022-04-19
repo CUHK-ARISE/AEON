@@ -1,0 +1,2835 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID,bae_snli_213_consistency_1,bae_snli_95_consistency_1,alzantot_snli_318_label,alzantot_snli_318_difficulty_1,alzantot_snli_374_consistency_1,bae_snli_365_fluency_1,bae_snli_213_fluency_1,pso_snli_391_consistency_1,alzantot_snli_133_fluency_1,bae_snli_390_label,bae_snli_390_difficulty_1,alzantot_snli_298_label,alzantot_snli_298_difficulty_1,alzantot_snli_33_fluency_1,bae_snli_77_label,bae_snli_77_difficulty_1,alzantot_snli_271_consistency_1,bae_snli_391_consistency_1,bae_snli_239_label,bae_snli_239_difficulty_1,bae_snli_52_fluency_1,bae_snli_213_label,bae_snli_213_difficulty_1,bae_snli_312_consistency_1,bae_snli_175_consistency_1,bae_snli_107_fluency_1,alzantot_snli_295_fluency_1,pso_snli_146_consistency_1,pso_snli_226_fluency_1,pso_snli_391_fluency_1,alzantot_snli_230_consistency_1,pso_snli_380_fluency_1,pso_snli_376_label,pso_snli_376_difficulty_1,alzantot_snli_318_consistency_1,pso_snli_114_consistency_1,bae_snli_4_label,bae_snli_4_difficulty_1,pso_snli_396_label,pso_snli_396_difficulty_1,alzantot_snli_189_consistency_1,bae_snli_386_fluency_1,bae_snli_4_consistency_1,pso_snli_388_consistency_1,pso_snli_114_fluency_1,alzantot_snli_95_consistency_1,bae_snli_175_label,bae_snli_175_difficulty_1,pso_snli_219_label,pso_snli_219_difficulty_1,pso_snli_211_consistency_1,alzantot_snli_211_consistency_1,bae_snli_152_consistency_1,bae_snli_247_fluency_1,alzantot_snli_51_fluency_1,pso_snli_196_label,pso_snli_196_difficulty_1,bae_snli_355_consistency_1,pso_snli_36_label,pso_snli_36_difficulty_1,alzantot_snli_281_consistency_1,pso_snli_386_consistency_1,alzantot_snli_320_consistency_1,pso_snli_114_label,pso_snli_114_difficulty_1,pso_snli_71_label,pso_snli_71_difficulty_1,pso_snli_62_label,pso_snli_62_difficulty_1,bae_snli_239_consistency_1,alzantot_snli_51_label,alzantot_snli_51_difficulty_1,pso_snli_129_label,pso_snli_129_difficulty_1,pso_snli_195_label,pso_snli_195_difficulty_1,pso_snli_269_fluency_1,bae_snli_355_fluency_1,pso_snli_275_label,pso_snli_275_difficulty_1,alzantot_snli_315_fluency_1,pso_snli_373_fluency_1,pso_snli_226_consistency_1,bae_snli_95_fluency_1,alzantot_snli_374_label,alzantot_snli_374_difficulty_1,bae_snli_32_fluency_1,bae_snli_356_consistency_1,alzantot_snli_320_fluency_1,pso_snli_391_label,pso_snli_391_difficulty_1,bae_snli_128_consistency_1,alzantot_snli_334_label,alzantot_snli_334_difficulty_1,alzantot_snli_89_label,alzantot_snli_89_difficulty_1,alzantot_snli_89_consistency_1,alzantot_snli_89_fluency_1,bae_snli_390_consistency_1,bae_snli_54_fluency_1,bae_snli_386_label,bae_snli_386_difficulty_1,alzantot_snli_334_consistency_1,pso_snli_373_label,pso_snli_373_difficulty_1,bae_snli_239_fluency_1,pso_snli_396_fluency_1,pso_snli_360_label,pso_snli_360_difficulty_1,pso_snli_360_fluency_1,alzantot_snli_247_label,alzantot_snli_247_difficulty_1,bae_snli_374_label,bae_snli_374_difficulty_1,alzantot_snli_122_label,alzantot_snli_122_difficulty_1,pso_snli_355_fluency_1,bae_snli_312_label,bae_snli_312_difficulty_1,pso_snli_129_consistency_1,alzantot_snli_122_fluency_1,pso_snli_289_fluency_1,pso_snli_283_label,pso_snli_283_difficulty_1,bae_snli_354_consistency_1,alzantot_snli_242_fluency_1,bae_snli_381_label,bae_snli_381_difficulty_1,alzantot_snli_298_fluency_1,alzantot_snli_147_consistency_1,alzantot_snli_367_label,alzantot_snli_367_difficulty_1,bae_snli_82_fluency_1,pso_snli_196_consistency_1,pso_snli_105_label,pso_snli_105_difficulty_1,pso_snli_41_consistency_1,alzantot_snli_133_consistency_1,bae_snli_54_consistency_1,bae_snli_337_fluency_1,pso_snli_283_consistency_1,pso_snli_126_consistency_1,pso_snli_195_fluency_1,bae_snli_374_consistency_1,bae_snli_318_consistency_1,bae_snli_381_consistency_1,bae_snli_365_consistency_1,pso_snli_191_consistency_1,alzantot_snli_33_consistency_1,checklist_snli_164_label,checklist_snli_164_difficulty_1,pso_snli_253_label,pso_snli_253_difficulty_1,bae_snli_337_consistency_1,alzantot_snli_33_label,alzantot_snli_33_difficulty_1,bae_snli_337_label,bae_snli_337_difficulty_1,pso_snli_304_fluency_1,pso_snli_380_consistency_1,bae_snli_48_fluency_1,alzantot_snli_176_consistency_1,pso_snli_253_consistency_1,pso_snli_71_consistency_1,bae_snli_259_consistency_1,alzantot_snli_95_fluency_1,bae_snli_171_fluency_1,pso_snli_105_fluency_1,pso_snli_196_fluency_1,pso_snli_388_label,pso_snli_388_difficulty_1,alzantot_snli_214_consistency_1,pso_snli_373_consistency_1,bae_snli_259_fluency_1,bae_snli_82_label,bae_snli_82_difficulty_1,pso_snli_386_label,pso_snli_386_difficulty_1,bae_snli_32_label,bae_snli_32_difficulty_1,bae_snli_390_fluency_1,alzantot_snli_281_fluency_1,bae_snli_312_fluency_1,bae_snli_91_label,bae_snli_91_difficulty_1,pso_snli_289_label,pso_snli_289_difficulty_1,alzantot_snli_315_consistency_1,pso_snli_32_fluency_1,alzantot_snli_271_label,alzantot_snli_271_difficulty_1,bae_snli_259_label,bae_snli_259_difficulty_1,pso_snli_346_label,pso_snli_346_difficulty_1,bae_snli_77_fluency_1,pso_snli_36_consistency_1,bae_snli_354_fluency_1,bae_snli_136_consistency_1,pso_snli_181_consistency_1,pso_snli_269_consistency_1,alzantot_snli_271_fluency_1,alzantot_snli_230_label,alzantot_snli_230_difficulty_1,bae_snli_171_label,bae_snli_171_difficulty_1,alzantot_snli_211_label,alzantot_snli_211_difficulty_1,pso_snli_211_fluency_1,bae_snli_356_label,bae_snli_356_difficulty_1,bae_snli_391_label,bae_snli_391_difficulty_1,pso_snli_71_fluency_1,pso_snli_362_label,pso_snli_362_difficulty_1,pso_snli_219_fluency_1,bae_snli_365_label,bae_snli_365_difficulty_1,pso_snli_269_label,pso_snli_269_difficulty_1,pso_snli_304_label,pso_snli_304_difficulty_1,pso_snli_32_label,pso_snli_32_difficulty_1,alzantot_snli_318_fluency_1,alzantot_snli_122_consistency_1,bae_snli_247_consistency_1,alzantot_snli_368_label,alzantot_snli_368_difficulty_1,pso_snli_62_fluency_1,pso_snli_123_label,pso_snli_123_difficulty_1,bae_snli_249_consistency_1,pso_snli_100_label,pso_snli_100_difficulty_1,pso_snli_126_fluency_1,pso_snli_396_consistency_1,alzantot_snli_281_label,alzantot_snli_281_difficulty_1,bae_snli_386_consistency_1,bae_snli_136_fluency_1,alzantot_snli_211_fluency_1,checklist_snli_164_consistency_1,pso_snli_100_consistency_1,bae_snli_128_label,bae_snli_128_difficulty_1,pso_snli_126_label,pso_snli_126_difficulty_1,alzantot_snli_165_fluency_1,alzantot_snli_315_label,alzantot_snli_315_difficulty_1,bae_snli_95_label,bae_snli_95_difficulty_1,pso_snli_195_consistency_1,bae_snli_107_consistency_1,alzantot_snli_242_label,alzantot_snli_242_difficulty_1,pso_snli_346_consistency_1,bae_snli_152_label,bae_snli_152_difficulty_1,bae_snli_219_fluency_1,bae_snli_247_label,bae_snli_247_difficulty_1,pso_snli_362_consistency_1,pso_snli_100_fluency_1,bae_snli_374_fluency_1,alzantot_snli_176_label,alzantot_snli_176_difficulty_1,alzantot_snli_295_consistency_1,pso_snli_24_fluency_1,alzantot_snli_147_fluency_1,pso_snli_275_fluency_1,pso_snli_376_consistency_1,alzantot_snli_242_consistency_1,alzantot_snli_368_fluency_1,pso_snli_380_label,pso_snli_380_difficulty_1,alzantot_snli_133_label,alzantot_snli_133_difficulty_1,bae_snli_175_fluency_1,pso_snli_62_consistency_1,alzantot_snli_165_consistency_1,alzantot_snli_189_fluency_1,alzantot_snli_374_fluency_1,bae_snli_91_fluency_1,pso_snli_283_fluency_1,alzantot_snli_165_label,alzantot_snli_165_difficulty_1,alzantot_snli_367_consistency_1,pso_snli_24_consistency_1,checklist_snli_164_fluency_1,bae_snli_381_fluency_1,pso_snli_334_label,pso_snli_334_difficulty_1,bae_snli_26_consistency_1,alzantot_snli_334_fluency_1,bae_snli_391_fluency_1,pso_snli_179_fluency_1,bae_snli_318_label,bae_snli_318_difficulty_1,alzantot_snli_176_fluency_1,bae_snli_152_fluency_1,bae_snli_249_label,bae_snli_249_difficulty_1,pso_snli_355_label,pso_snli_355_difficulty_1,pso_snli_355_consistency_1,pso_snli_226_label,pso_snli_226_difficulty_1,alzantot_snli_147_label,alzantot_snli_147_difficulty_1,pso_snli_123_fluency_1,bae_snli_318_fluency_1,alzantot_snli_295_label,alzantot_snli_295_difficulty_1,pso_snli_179_consistency_1,bae_snli_219_label,bae_snli_219_difficulty_1,pso_snli_146_fluency_1,pso_snli_362_fluency_1,bae_snli_355_label,bae_snli_355_difficulty_1,pso_snli_386_fluency_1,pso_snli_360_consistency_1,alzantot_snli_214_label,alzantot_snli_214_difficulty_1,bae_snli_32_consistency_1,bae_snli_54_label,bae_snli_54_difficulty_1,bae_snli_107_label,bae_snli_107_difficulty_1,pso_snli_304_consistency_1,alzantot_snli_368_consistency_1,bae_snli_219_consistency_1,pso_snli_146_label,pso_snli_146_difficulty_1,pso_snli_289_consistency_1,alzantot_snli_298_consistency_1,alzantot_snli_247_consistency_1,pso_snli_181_fluency_1,alzantot_snli_189_label,alzantot_snli_189_difficulty_1,pso_snli_191_fluency_1,pso_snli_24_label,pso_snli_24_difficulty_1,pso_snli_219_consistency_1,pso_snli_275_consistency_1,bae_snli_26_fluency_1,bae_snli_48_label,bae_snli_48_difficulty_1,bae_snli_82_consistency_1,bae_snli_171_consistency_1,pso_snli_191_label,pso_snli_191_difficulty_1,bae_snli_136_label,bae_snli_136_difficulty_1,pso_snli_334_consistency_1,pso_snli_41_label,pso_snli_41_difficulty_1,pso_snli_105_consistency_1,bae_snli_249_fluency_1,alzantot_snli_95_label,alzantot_snli_95_difficulty_1,bae_snli_52_label,bae_snli_52_difficulty_1,bae_snli_52_consistency_1,bae_snli_128_fluency_1,bae_snli_356_fluency_1,alzantot_snli_247_fluency_1,bae_snli_4_fluency_1,pso_snli_376_fluency_1,alzantot_snli_214_fluency_1,pso_snli_334_fluency_1,pso_snli_41_fluency_1,pso_snli_181_label,pso_snli_181_difficulty_1,bae_snli_26_label,bae_snli_26_difficulty_1,pso_snli_253_fluency_1,pso_snli_179_label,pso_snli_179_difficulty_1,bae_snli_91_consistency_1,alzantot_snli_367_fluency_1,pso_snli_123_consistency_1,alzantot_snli_230_fluency_1,pso_snli_211_label,pso_snli_211_difficulty_1,bae_snli_354_label,bae_snli_354_difficulty_1,pso_snli_129_fluency_1,alzantot_snli_51_consistency_1,pso_snli_388_fluency_1,alzantot_snli_320_label,alzantot_snli_320_difficulty_1,pso_snli_32_consistency_1,pso_snli_36_fluency_1,bae_snli_48_consistency_1,pso_snli_346_fluency_1,bae_snli_77_consistency_1,Suggestion
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please enter your Prolific ID:,"Please see the two sentences below:
+
+
+
+The brown dog has a hold of the other dogs cheek with its teeth. The dog grabbed the other dog with his teeth.
+
+
+
+The brown dog has a hold of the other dogs cheek with its head. The dog grabbed the other dog with his teeth.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A family, daughter in the middle, walks down the street. the family is seated
+
+
+
+A family, daughter in the middle, walks down the street. the family is something
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man is carrying a child on his shoulders.>>>>Hypothesis: une enfants is on a mans shoulders.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man and a woman are sitting at a table outside, next to a small flower garden. The man and woman are outside.
+
+
+
+A man and a woman are sitting at a table outside, next to a small flower garden. The man and woman are away.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+two people in spandex and helmets in a race walk uphill. A male and a female bicyclist are riding for money as they pedal to the top of the mountain.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+The brown dog has a hold of the other dogs cheek with its head. The dog grabbed the other dog with his teeth.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A male is placing an order in a deli. A man at a deli.
+
+
+
+A male is placing an order in a deli. A guerrilla at a deli.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A baby in a bathrobe waits for his shower. A baby is waiting for his mother to give him a toilet.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Four people are in a green field, two wearing white and two wearing red, with green bushes and trees in the background.>>>>Hypothesis: A group of people are rolling cotton.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A worker in a striped orange, gray, and white t-shirt hovers over a stand that is displaying different kind of flat loaf.>>>>Hypothesis: A butcher standing over his freshly cut meat.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Sidewalk bloom cart vendor. Tulip vendor by the curb.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A baseball player is stepping into a base while the baseman is catching an incoming ball during a major league baseball game.>>>>Hypothesis: A baseball player slides into a base.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man in yellow, white, and blue bicycle clothing and helmet grimaces as he rides his bicycle. A man is riding a bicycle.
+
+
+
+A man in yellow, white, and blue bicycle clothing and helmet grimaces as he rides his bicycle. A man is riding a motorcycle.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A male is placing an order in a deli. A man at a deli.
+
+
+
+A male is placing an order in a bank. A man at a deli.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Two young boys are in a green kayak in the lobby.>>>>Hypothesis: The boys are outside.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+One kid walking across the street, another on sidewalk. Women separate after lunch.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The brown dog has a hold of the other dogs cheek with its head.>>>>Hypothesis: The dog grabbed the other dog with his teeth.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man with a tattoo on his left arm flips his food into the air with his frying pan. a man using a frying pan
+
+
+
+A man with a tattoo on his left arm flips his food into the air with his frying dog. a man using a frying pan
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man in a lab coat looking into a microscope with containers in the background. A man in a lab coat takes a lady's blood.
+
+
+
+A man in a lab coat looking into a microscope with containers in the background. A man in a lab coat showing a lady's blood.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A greyhound jumps over a chain. A dog is secured under a chain.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A men in black reading a cookbook for a group of citizens. The man is reading for children.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A group of people wearing hats and using walking sticks are walking through a wooded area on a trail. A bunch of people outdoors.
+
+
+
+A group of people wearing hats and using walking sticks are walking through a wooded area on a trail. A shovelful of people outdoors.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+An indian man walks past a temple on his way to pray. An indian is on his way to salute.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A male is placing an order in a deli. A guerrilla at a deli.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Four girls and a lady learning how to do some crafts. Crafts are being done poorly.
+
+
+
+Four girls and a lady learning how to do some handicraft. Craftsmanship are being done poorly.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man playing a banjo near a tree at an outdoor event. The man is playing a instrument also.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A smiling woman is playing the violin in front of a turquoise background.>>>>Hypothesis: A woman is playing an drumstick.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man is carrying a child on his shoulders. A child is on a mans shoulders.
+
+
+
+A man is carrying a child on his shoulders. une enfants is on a mans shoulders.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Three people in coats stand in front of a blue building. People are sitting down outside.
+
+
+
+Three people in coats stand in front of a blue building. Crowds are scrunching down fortuitously.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A person in a yellow slicker is driving a motorboat next to the beach.>>>>Hypothesis: A fisherman enters home for the night.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man is reading a newspaper in a car dealership.>>>>Hypothesis: A human is seeing a periodical at the clinic.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road. The road is pavement.
+
+
+
+A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road. The road is footpath.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A pregnant lady comes on stage while holding a flag behind her. A woman is making music.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A person in a yellow slicker is driving a motorboat next to the beach. A fisherman heading home for the night.
+
+
+
+A person in a yellow slicker is driving a motorboat next to the beach. A fisherman enters home for the night.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A young child is being held by another child looking straight at us. The child is forty years old.
+
+
+
+A young child is being held by another child looking straight at us. The preteen is forty grades foregone.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Three people in coats stand in front of a blue building. Crowds are scrunching down fortuitously.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A family, daughter in the middle, walks down the street. the family is seated
+
+
+
+A family, daughter in the middle, walks down the street. the family is seat
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man in a lab coat looking into a microscope with containers in the background.>>>>Hypothesis: A man in a lab coat showing a lady's blood.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Four cheerleaders performing a cheer on court at UCLA.>>>>Hypothesis: Cheerleaders performing a push.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A goalie tries to catch a ball during a soccer game. the goalie quit during the game.
+
+
+
+A goalie tries to catch a ball during a soccer game. the goalie waive during the game.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A goalie tries to catch a ball during a soccer game. the goalie quit during the game.
+
+
+
+una goalie attempting to catch a ball during a soccer game. the goalie ceased during the game.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man in a striped shirt and lady in a black hat are watching a young band perform on stage. A lady has a white hat.
+
+
+
+A man in a striped shirt and lady in a colored hat are watching a young band perform on stage. A lady has a white bonnet.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+An african american home with 2 young girls. There is a man with his daughters.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man trying to block another man from shooting the ball in. The man is is near the prom.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man in a black hat and jacket is sitting down.>>>>Hypothesis: A man is being enamored for breaking a window.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young girl is cutting wood.
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young kid is cutting wood.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A child wearing a red shirt playing.>>>>Hypothesis: A preteen wearing a lemon waist resting.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+From afar, a person walks down a path through a brown field. A person takes a selfie.
+
+
+
+From afar, a person walks down a path through a brown field. A somebody picked a selfie.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A pregnant lady singing on stage while holding a flag behind her. A woman is making music.
+
+
+
+A pregnant lady singing on stage while holding a flag behind her. A woman is making fugue.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+An outdoor rodeo, with a cowboy in a red shirt riding a bucking horse while others watch from the sidelines. A cowboy is trying to keep his horse calm for the competition
+
+
+
+An outdoor rodeo, with a cowboy in a red shirt riding a bucking horse while others watch from the sidelines. A bullfighter is attempting to keep his horse calm for the competition
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Three people in coats stand in front of a blue building.>>>>Hypothesis: Crowds are scrunching down fortuitously.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Three men playing cricket wearing all white, with one man wearing a blue helmet.>>>>Hypothesis: Four men are playing earthworm.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man in an orange hat and brown jacket and pants running on snow in snowshoes.>>>>Hypothesis: a man running on the way
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Two young boys are in a green kayak in the grass. The boys are outside.
+
+
+
+Two young boys are in a green kayak in the lobby. The boys are outside.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man trying to block another man from shooting the ball in.>>>>Hypothesis: The man is is near the prom.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A woman with dark hair and a red dress sits next to a little girl with blond-hair and a white dress while reading a book.>>>>Hypothesis: A person with moustache
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A couple dancing alfresco dressed in turquoise tops, the lady is held up in the air with her hands stretched upwards.>>>>Hypothesis: Stuff is dancing
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A young boy with blue shorts, at an indoor pool jumping into the water. a young kid jumps into the surf during swim lessons
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young kid is cutting wood.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man in an orange hat and brown jacket and pants running on snow in snowshoes.>>>>Hypothesis: a ape running with snowshoes on the snow looking for the lost girl
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have forfeited their pants. The men are wearing pants.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A group of Indian men clean a little girls shoe with a toothbrush and paste. A group of men are mopping a shoe.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+An indian man walks past a temple on his way to pray. An indian is on his way to worship.
+
+
+
+An indian man walks past a temple on his way to pray. An indian is on his way to salute.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A family, daughter in the middle, walks down the street. the family is something
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man and a woman are sitting at a table outside, next to a small flower garden.>>>>Hypothesis: The man and woman are away.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+a girl with a blue jacket look at items. A man looks at things.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Two women, one walking her dog the other pushing a stroller. There is a snowstorm.
+
+
+
+Two women, one walking her dog the other pushing a shovel. There is a snowstorm.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+An outdoor rodeo, with a cowboy in a red shirt riding a bucking horse while others watch from the sidelines. A bullfighter is attempting to keep his horse calm for the competition
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A male is placing an order in a deli.>>>>Hypothesis: A guerrilla at a deli.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves. The small baby is in it's crib sound asleep.
+
+
+
+A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves. The small baby is in it's crib sound morning.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: At an outdoor event in an Asian-themed area, a crowd congregates as one individual in a yellow Chinese dragon getup confronts the camera.>>>>Hypothesis: A single guy is next to a camera
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A couple of friends have a drink.>>>>Hypothesis: Two men are at a lawyer.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A couple of friends have a drink. Two men are at a bar.
+
+
+
+A couple of friends have a drink. Two men are at a lawyer.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A couple of friends have a drink. Two men are at a lawyer.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Four people work in a green field, two wearing white and two wearing red, with green bushes and trees in the background. A group of people are picking cotton.
+
+
+
+Four people are in a green field, two wearing white and two wearing red, with green bushes and trees in the background. A group of people are rolling cotton.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Three men and two women stand facing the shore from the shore on a sunny day. People stand facing the ocean.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A pregnant lady comes on stage while holding a flag behind her.>>>>Hypothesis: A woman is making music.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera. A single man is next to a camera
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one individual in a yellow Chinese dragon getup confronts the camera. A single guy is next to a camera
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A group of Indian men clean a little girls shoe with a toothbrush and paste.>>>>Hypothesis: A group of men are mopping a shoe.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Two young boys are in a green kayak in the lobby. The boys are outside.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man is reading a newspaper in a car dealership. A human is seeing a periodical at the clinic.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A lady in a red sweatshirt opening a present.>>>>Hypothesis: The lady is wearing a sexy shirt.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A lady in a red sweatshirt opening a present. The lady is wearing a sexy shirt.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: An african american woman with 2 young girls.>>>>Hypothesis: There is a bloke with his daughters.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man and a girl are sitting at a table outside, next to a small flower room.>>>>Hypothesis: every man and woman are outside.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: two wrestlers wrestling, the one on the bottom is in submission and could possibly be in pain.>>>>Hypothesis: One boxer wrestles the other onto the bottom in their fight
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young blond is cutting wood.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man with a tattoo on his left arm flips his food into the air with his frying dog.>>>>Hypothesis: a man using a frying pan
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A woman with dark hair and a red dress sits next to a little girl with blond-hair and a white dress while reading a book. A person with hair
+
+
+
+A woman with dark hair and a red dress sits next to a little girl with blond-hair and a white dress while reading a book. A person with moustache
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+two wrestlers wrestling, the one on the bottom is in submission and could possibly be in pain. One boxer wrestles the other onto the bottom in their fight
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Two boys, one wearing green, the other in yellow, are playing with sidewalk chalk, drawing pictures on the ground. There are two boys drawing lewd pictures in clay on the ground.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The people ride down the road on sleds.>>>>Hypothesis: The people are on the peripheral going to the museum
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A father helps his son ride a bike across dry, and dusty dirt accompanied by his sister adorned in a green dress. Someone is sleeping
+
+
+
+the father helps his son ride a bike with dry, and dusty dirt accompanied by his sister huddled in a green bed. Someone is sleeping
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Camel on wet road while fella hangs on back. racing on a drying road.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man under a running shower with shampoo in his hair.>>>>Hypothesis: A man is taking a bath.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A worker in a striped orange, gray, and white t-shirt hovers over a stand that is displaying different kind of flat loaf. A butcher standing over his freshly cut meat.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A soccer ball is above the head of a man wearing black shorts and red and black striped shirt. A tall person in shorts
+
+
+
+A soccer ball is above the head of a man wearing black shorts and red and black striped shirt. A tall person in pants
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man in all black garment does a breakdancing move.>>>>Hypothesis: The fella is dancing on the rue.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A black girl carrying a hanging flower pot. A dog carrying a flower pot.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man in a black hat and jacket is sitting down. A man is being arrested for breaking a window.
+
+
+
+A man in a black hat and jacket is sitting down. A man is being enamored for breaking a window.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: An older woman sits at a table in a tank top and skirt.>>>>Hypothesis: A womenfolk is tarrying for her drink
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A woman wearing a white baseball cap purple coat holding a poster. A woman is holding a poster, rooting for her favorite team.
+
+
+
+A woman wearing a white baseball cap purple coat holding a poster. A woman is holding a charcoal, rooting for her favorite team.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A baby in a bathrobe waits for his shower. A baby is waiting for his mother to give him a shower.
+
+
+
+A baby in a bathrobe waits for his shower. A baby is waiting for his mother to give him a toilet.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Three men and two women stand facing the ocean from the shore on a sunny day. People stand facing the ocean.
+
+
+
+Three men and two women stand facing the shore from the shore on a sunny day. People stand facing the ocean.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A person and a man are on stage dancing with flexibility. A brother and sister are dancing together.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+The people ride down the road on sleds. The people are on the bus going to the museum
+
+
+
+The people ride down the road on sleds. The people are on the peripheral going to the museum
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A young child sits on the floor and leans against a map to eat. The child is sleeping.
+
+
+
+A young child sits on the floor and leans against a map to eat. The child is resting.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A couple dancing alfresco dressed in turquoise tops, the lady is held up in the air with her hands stretched upwards. Stuff is dancing
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man and a woman are sitting at a table outside, next to a small flower garden. The man and woman are outside.
+
+
+
+A man and a girl are sitting at a table outside, next to a small flower room. every man and woman are outside.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man is carrying a child on his shoulders. A child is on a mans shoulders.
+
+
+
+A man is carrying a person on his shoulders. A child is on a mans shoulders.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man under a running shower with shampoo in his hair. A man is taking a shower.
+
+
+
+A man under a running shower with shampoo in his hair. A man is taking a bath.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+two bicyclists in spandex and helmets in a race pedaling uphill. A male and a female bicyclist are racing for money as they pedal to the top of the mountain.
+
+
+
+two people in spandex and helmets in a race walk uphill. A male and a female bicyclist are riding for money as they pedal to the top of the mountain.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A young girl who is barefoot and with a scarf over her head dips her pen in ink and writes in a notebook. dog chases squirrel
+
+
+
+A young girl who is barefoot and with a scarf over her head dips her pen in ink and writes in a notebook. canine chases ounce
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Sidewalk flower cart vendor. Tulip vendor by the curb.
+
+
+
+Sidewalk bloom cart vendor. Tulip vendor by the curb.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man in a red shirt entering an establishment.>>>>Hypothesis: Yair walked into the store.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man selling or buying oranges on a cart in an outside supermarket.>>>>Hypothesis: A militia is outside on a cloudy day in front of a store.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A lady and a man are on stage dancing with flexibility. A brother and sister are dancing together.
+
+
+
+A person and a man are on stage dancing with flexibility. A brother and sister are dancing together.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Sidewalk bloom cart vendor.>>>>Hypothesis: Tulip vendor by the curb.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A person and a man are on stage dancing with flexibility.>>>>Hypothesis: A brother and sister are dancing together.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+An old woman in a sunlit room winds rough yarn into balls, the finished yarn balls placed in a pile to her right. A woman snarls yarn to help pay her rent
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man playing a banjo near a tree at an outdoor event. The man is playing a cello inside.
+
+
+
+A man playing a banjo near a tree at an outdoor event. The man is playing a instrument also.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Boy wearing a blue hoodie jumps over a railing railing. A boy jumps over a stair railing.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Two little Asian kids are dressed warmly in colorful jackets while standing on the playground. The children are dressed in warm clothing.
+
+
+
+Two little Asian kids are dressed warmly in colorful jackets while standing on the playground. The children are dressed in warm dresses.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man selling or buying oranges on a cart in an outside supermarket. A man is outside on a cloudy day in front of a store.
+
+
+
+A man selling or buying oranges on a cart in an outside supermarket. A militia is outside on a cloudy day in front of a store.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Three men playing cricket wearing all white, with one man wearing a blue helmet. Four men are playing cricket.
+
+
+
+Three men playing cricket wearing all white, with one man wearing a blue helmet. Four men are playing earthworm.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A little girl in pink boots runs down the street. A little girl in pink boots is sitting in a chair.
+
+
+
+A little girl in pink boots says down the street. A little girl in pink boots is sitting in a chair.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A family, daughter in the middle, walks down the street. the family is seat
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man in a black shirt is smiling at a dude in a black shirt what a tattoo and a eye brow ring. A man is smiling at a woman.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+An older woman sits at a table in a tank top and skirt. A womenfolk is tarrying for her drink
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man in a black hat and jacket is sitting down. A man is being enamored for breaking a window.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A young child is being held by another child looking straight at us.>>>>Hypothesis: The preteen is forty grades foregone.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man and woman sit on a dock looking out over the water on an overcast day. The day is gloomy and poorly lit.
+
+
+
+A man and woman sit on a dock looking out over the water on an overcast day. The day is pessimistic and poorly lit.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A group of Indian men clean a little girls shoe with a toothbrush and paste. A group of men are cleaning a shoe.
+
+
+
+A group of Indian men clean a little girls shoe with a toothbrush and paste. A group of men are mopping a shoe.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A little girl in pink boots says down the street. A little girl in pink boots is sitting in a chair.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A black girl carrying a hanging flower pot.>>>>Hypothesis: A dog carrying a flower pot.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A pregnant lady singing on stage while holding a flag behind her.>>>>Hypothesis: A woman is making fugue.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: a girl with a blue jacket look at items.>>>>Hypothesis: A man looks at things.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Four people are in a green field, two wearing white and two wearing red, with green bushes and trees in the background. A group of people are rolling cotton.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+From afar, a person walks down a path through a brown field. A somebody picked a selfie.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man with a tattoo on his left arm flips his food into the air with his frying dog. a man using a frying pan
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Two people and a man are in a sporty red convertible in front of a large group of people on the sidewalk.>>>>Hypothesis: Two women are in a car with a man.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Two boys, one wearing green, the other in yellow, are playing with sidewalk chalk, drawing pictures on the ground.>>>>Hypothesis: There are two boys drawing lewd pictures in clay on the ground.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have lost their pants. The men are wearing pants.
+
+
+
+Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have forfeited their pants. The men are wearing pants.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a man with a blue jacket look at items. A man looks at tides.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man in yellow, white, and blue bicycle clothing and helmet grimaces as he rides his bicycle.>>>>Hypothesis: A man is riding a motorcycle.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A little girl in pink boots says down the street.>>>>Hypothesis: A little girl in pink boots is sitting in a chair.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes.>>>>Hypothesis: One ape is dressed up for a night out while the other is not.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A baseball player is stepping into a base while the baseman is catching an incoming ball during a major league baseball game. A baseball player slides into a base.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A child wearing a red shirt playing. A child wearing a yellow shirt sleeping.
+
+
+
+A child wearing a red shirt playing. A preteen wearing a lemon waist resting.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+the father helps his son ride a bike with dry, and dusty dirt accompanied by his sister huddled in a green bed. Someone is sleeping
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man is sitting outside next to fruit. A man sleeps on a car.
+
+
+
+A man is sitting outside next to fruit. A man waiting on a car.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+An Asian badminton player at the Olympics is sprawled on the court, face down with his racket at his side. A sports contestant in an international competition, is on the ground still holding onto his sporting equipment.
+
+
+
+An Asian badminton player at the Olympics is sprawled on the court, face down with his racket at his side. A sports contestant in an international equestrian, is on the ground still holding onto his sporting equipment.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A young boy with blue shorts, at an indoor pool jumping into the water. a young kid jumps into the water during swim lessons
+
+
+
+A young boy with blue shorts, at an indoor pool jumping into the water. a young kid jumps into the surf during swim lessons
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man in yellow, white, and blue bicycle clothing and helmet grimaces as he rides his bicycle. A man is riding a motorcycle.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Four girls and a lady learning how to do some handicraft.>>>>Hypothesis: Craftsmanship are being done poorly.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man in a black shirt is smiling at a dude in a black shirt what a tattoo and a eye brow ring.>>>>Hypothesis: A man is smiling at a woman.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: una goalie attempting to catch a ball during a soccer game.>>>>Hypothesis: the goalie ceased during the game.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A goalie tries to catch a ball during a soccer game. the goalie waive during the game.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Two women, one walking her dog the other pushing a shovel.>>>>Hypothesis: There is a snowstorm.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A male is placing an order in a bank.>>>>Hypothesis: A man at a deli.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Three men playing cricket wearing all white, with one man wearing a blue helmet. Four men are playing earthworm.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man is herding horned cows on a horse.>>>>Hypothesis: A man is herding livestock.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Four cheerleaders performing a cheer on court at UCLA. Cheerleaders performing a push.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: two people in spandex and helmets in a race walk uphill.>>>>Hypothesis: A male and a female bicyclist are riding for money as they pedal to the top of the mountain.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A young boy with blue shorts, at an indoor pool jumping into the water.>>>>Hypothesis: a young kid jumps into the surf during swim lessons
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: An old woman in a sunlit room winds rough yarn into balls, the finished yarn balls placed in a pile to her right.>>>>Hypothesis: A woman snarls yarn to help pay her rent
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: a man with a blue jacket look at items.>>>>Hypothesis: A man looks at tides.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A man is carrying a child on his shoulders. une enfants is on a mans shoulders.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+two wrestlers wrestling, the one on the bottom is in submission and could possibly be in pain. One wrestler wrestles the other onto the bottom in their fight
+
+
+
+two wrestlers wrestling, the one on the bottom is in submission and could possibly be in pain. One boxer wrestles the other onto the bottom in their fight
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+An african american woman with 2 young girls. There is a man with his daughters.
+
+
+
+An african american home with 2 young girls. There is a man with his daughters.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: a brown and a black dog play in a field>>>>Hypothesis: There is a terrier outside.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a man running on the way
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A mom and son enjoying a day in the park.>>>>Hypothesis: A grandparent and son enjoying a day
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Nine women in blue and purple dresses and one man wearing a purple shirt and black pants, clap while a man dressed in black dances. There are people clapping.
+
+
+
+Nine women in blue and purple dresses and one man wearing a purple shirt and black pants, dance while a man dressed in black dances. There are people clapping.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A lone, 2-3 year old blond child in a blue jacket is putting a small black plastic item in his mouth as he kneels on a waiting room couch pointed toward the back while looking at something or someone not in the room.>>>>Hypothesis: The bambino is blonde.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A young child sits on the floor and leans against a map to eat. The child is resting.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man is reading a newspaper in a car dealership. A man is reading a magazine at the hospital.
+
+
+
+A man is reading a newspaper in a car dealership. A human is seeing a periodical at the clinic.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: From afar, a person walks down a path through a brown field.>>>>Hypothesis: A somebody picked a selfie.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A pregnant lady singing on stage while holding a flag behind her. A woman is making music.
+
+
+
+A pregnant lady comes on stage while holding a flag behind her. A woman is making music.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man is sitting outside next to fruit. A man waiting on a car.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+una goalie attempting to catch a ball during a soccer game. the goalie ceased during the game.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man in a red shirt entering an establishment. Bob walked into the store.
+
+
+
+A man in a red shirt entering an establishment. Yair walked into the store.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A lone, 2-3 year old blond child in a blue jacket is putting a small black plastic item in his mouth as he kneels on a waiting room couch pointed toward the back while looking at something or someone not in the room. The child is blonde.
+
+
+
+A lone, 2-3 year old blond child in a blue jacket is putting a small black plastic item in his mouth as he kneels on a waiting room couch pointed toward the back while looking at something or someone not in the room. The bambino is blonde.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves.>>>>Hypothesis: The small baby is in it's crib sound morning.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A young child sits on the floor and leans against a map to eat.>>>>Hypothesis: The child is resting.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Two men, both have glasses, are wearing striped shirts are in the kitchen preparing a meal and washing up. Two men are fixing their handcuffs a romantic dining for Valentine's Dias.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Two men sitting on a subway are reading, with coats and scarves on, but have seemed to have forfeited their pants.>>>>Hypothesis: The men are wearing pants.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A family, daughter in the middle, walks down the street.>>>>Hypothesis: the family is something
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A couple dancing alfresco dressed in turquoise tops, the lady is held up in the air with her hands stretched upwards. Nobody is dancing
+
+
+
+A couple dancing alfresco dressed in turquoise tops, the lady is held up in the air with her hands stretched upwards. Stuff is dancing
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A greyhound jumps over a chain. A dog is sleeping under a chain.
+
+
+
+A greyhound jumps over a chain. A dog is secured under a chain.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Camel on wet road while fella hangs on back.>>>>Hypothesis: racing on a drying road.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes. One man is dressed up for a night out while the other is not.
+
+
+
+A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes. One ape is dressed up for a night out while the other is not.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man in a striped shirt and lady in a colored hat are watching a young band perform on stage.>>>>Hypothesis: A lady has a white bonnet.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Four skaters performing a cheer on court at UCLA. Cheerleaders performing a cheer.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: An african american home with 2 young girls.>>>>Hypothesis: There is a man with his daughters.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man is herding horned cows on a horse. A man is herding sheep.
+
+
+
+A man is herding horned cows on a horse. A man is herding livestock.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A lone, 2-3 year old blond child in a blue jacket is putting a small black plastic item in his mouth as he kneels on a waiting room couch pointed toward the back while looking at something or someone not in the room. The bambino is blonde.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man and a girl are sitting at a table outside, next to a small flower room. every man and woman are outside.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Two little Asian kids are dressed warmly in colorful jackets while standing on the playground.>>>>Hypothesis: The children are dressed in warm dresses.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man in black reading a book for a group of people. The man is reading for children.
+
+
+
+A men in black reading a cookbook for a group of citizens. The man is reading for children.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Blue race car raises dust cloud on road as spectators take photos. A automobile parked on a conveyance vessel.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A soccer ball is above the head of a man wearing black shorts and red and black striped shirt. A tall person in pants
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a ape running with snowshoes on the snow looking for the lost girl
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A smiling woman is playing the violin in front of a turquoise background. A woman is playing an instrument.
+
+
+
+A smiling woman is playing the violin in front of a turquoise background. A woman is playing an drumstick.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Racing on wet road while man hangs on back. racing on a dry road.
+
+
+
+Camel on wet road while fella hangs on back. racing on a drying road.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+a brown and a black dog play in a field There is a terrier outside.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man playing a banjo near a tree at an outdoor event.>>>>Hypothesis: The man is playing a instrument also.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A baby in a bathrobe waits for his shower.>>>>Hypothesis: A baby is waiting for his mother to give him a toilet.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A man in a lab coat looking into a microscope with containers in the background. A man in a lab coat showing a lady's blood.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a man running on the track
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a man running on the way
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Two men, both have glasses, are wearing striped shirts are in the kitchen preparing a meal and washing up. Two men are fixing their wives a romantic dinner for Valentine's Day.
+
+
+
+Two men, both have glasses, are wearing striped shirts are in the kitchen preparing a meal and washing up. Two men are fixing their handcuffs a romantic dining for Valentine's Dias.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road. The road is footpath.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man and a woman are sitting at a table outside, next to a small flower garden. The man and woman are away.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Two people and a man are in a sporty red convertible in front of a large group of people on the sidewalk. Two women are in a car with a man.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+The people ride down the road on sleds. The people are on the peripheral going to the museum
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Two men, both have glasses, are wearing striped shirts are in the kitchen preparing a meal and washing up.>>>>Hypothesis: Two men are fixing their handcuffs a romantic dining for Valentine's Dias.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man in all black clothes does a breakdancing move. The man is dancing on the street.
+
+
+
+A man in all black garment does a breakdancing move. The fella is dancing on the rue.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Blue race car raises dust cloud on road as spectators take photos. A car parked on a ferry boat.
+
+
+
+Blue race car raises dust cloud on road as spectators take photos. A automobile parked on a conveyance vessel.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man in a red shirt entering an establishment. Yair walked into the store.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man under a running shower with shampoo in his hair. A man is taking a bath.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.>>>>Hypothesis: A odd man is next to a camera
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Boys on a field playing flag football with one boy wearing the red flag clutching the football while a boy with a yellow flag dives to get his red flag. A boy dives to get the flag to end the game of flag football
+
+
+
+Boys on a field playing flag football with one boy wearing the red flag clutching the football while a boy with a yellow flag dives to get his red flag. A boy dives to get the flag to complete the game of flag football
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one individual in a yellow Chinese dragon getup confronts the camera. A single guy is next to a camera
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A male is placing an order in a bank. A man at a deli.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent. The crowd is driving for the man.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man is carrying a person on his shoulders.>>>>Hypothesis: A child is on a mans shoulders.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Two little Asian kids are dressed warmly in colorful jackets while standing on the playground. The children are dressed in warm dresses.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man in a striped shirt and lady in a colored hat are watching a young band perform on stage. A lady has a white bonnet.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Nine women in blue and purple dresses and one man wearing a purple shirt and black pants, dance while a man dressed in black dances.>>>>Hypothesis: There are people clapping.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A young man standing on a plank of wood and using a large saw to cut it.>>>>Hypothesis: A young blond is cutting wood.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young girl is cutting wood.
+
+
+
+A young man standing on a plank of wood and using a large saw to cut it. A young blond is cutting wood.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: An indian man walks past a temple on his way to pray.>>>>Hypothesis: An indian is on his way to salute.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A soccer ball is above the head of a man wearing black shorts and red and black striped shirt.>>>>Hypothesis: A tall person in pants
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A mom and son enjoying a day in the park. A grandparent and son enjoying a day
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man is carrying a person on his shoulders. A child is on a mans shoulders.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A men in black reading a cookbook for a group of citizens.>>>>Hypothesis: The man is reading for children.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent. The crowd is cheering for the man.
+
+
+
+A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent. The crowd is driving for the man.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Four skaters performing a cheer on court at UCLA.>>>>Hypothesis: Cheerleaders performing a cheer.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A group of people wearing hats and using walking sticks are walking through a wooded area on a trail. A shovelful of people outdoors.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man is herding horned cows on a horse. A man is herding livestock.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A young man standing on a plank of wood and using a large saw to cut it.>>>>Hypothesis: A young kid is cutting wood.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A pregnant lady singing on stage while holding a flag behind her. A woman is making fugue.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A lady in a red sweatshirt opening a present. The lady is wearing a blue shirt.
+
+
+
+A lady in a red sweatshirt opening a present. The lady is wearing a sexy shirt.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A man and woman sit on a dock looking out over the water on an overcast day.>>>>Hypothesis: The day is pessimistic and poorly lit.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+a man with a blue jacket look at items. A man looks at things.
+
+
+
+a girl with a blue jacket look at items. A man looks at things.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Three men and two women stand facing the shore from the shore on a sunny day.>>>>Hypothesis: People stand facing the ocean.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A greyhound jumps over a chain.>>>>Hypothesis: A dog is secured under a chain.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+An old woman in a sunlit room winds rough yarn into balls, the finished yarn balls placed in a pile to her right. A woman winds yarn to help pay her rent
+
+
+
+An old woman in a sunlit room winds rough yarn into balls, the finished yarn balls placed in a pile to her right. A woman snarls yarn to help pay her rent
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+a brown and a black dog play in a field There is a dog outside.
+
+
+
+a brown and a black dog play in a field There is a terrier outside.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Four cheerleaders performing a cheer on court at UCLA. Cheerleaders performing a cheer.
+
+
+
+Four skaters performing a cheer on court at UCLA. Cheerleaders performing a cheer.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A group of people wearing hats and using walking sticks are walking through a wooded area on a trail.>>>>Hypothesis: A shovelful of people outdoors.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Two boys, one wearing green, the other in yellow, are playing with sidewalk chalk, drawing pictures on the ground. There are two boys drawing lewd pictures in chalk on the ground.
+
+
+
+Two boys, one wearing green, the other in yellow, are playing with sidewalk chalk, drawing pictures on the ground. There are two boys drawing lewd pictures in clay on the ground.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A worker in a striped orange, gray, and white t-shirt hovers over a stand that is displaying different kinds of flat bread. A butcher stands over his freshly cut meat.
+
+
+
+A worker in a striped orange, gray, and white t-shirt hovers over a stand that is displaying different kind of flat loaf. A butcher standing over his freshly cut meat.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+An african american woman with 2 young girls. There is a man with his daughters.
+
+
+
+An african american woman with 2 young girls. There is a bloke with his daughters.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+An Asian badminton player at the Olympics is sprawled on the court, face down with his racket at his side. A sports contestant in an international equestrian, is on the ground still holding onto his sporting equipment.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man, dressed in a green shirt with black pants, is transporting luggage strapped to a wheelbarrow, down a cobblestone road.>>>>Hypothesis: The road is footpath.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A young girl who is barefoot and with a scarf over her head dips her pen in ink and writes in a notebook. canine chases ounce
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Blue race car raises dust cloud on road as spectators take photos.>>>>Hypothesis: A automobile parked on a conveyance vessel.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Four cheerleaders performing a cheer on court at UCLA. Cheerleaders performing a cheer.
+
+
+
+Four cheerleaders performing a cheer on court at UCLA. Cheerleaders performing a push.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a man running with snowshoes on the snow looking for the lost girl
+
+
+
+A man in an orange hat and brown jacket and pants running on snow in snowshoes. a ape running with snowshoes on the snow looking for the lost girl
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Boys on a field playing flag football with one boy wearing the red flag clutching the football while a boy with a yellow flag dives to get his red flag. A boy dives to get the flag to complete the game of flag football
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Boy wearing a blue hoodie jumps over a railing railing.>>>>Hypothesis: A boy jumps over a stair railing.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A black dog carrying a hanging flower pot. A dog carrying a flower pot.
+
+
+
+A black girl carrying a hanging flower pot. A dog carrying a flower pot.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A man in a black shirt is smiling at a woman in a black shirt what a tattoo and a eye brow ring. A man is smiling at a woman.
+
+
+
+A man in a black shirt is smiling at a dude in a black shirt what a tattoo and a eye brow ring. A man is smiling at a woman.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A young girl who is barefoot and with a scarf over her head dips her pen in ink and writes in a notebook.>>>>Hypothesis: canine chases ounce
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: A man is sitting outside next to fruit.>>>>Hypothesis: A man waiting on a car.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera. A single man is next to a camera
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera. A odd man is next to a camera
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A woman wearing a white baseball cap purple coat holding a poster.>>>>Hypothesis: A woman is holding a charcoal, rooting for her favorite team.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+An older woman sits at a table in a tank top and skirt. A woman is waiting for her drink
+
+
+
+An older woman sits at a table in a tank top and skirt. A womenfolk is tarrying for her drink
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Nine women in blue and purple dresses and one man wearing a purple shirt and black pants, dance while a man dressed in black dances. There are people clapping.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A family, daughter in the middle, walks down the street.>>>>Hypothesis: the family is seat
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: One kid walking across the street, another on sidewalk.>>>>Hypothesis: Women separate after lunch.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+One woman walking across the street, another on sidewalk. Women separate after lunch.
+
+
+
+One kid walking across the street, another on sidewalk. Women separate after lunch.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves. The small baby is in it's crib sound morning.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Two women, one walking her dog the other pushing a shovel. There is a snowstorm.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+An african american woman with 2 young girls. There is a bloke with his daughters.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A person in a yellow slicker is driving a motorboat next to the beach. A fisherman enters home for the night.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A smiling woman is playing the violin in front of a turquoise background. A woman is playing an drumstick.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A man and woman sit on a dock looking out over the water on an overcast day. The day is pessimistic and poorly lit.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera. A odd man is next to a camera
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A woman wearing a white baseball cap purple coat holding a poster. A woman is holding a charcoal, rooting for her favorite team.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: An Asian badminton player at the Olympics is sprawled on the court, face down with his racket at his side.>>>>Hypothesis: A sports contestant in an international equestrian, is on the ground still holding onto his sporting equipment.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Boys on a field playing flag football with one boy wearing the red flag clutching the football while a boy with a yellow flag dives to get his red flag.>>>>Hypothesis: A boy dives to get the flag to complete the game of flag football
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A man selling or buying oranges on a cart in an outside supermarket. A militia is outside on a cloudy day in front of a store.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A man wearing black pants and jacket is on a blue scooter next to a crowd of people and a green tent.>>>>Hypothesis: The crowd is driving for the man.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Two women and a man are in a sporty red convertible in front of a large group of people on the sidewalk. Two women are in a car with a man.
+
+
+
+Two people and a man are in a sporty red convertible in front of a large group of people on the sidewalk. Two women are in a car with a man.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A man in all black garment does a breakdancing move. The fella is dancing on the rue.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A mom and son enjoying a day in the park. A mom and son enjoying a day
+
+
+
+A mom and son enjoying a day in the park. A grandparent and son enjoying a day
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Four girls and a lady learning how to do some handicraft. Craftsmanship are being done poorly.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: A goalie tries to catch a ball during a soccer game.>>>>Hypothesis: the goalie waive during the game.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: the father helps his son ride a bike with dry, and dusty dirt accompanied by his sister huddled in a green bed.>>>>Hypothesis: Someone is sleeping
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A woman with dark hair and a red dress sits next to a little girl with blond-hair and a white dress while reading a book. A person with moustache
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A man trying to block another man from shooting the ball in. The man is is near the ball.
+
+
+
+A man trying to block another man from shooting the ball in. The man is is near the prom.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A young child is being held by another child looking straight at us. The preteen is forty grades foregone.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: An outdoor rodeo, with a cowboy in a red shirt riding a bucking horse while others watch from the sidelines.>>>>Hypothesis: A bullfighter is attempting to keep his horse calm for the competition
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+a man with a blue jacket look at items. A man looks at things.
+
+
+
+a man with a blue jacket look at items. A man looks at tides.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A child wearing a red shirt playing. A preteen wearing a lemon waist resting.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Boy wearing a blue hoodie jumps over a stair railing. A boy jumps over a stair railing.
+
+
+
+Boy wearing a blue hoodie jumps over a railing railing. A boy jumps over a stair railing.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+A young man dressed in black dress clothes lies down with his head resting in the lap of an older man in plain clothes. One ape is dressed up for a night out while the other is not.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+A baseball player is sliding into a base while the baseman is catching an incoming ball during a major league baseball game. A baseball player slides into a base.
+
+
+
+A baseball player is stepping into a base while the baseman is catching an incoming ball during a major league baseball game. A baseball player slides into a base.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.",Say something about this survey. Are the questions clear? Do we provide enough choices? Is the workload too big? (Please proceed to the next page to get the completion code)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44_1""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID46_1""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50_1""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID54_1""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID56_1""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID64_1""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID73""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78_1""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80_1""}","{""ImportId"":""QID81""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID87""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89_1""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95""}","{""ImportId"":""QID96_1""}","{""ImportId"":""QID97""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID99_1""}","{""ImportId"":""QID100_1""}","{""ImportId"":""QID101_1""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID108_1""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID110""}","{""ImportId"":""QID111_1""}","{""ImportId"":""QID112_1""}","{""ImportId"":""QID113""}","{""ImportId"":""QID114_1""}","{""ImportId"":""QID115""}","{""ImportId"":""QID116_1""}","{""ImportId"":""QID117""}","{""ImportId"":""QID118_1""}","{""ImportId"":""QID119_1""}","{""ImportId"":""QID120""}","{""ImportId"":""QID121_1""}","{""ImportId"":""QID122_1""}","{""ImportId"":""QID123_1""}","{""ImportId"":""QID124_1""}","{""ImportId"":""QID125""}","{""ImportId"":""QID126_1""}","{""ImportId"":""QID127_1""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID129""}","{""ImportId"":""QID130_1""}","{""ImportId"":""QID131_1""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID133""}","{""ImportId"":""QID134_1""}","{""ImportId"":""QID135_1""}","{""ImportId"":""QID136_1""}","{""ImportId"":""QID137""}","{""ImportId"":""QID138_1""}","{""ImportId"":""QID139_1""}","{""ImportId"":""QID140_1""}","{""ImportId"":""QID141_1""}","{""ImportId"":""QID142_1""}","{""ImportId"":""QID143_1""}","{""ImportId"":""QID144_1""}","{""ImportId"":""QID145_1""}","{""ImportId"":""QID146_1""}","{""ImportId"":""QID147_1""}","{""ImportId"":""QID148_1""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID150_1""}","{""ImportId"":""QID151_1""}","{""ImportId"":""QID152""}","{""ImportId"":""QID153_1""}","{""ImportId"":""QID154""}","{""ImportId"":""QID155_1""}","{""ImportId"":""QID156_1""}","{""ImportId"":""QID157""}","{""ImportId"":""QID158_1""}","{""ImportId"":""QID159""}","{""ImportId"":""QID160_1""}","{""ImportId"":""QID161_1""}","{""ImportId"":""QID162_1""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID164_1""}","{""ImportId"":""QID165_1""}","{""ImportId"":""QID166_1""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID169_1""}","{""ImportId"":""QID170_1""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID172""}","{""ImportId"":""QID173_1""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID175_1""}","{""ImportId"":""QID176_1""}","{""ImportId"":""QID177""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID181""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID183_1""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID185_1""}","{""ImportId"":""QID186""}","{""ImportId"":""QID187_1""}","{""ImportId"":""QID188""}","{""ImportId"":""QID189_1""}","{""ImportId"":""QID190_1""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID192""}","{""ImportId"":""QID193_1""}","{""ImportId"":""QID194""}","{""ImportId"":""QID195_1""}","{""ImportId"":""QID196""}","{""ImportId"":""QID197_1""}","{""ImportId"":""QID198_1""}","{""ImportId"":""QID199_1""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID201_1""}","{""ImportId"":""QID202_1""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID204_1""}","{""ImportId"":""QID205""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID207""}","{""ImportId"":""QID208_1""}","{""ImportId"":""QID209""}","{""ImportId"":""QID210_1""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID212""}","{""ImportId"":""QID213_1""}","{""ImportId"":""QID214""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID216_1""}","{""ImportId"":""QID217""}","{""ImportId"":""QID218_1""}","{""ImportId"":""QID219_1""}","{""ImportId"":""QID220""}","{""ImportId"":""QID221_1""}","{""ImportId"":""QID222""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID224""}","{""ImportId"":""QID225_1""}","{""ImportId"":""QID226""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID228_1""}","{""ImportId"":""QID229_1""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID231""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID233_1""}","{""ImportId"":""QID234""}","{""ImportId"":""QID235_1""}","{""ImportId"":""QID236_1""}","{""ImportId"":""QID237""}","{""ImportId"":""QID238_1""}","{""ImportId"":""QID239_1""}","{""ImportId"":""QID240_1""}","{""ImportId"":""QID241""}","{""ImportId"":""QID242_1""}","{""ImportId"":""QID243_1""}","{""ImportId"":""QID244_1""}","{""ImportId"":""QID245_1""}","{""ImportId"":""QID246_1""}","{""ImportId"":""QID247_1""}","{""ImportId"":""QID248""}","{""ImportId"":""QID249_1""}","{""ImportId"":""QID250""}","{""ImportId"":""QID251_1""}","{""ImportId"":""QID252_1""}","{""ImportId"":""QID253""}","{""ImportId"":""QID254_1""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256_1""}","{""ImportId"":""QID257_1""}","{""ImportId"":""QID258_1""}","{""ImportId"":""QID259""}","{""ImportId"":""QID260_1""}","{""ImportId"":""QID261_1""}","{""ImportId"":""QID262""}","{""ImportId"":""QID263_1""}","{""ImportId"":""QID264_1""}","{""ImportId"":""QID265""}","{""ImportId"":""QID266_1""}","{""ImportId"":""QID267_1""}","{""ImportId"":""QID268_1""}","{""ImportId"":""QID269_1""}","{""ImportId"":""QID270""}","{""ImportId"":""QID271_1""}","{""ImportId"":""QID272_1""}","{""ImportId"":""QID273_1""}","{""ImportId"":""QID274_1""}","{""ImportId"":""QID275_1""}","{""ImportId"":""QID276_1""}","{""ImportId"":""QID277_1""}","{""ImportId"":""QID278_1""}","{""ImportId"":""QID279""}","{""ImportId"":""QID280_1""}","{""ImportId"":""QID281""}","{""ImportId"":""QID282_1""}","{""ImportId"":""QID283_1""}","{""ImportId"":""QID284_1""}","{""ImportId"":""QID285_1""}","{""ImportId"":""QID286_1""}","{""ImportId"":""QID287_1""}","{""ImportId"":""QID288_1""}","{""ImportId"":""QID289_1""}","{""ImportId"":""QID290""}","{""ImportId"":""QID291_1""}","{""ImportId"":""QID292_1""}","{""ImportId"":""QID293_1""}","{""ImportId"":""QID294_1""}","{""ImportId"":""QID295_1""}","{""ImportId"":""QID296""}","{""ImportId"":""QID297_1""}","{""ImportId"":""QID298_1""}","{""ImportId"":""QID299_1""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID301_1""}","{""ImportId"":""QID302""}","{""ImportId"":""QID303_1""}","{""ImportId"":""QID304_1""}","{""ImportId"":""QID305_1""}","{""ImportId"":""QID306""}","{""ImportId"":""QID307_1""}","{""ImportId"":""QID308""}","{""ImportId"":""QID309_1""}","{""ImportId"":""QID310_1""}","{""ImportId"":""QID311""}","{""ImportId"":""QID312_1""}","{""ImportId"":""QID313""}","{""ImportId"":""QID314_1""}","{""ImportId"":""QID315_1""}","{""ImportId"":""QID316_1""}","{""ImportId"":""QID317""}","{""ImportId"":""QID318_1""}","{""ImportId"":""QID319_1""}","{""ImportId"":""QID320""}","{""ImportId"":""QID321_1""}","{""ImportId"":""QID322_1""}","{""ImportId"":""QID323_1""}","{""ImportId"":""QID324""}","{""ImportId"":""QID325_1""}","{""ImportId"":""QID326_1""}","{""ImportId"":""QID327_1""}","{""ImportId"":""QID328""}","{""ImportId"":""QID329_1""}","{""ImportId"":""QID330_1""}","{""ImportId"":""QID331""}","{""ImportId"":""QID332_1""}","{""ImportId"":""QID333""}","{""ImportId"":""QID334_1""}","{""ImportId"":""QID335_1""}","{""ImportId"":""QID336_1""}","{""ImportId"":""QID337_1""}","{""ImportId"":""QID338""}","{""ImportId"":""QID339_1""}","{""ImportId"":""QID340_1""}","{""ImportId"":""QID341_1""}","{""ImportId"":""QID342_1""}","{""ImportId"":""QID343_1""}","{""ImportId"":""QID344""}","{""ImportId"":""QID345_1""}","{""ImportId"":""QID346_1""}","{""ImportId"":""QID347""}","{""ImportId"":""QID348_1""}","{""ImportId"":""QID349_1""}","{""ImportId"":""QID350_1""}","{""ImportId"":""QID351_1""}","{""ImportId"":""QID352""}","{""ImportId"":""QID353_1""}","{""ImportId"":""QID354_1""}","{""ImportId"":""QID355_1""}","{""ImportId"":""QID356""}","{""ImportId"":""QID357_1""}","{""ImportId"":""QID358""}","{""ImportId"":""QID359_1""}","{""ImportId"":""QID360_1""}","{""ImportId"":""QID361""}","{""ImportId"":""QID362_1""}","{""ImportId"":""QID363_1""}","{""ImportId"":""QID364_1""}","{""ImportId"":""QID365""}","{""ImportId"":""QID366_1""}","{""ImportId"":""QID367""}","{""ImportId"":""QID368_1""}","{""ImportId"":""QID369_1""}","{""ImportId"":""QID370_1""}","{""ImportId"":""QID371_1""}","{""ImportId"":""QID372_1""}","{""ImportId"":""QID373_1""}","{""ImportId"":""QID374_1""}","{""ImportId"":""QID375_1""}","{""ImportId"":""QID376_1""}","{""ImportId"":""QID377_1""}","{""ImportId"":""QID378""}","{""ImportId"":""QID379_1""}","{""ImportId"":""QID380""}","{""ImportId"":""QID381_1""}","{""ImportId"":""QID382_1""}","{""ImportId"":""QID383""}","{""ImportId"":""QID384_1""}","{""ImportId"":""QID385_1""}","{""ImportId"":""QID386_1""}","{""ImportId"":""QID387_1""}","{""ImportId"":""QID388_1""}","{""ImportId"":""QID389""}","{""ImportId"":""QID390_1""}","{""ImportId"":""QID391""}","{""ImportId"":""QID392_1""}","{""ImportId"":""QID393_1""}","{""ImportId"":""QID394_1""}","{""ImportId"":""QID395_1""}","{""ImportId"":""QID396""}","{""ImportId"":""QID397_1""}","{""ImportId"":""QID398_1""}","{""ImportId"":""QID399_1""}","{""ImportId"":""QID400_1""}","{""ImportId"":""QID401_1""}","{""ImportId"":""QID402_1""}","{""ImportId"":""QID403_TEXT""}"
+21/4/2021 23:35,21/4/2021 23:43,0,101.173.165.160,100,441,1,21/4/2021 23:43,R_qVNTiHoNy7VYxWh,,,,,-37.84109497,144.9798889,anonymous,EN,60810088744d6a51f15a51ad,2,1,3,1,1,1,1,1,1,3,1,1,1,1,2,4,2,1,1,1,1,2,1,1,1,2,1,2,2,1,4,2,2,2,2,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21/4/2021 23:34,21/4/2021 23:44,0,94.13.228.182,100,576,1,21/4/2021 23:44,R_3jcihBa72VPCupf,,,,,51.35769653,1.063796997,anonymous,EN,59eecf841c947e00012b3166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,1,1,5,1,1,5,3,5,1,1,5,3,5,1,2,5,3,1,5,5,2,5,1,1,1,5,5,1,5,1,5,2,5,4,1,5,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It is clear. Workload is ok for the payment 
+21/4/2021 23:31,21/4/2021 23:44,0,79.68.28.9,100,793,1,21/4/2021 23:44,R_3Kpc2dVeMKPd4o9,,,,,51.46229553,-2.550201416,anonymous,EN,5e971f8d4e75391c2bad9d4e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,4,2,2,2,4,2,5,3,3,2,2,3,4,2,2,2,3,2,4,3,2,4,3,2,2,4,3,4,3,4,4,3,4,3,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enough choices 
+21/4/2021 23:35,21/4/2021 23:47,0,189.225.252.141,100,740,1,21/4/2021 23:47,R_2uqTxeoH49RgIof,,,,,18.83140564,-98.93840027,anonymous,EN,5f8d35cc8c96854e037df333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,3,4,1,4,2,1,5,1,3,1,1,3,5,1,1,4,2,2,5,1,4,3,3,3,1,3,4,3,3,3,5,2,5,1,4,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"It was good, but adding a lot of details in some sentences is confusing."
+21/4/2021 23:43,21/4/2021 23:53,0,2.218.26.75,100,603,1,21/4/2021 23:53,R_vdezaueFiGzA8qR,,,,,55.86489868,-4.311004639,anonymous,EN,5ed556715b338d0d1597dad9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4,2,3,5,1,5,1,5,1,3,5,3,5,2,2,5,3,3,4,3,5,3,4,3,4,4,4,1,2,4,2,1,4,2,2,4,2,4,3,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wording a bit unclear. 
+21/4/2021 23:46,21/4/2021 23:54,0,82.17.89.58,100,490,1,21/4/2021 23:54,R_25MJCyFQDecV4Mw,,,,,51.52099609,-3.203704834,anonymous,EN,5d554f4c7cf41b0001a05afb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,3,2,3,2,4,1,2,1,2,2,2,2,3,2,3,1,2,2,2,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,All badly written
+21/4/2021 23:50,21/4/2021 23:56,0,79.71.121.240,100,352,1,21/4/2021 23:56,R_3sn1P63hnbe1aQT,,,,,53.43440247,-2.266403198,anonymous,EN,5fb6b6448f01f40d5cf752d9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,2,2,4,1,2,4,2,1,2,4,4,2,1,2,2,2,1,2,2,2,2,2,2,3,3,4,2,2,3,3,2,3,2,2,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21/4/2021 23:51,21/4/2021 23:57,0,46.208.197.52,100,369,1,21/4/2021 23:57,R_2ctnzZ4oM3Oi6cI,,,,,51.07209778,-4.021194458,anonymous,EN,56235e19ed6e5a0011c80a7b,1,1,2,3,2,1,1,1,1,3,4,1,3,1,2,4,1,2,3,2,2,2,3,1,2,2,4,1,2,2,4,2,1,3,5,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It was fine. The questions were clear.
+21/4/2021 23:49,21/4/2021 23:58,0,2.122.124.124,100,577,1,21/4/2021 23:58,R_3EzF9gDS4f05Y2W,,,,,55.85569763,-4.210403442,anonymous,EN,5f687bdc2cb2884a49b84000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,2,1,2,2,2,1,2,5,3,4,2,4,2,1,4,3,4,1,4,4,2,2,2,4,3,4,5,4,2,4,3,3,3,4,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were fairly clear. I think the choices were fine.  
+21/4/2021 23:46,21/4/2021 23:59,0,82.22.70.94,100,749,1,21/4/2021 23:59,R_1hMWUfKnTzCaMlq,,,,,53.69689941,-2.303894043,anonymous,EN,5ea1b7250db98608c6d2ffa5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,5,5,1,2,2,2,3,4,2,2,1,4,3,4,3,3,4,5,4,4,2,3,4,3,4,1,2,1,3,4,1,1,1,1,5,Takes a long time and I don't understand what it's about. 
+21/4/2021 23:44,22/4/2021 0:01,0,82.42.168.28,100,999,1,22/4/2021 0:01,R_2uwyZRcmyjqcNDF,,,,,51.75300598,-0.3256073,anonymous,EN,5efcb29da6f52c08aafedcea,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,2,2,2,2,1,1,5,3,5,4,5,2,2,4,2,2,5,2,1,2,2,1,5,3,2,5,2,4,1,1,3,5,3,5,4,3,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"For the premise /hypothesis questions, some further clarification on these may have helped. Eg Entails is not something i renemver covering back at school"
+21/4/2021 23:49,22/4/2021 0:01,0,188.221.204.134,100,707,1,22/4/2021 0:01,R_3OoDKDfo2J5Z8ic,,,,,52.56640625,-2.066192627,anonymous,EN,59a9c0605ea0f300012815d7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,3,1,3,3,1,1,3,2,3,4,3,5,2,3,5,4,4,2,1,3,1,2,4,1,2,2,2,5,1,1,3,5,3,5,4,2,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It's a long survey
+21/4/2021 23:52,22/4/2021 0:01,0,94.10.190.100,100,588,1,22/4/2021 0:01,R_2wsEB0RmSC2ZZ30,,,,,53.50509644,-2.161895752,anonymous,EN, 5ebbea369da72a018c463ed4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,3,2,4,3,2,4,5,4,2,1,2,5,4,2,2,2,3,2,2,1,1,1,1,1,3,1,3,1,2,1,3,1,1,1,1,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,i think the meaning of hyposis needs to be made a little clearer
+21/4/2021 23:50,22/4/2021 0:02,0,194.207.112.209,100,701,1,22/4/2021 0:02,R_1FxshGFPnpDMcLS,,,,,53.76060486,-0.373397827,anonymous,EN,5b903ee235adcd0001889d4c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,2,4,1,2,2,2,5,3,4,2,2,3,3,4,4,1,2,4,2,2,2,5,5,4,2,5,3,4,3,4,5,3,4,3,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The choices & workload are fine. The questions are unusual but clear. 
+21/4/2021 23:54,22/4/2021 0:03,0,82.16.1.42,100,524,1,22/4/2021 0:03,R_3MyPgtee1qZsY8g,,,,,52.65130615,-1.087600708,anonymous,EN,5f8eff398324d00de931de04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,4,3,1,1,2,1,1,2,3,4,3,4,2,2,4,2,3,4,3,2,3,2,1,2,2,5,4,2,2,2,1,2,1,2,2,4,5,3,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some trial questions would be good to see if you are on the right track or not as I was unsure what I was being asked
+21/4/2021 23:54,22/4/2021 0:04,0,2.218.161.215,100,583,1,22/4/2021 0:04,R_1GEq5waC54OcmXp,,,,,51.53959656,-3.593795776,anonymous,EN,5d532aab3c1b020001f363d6,4,1,2,1,1,1,2,1,2,3,3,1,3,2,1,2,2,1,1,4,2,2,2,1,2,2,4,2,4,2,4,4,1,3,5,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I had to read some of the questions a few times to understand and then I'm not sure I did fully.
+21/4/2021 23:55,22/4/2021 0:04,0,87.114.33.134,100,534,1,22/4/2021 0:04,R_3GBBQPEBwd2M2Mb,,,,,51.49639893,-0.122406006,anonymous,EN,5efcc401bb70310b1c8e879e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,3,4,1,2,4,1,4,1,1,5,1,5,1,1,2,1,3,4,5,2,2,4,2,3,2,2,1,3,3,3,3,2,3,1,3,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,All was clear.
+21/4/2021 23:52,22/4/2021 0:04,0,172.56.7.6,100,739,1,22/4/2021 0:04,R_3NEswjAT4ZNjp4b,,,,,30.20950317,-97.79720306,anonymous,EN,6080f9068cca6af40b3eccf2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,1,2,3,4,1,1,2,3,5,2,2,4,1,5,1,3,4,2,3,4,5,2,5,4,5,1,5,2,1,4,3,5,2,5,1,3,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The questions were clear, however it did take a question or two into the survey to really understand the intent. Would suggest in the future to have a couple of example questions unrelated to your survey so that no questions in your survey are answered in an unclear/unfamiliar matter. The choices were enough for me to utilize - I did not feel like I needed any more. The workload was not too large - it was a good amount of time for the survey. "
+21/4/2021 23:55,22/4/2021 0:06,0,82.4.11.219,100,618,1,22/4/2021 0:06,R_1fZ2zXTjDAM6Pcg,,,,,51.90449524,-0.198394775,anonymous,EN,5c505b5bacb46e0001bd5672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,5,4,1,5,4,4,4,5,5,4,1,4,3,5,4,2,4,5,5,2,4,1,5,3,5,2,2,1,3,5,2,2,5,4,5,Easy survey really clear 
+21/4/2021 23:38,22/4/2021 0:08,0,197.185.100.99,100,1750,1,22/4/2021 0:08,R_3J4drIULqtaP7Tr,,,,,-26.38110352,27.83760071,anonymous,EN,5fa4faf94527261b54915c03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,2,4,2,2,4,4,4,2,3,1,2,5,2,1,2,2,5,4,2,3,4,2,3,2,3,3,3,4,3,5,3,4,4,1,3,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were okay
+21/4/2021 23:53,22/4/2021 0:08,0,77.97.198.219,100,878,1,22/4/2021 0:08,R_1jqSUq7tWMGHoj1,,,,,51.31880188,-2.203399658,anonymous,EN,597f88ce7b7b850001fa4f3d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,5,1,2,4,4,5,2,4,4,2,3,4,3,2,2,3,4,4,4,2,2,3,4,3,3,2,2,1,3,4,2,1,4,5,4,"Most of the ""sentences"" are, in fact, 2 sentences, making judgement more difficult."
+21/4/2021 23:52,22/4/2021 0:08,0,102.141.84.179,100,1000,1,22/4/2021 0:08,R_xnmwWNP7JyRM9cl,,,,,-23.94999695,31.11669922,anonymous,EN,5f5b2bd1b2430a23a9674a55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,4,2,2,2,1,4,3,2,4,5,1,2,4,3,4,2,4,1,2,2,1,2,2,1,2,2,2,1,1,3,4,3,4,4,2,2,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21/4/2021 23:53,22/4/2021 0:09,0,81.141.4.91,100,941,1,22/4/2021 0:09,R_2ztEhRE9q7MLIY9,,,,,53.93080139,-0.815200806,anonymous,EN,607dbd9f9a81d80d06c643a8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,5,2,2,3,3,2,1,4,1,2,2,2,4,2,2,2,3,2,1,4,2,4,2,1,4,1,5,2,4,2,2,3,3,5,2,3,2,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some of the questions were ambiguous as the grammar and punctuation on most of them were poor. 
+21/4/2021 23:51,22/4/2021 0:12,0,85.145.212.160,100,1239,1,22/4/2021 0:12,R_10TmI63SwroAVnw,,,,,53.18969727,5.814605713,anonymous,EN,60535839b4d6b1a46970cf3e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,2,1,5,1,4,2,1,5,2,3,1,3,3,3,1,3,5,2,3,5,4,4,2,2,5,4,2,3,2,3,2,2,2,3,1,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21/4/2021 23:54,22/4/2021 0:12,0,197.185.108.18,100,1044,1,22/4/2021 0:12,R_XnqTDg3nSKt2DfP,,,,,-26.38110352,27.83760071,anonymous,EN,604fafba0c6ce33ea4e8ec05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,5,1,1,2,1,2,5,5,3,2,5,4,3,2,5,2,2,1,5,4,3,1,2,5,3,2,4,2,1,5,3,2,1,5,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions are clear and the choices were enough. It was just difficult understanding the point of the survey because most the sentences obviously had different meanings or had obvious bad fluency which could be spotted easily so I wonder what was the point of all of that. No the workload was fine it gives a bigger sample size and thus better accuracy and precision in the results.
+21/4/2021 23:54,22/4/2021 0:15,0,80.2.89.17,100,1213,1,22/4/2021 0:15,R_3j2vgsyHkPXp6Ep,,,,,51.08279419,-1.353302002,anonymous,EN,5e0e5c664c81b25b8e1ea3e8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,4,2,3,2,2,5,1,1,1,4,5,2,1,1,2,5,2,2,3,5,2,5,2,2,4,3,4,2,4,3,5,5,1,5,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Interesting study 😃
+21/4/2021 23:55,22/4/2021 0:18,0,41.147.0.163,100,1370,1,22/4/2021 0:18,R_viW43YRS2SWS4zT,,,,,-34.04859924,18.48109436,anonymous,EN,5fbba080d884e1d04debebb9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,2,4,3,2,1,5,1,5,1,3,5,3,5,2,2,5,3,3,4,3,2,3,3,3,5,1,4,4,3,4,3,1,4,2,2,5,4,2,3,5,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions are clear.
+21/4/2021 23:55,22/4/2021 0:38,0,105.12.1.112,100,2578,1,22/4/2021 0:38,R_3szt7a800C3GA6M,,,,,-26.38110352,27.83760071,anonymous,EN,5fb8001908f1d0478862aedd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,1,5,2,4,3,4,3,4,4,4,3,4,1,1,1,5,2,5,4,4,5,4,4,4,5,3,4,2,4,4,3,4,3,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions are clear
+22/4/2021 0:30,22/4/2021 0:53,0,37.47.196.197,100,1350,1,22/4/2021 0:53,R_vuTHwz90FmgKyo9,,,,,54.35029602,18.65820313,anonymous,EN,605dd566e714dcc87f884853,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,4,3,4,1,4,2,1,4,3,4,2,2,2,4,2,1,4,5,2,4,2,4,3,2,4,4,3,2,3,2,4,3,2,4,3,4,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22/4/2021 0:45,22/4/2021 0:56,0,90.220.179.92,100,640,1,22/4/2021 0:56,R_3NCXTv5DiyeKDAX,,,,,51.47810364,-0.027893066,anonymous,EN,5eca46c6c1e2c601290bab15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,2,2,2,3,1,4,3,2,2,1,2,3,2,1,1,3,1,3,2,5,2,2,1,1,3,2,3,1,2,3,2,3,2,2,2,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I think there should have been a test at the beginning, letting you know you were on the right track before starting properly."
+22/4/2021 0:45,22/4/2021 0:56,0,77.102.41.58,100,657,1,22/4/2021 0:56,R_1eRJ0WJQGGXOkqu,,,,,53.68330383,-2.916702271,anonymous,EN,5ddd9d0e40460ecfff653cb5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,4,3,4,1,4,2,1,5,3,5,2,4,2,4,2,3,4,3,3,3,5,3,2,1,3,5,2,2,1,1,3,3,2,3,3,4,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seems fine. Only a little confusing at times.
+22/4/2021 0:45,22/4/2021 1:03,0,105.184.166.23,100,1066,1,22/4/2021 1:03,R_233uJj42C8srtXC,,,,,-26.38110352,27.83760071,anonymous,EN,60784c0aa62f84a2f2312c30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,1,1,2,3,2,2,3,5,5,1,3,4,2,1,2,4,3,2,1,2,5,1,1,2,3,3,5,3,2,4,3,2,3,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

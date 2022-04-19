@@ -1,0 +1,2835 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID,bae_qqp_92_consistency_1,pso_qqp_207_label,pso_qqp_207_difficulty_1,alzantot_qqp_139_fluency_1,bae_qqp_267_consistency_1,pso_qqp_212_fluency_1,alzantot_qqp_357_consistency_1,bae_qqp_0_consistency_1,bae_qqp_27_fluency_1,alzantot_qqp_226_fluency_1,pso_qqp_119_consistency_1,bae_qqp_67_label,bae_qqp_67_difficulty_1,pso_qqp_119_label,pso_qqp_119_difficulty_1,alzantot_qqp_0_fluency_1,pso_qqp_207_fluency_1,bae_qqp_234_fluency_1,pso_qqp_73_label,pso_qqp_73_difficulty_1,bae_qqp_242_fluency_1,bae_qqp_27_label,bae_qqp_27_difficulty_1,bae_qqp_101_label,bae_qqp_101_difficulty_1,alzantot_qqp_357_label,alzantot_qqp_357_difficulty_1,bae_qqp_343_label,bae_qqp_343_difficulty_1,alzantot_qqp_339_fluency_1,alzantot_qqp_143_consistency_1,pso_qqp_295_label,pso_qqp_295_difficulty_1,pso_qqp_207_consistency_1,bae_qqp_331_consistency_1,pso_qqp_21_consistency_1,pso_qqp_139_fluency_1,bae_qqp_158_fluency_1,bae_qqp_365_label,bae_qqp_365_difficulty_1,pso_qqp_139_consistency_1,bae_qqp_101_consistency_1,alzantot_qqp_97_label,alzantot_qqp_97_difficulty_1,alzantot_qqp_284_label,alzantot_qqp_284_difficulty_1,bae_qqp_38_label,bae_qqp_38_difficulty_1,pso_qqp_362_consistency_1,pso_qqp_86_consistency_1,alzantot_qqp_116_fluency_1,alzantot_qqp_184_consistency_1,alzantot_qqp_339_consistency_1,alzantot_qqp_284_consistency_1,bae_qqp_42_fluency_1,bae_qqp_326_label,bae_qqp_326_difficulty_1,pso_qqp_321_label,pso_qqp_321_difficulty_1,alzantot_qqp_293_label,alzantot_qqp_293_difficulty_1,pso_qqp_165_consistency_1,pso_qqp_321_fluency_1,alzantot_qqp_226_consistency_1,pso_qqp_362_fluency_1,alzantot_qqp_0_label,alzantot_qqp_0_difficulty_1,bae_qqp_165_fluency_1,bae_qqp_377_fluency_1,alzantot_qqp_387_consistency_1,bae_qqp_9_fluency_1,alzantot_qqp_387_fluency_1,bae_qqp_38_consistency_1,pso_qqp_347_consistency_1,alzantot_qqp_352_label,alzantot_qqp_352_difficulty_1,bae_qqp_273_fluency_1,pso_qqp_386_label,pso_qqp_386_difficulty_1,alzantot_qqp_73_consistency_1,bae_qqp_316_label,bae_qqp_316_difficulty_1,bae_qqp_234_label,bae_qqp_234_difficulty_1,alzantot_qqp_352_consistency_1,alzantot_qqp_143_fluency_1,alzantot_qqp_90_label,alzantot_qqp_90_difficulty_1,bae_qqp_21_consistency_1,pso_qqp_309_fluency_1,bae_qqp_97_fluency_1,pso_qqp_309_consistency_1,bae_qqp_324_consistency_1,bae_qqp_9_consistency_1,alzantot_qqp_70_label,alzantot_qqp_70_difficulty_1,bae_qqp_331_label,bae_qqp_331_difficulty_1,alzantot_qqp_256_label,alzantot_qqp_256_difficulty_1,bae_qqp_328_label,bae_qqp_328_difficulty_1,alzantot_qqp_352_fluency_1,alzantot_qqp_139_label,alzantot_qqp_139_difficulty_1,pso_qqp_388_label,pso_qqp_388_difficulty_1,pso_qqp_256_consistency_1,pso_qqp_105_label,pso_qqp_105_difficulty_1,bae_qqp_346_label,bae_qqp_346_difficulty_1,alzantot_qqp_183_label,alzantot_qqp_183_difficulty_1,pso_qqp_195_fluency_1,pso_qqp_295_consistency_1,bae_qqp_21_label,bae_qqp_21_difficulty_1,bae_qqp_38_fluency_1,pso_qqp_134_label,pso_qqp_134_difficulty_1,bae_qqp_326_fluency_1,pso_qqp_386_consistency_1,bae_qqp_324_label,bae_qqp_324_difficulty_1,pso_qqp_116_fluency_1,pso_qqp_21_label,pso_qqp_21_difficulty_1,alzantot_qqp_357_fluency_1,pso_qqp_373_fluency_1,alzantot_qqp_256_fluency_1,pso_qqp_119_fluency_1,alzantot_qqp_143_label,alzantot_qqp_143_difficulty_1,pso_qqp_165_fluency_1,alzantot_qqp_219_consistency_1,bae_qqp_275_fluency_1,pso_qqp_256_fluency_1,alzantot_qqp_387_label,alzantot_qqp_387_difficulty_1,alzantot_qqp_255_label,alzantot_qqp_255_difficulty_1,alzantot_qqp_360_consistency_1,pso_qqp_116_consistency_1,alzantot_qqp_66_fluency_1,alzantot_qqp_165_fluency_1,pso_qqp_17_consistency_1,alzantot_qqp_66_consistency_1,bae_qqp_346_fluency_1,pso_qqp_114_label,pso_qqp_114_difficulty_1,bae_qqp_192_label,bae_qqp_192_difficulty_1,alzantot_qqp_97_consistency_1,bae_qqp_2_label,bae_qqp_2_difficulty_1,bae_qqp_0_label,bae_qqp_0_difficulty_1,alzantot_qqp_183_fluency_1,bae_qqp_326_consistency_1,bae_qqp_331_fluency_1,alzantot_qqp_70_consistency_1,bae_qqp_192_consistency_1,pso_qqp_135_consistency_1,bae_qqp_300_fluency_1,alzantot_qqp_275_label,alzantot_qqp_275_difficulty_1,alzantot_qqp_275_consistency_1,checklist_qqp_8_consistency_1,pso_qqp_241_label,pso_qqp_241_difficulty_1,bae_qqp_316_fluency_1,alzantot_qqp_24_fluency_1,pso_qqp_386_fluency_1,alzantot_qqp_255_fluency_1,pso_qqp_73_consistency_1,alzantot_qqp_219_label,alzantot_qqp_219_difficulty_1,bae_qqp_67_consistency_1,bae_qqp_2_consistency_1,alzantot_qqp_360_fluency_1,alzantot_qqp_24_consistency_1,bae_qqp_376_fluency_1,pso_qqp_67_consistency_1,alzantot_qqp_334_consistency_1,bae_qqp_165_label,bae_qqp_165_difficulty_1,bae_qqp_275_label,bae_qqp_275_difficulty_1,bae_qqp_300_consistency_1,pso_qqp_116_label,pso_qqp_116_difficulty_1,bae_qqp_42_label,bae_qqp_42_difficulty_1,alzantot_qqp_24_label,alzantot_qqp_24_difficulty_1,pso_qqp_347_label,pso_qqp_347_difficulty_1,alzantot_qqp_184_fluency_1,pso_qqp_363_label,pso_qqp_363_difficulty_1,checklist_qqp_8_label,checklist_qqp_8_difficulty_1,pso_qqp_363_fluency_1,bae_qqp_42_consistency_1,bae_qqp_290_label,bae_qqp_290_difficulty_1,bae_qqp_376_label,bae_qqp_376_difficulty_1,bae_qqp_307_consistency_1,pso_qqp_222_label,pso_qqp_222_difficulty_1,pso_qqp_212_consistency_1,pso_qqp_86_label,pso_qqp_86_difficulty_1,alzantot_qqp_228_fluency_1,alzantot_qqp_228_label,alzantot_qqp_228_difficulty_1,pso_qqp_362_label,pso_qqp_362_difficulty_1,alzantot_qqp_90_consistency_1,alzantot_qqp_53_fluency_1,bae_qqp_307_label,bae_qqp_307_difficulty_1,bae_qqp_149_fluency_1,pso_qqp_321_consistency_1,bae_qqp_149_consistency_1,bae_qqp_267_fluency_1,checklist_qqp_126_label,checklist_qqp_126_difficulty_1,bae_qqp_165_consistency_1,bae_qqp_377_label,bae_qqp_377_difficulty_1,pso_qqp_17_fluency_1,bae_qqp_158_label,bae_qqp_158_difficulty_1,alzantot_qqp_339_label,alzantot_qqp_339_difficulty_1,bae_qqp_41_label,bae_qqp_41_difficulty_1,alzantot_qqp_226_label,alzantot_qqp_226_difficulty_1,pso_qqp_264_label,pso_qqp_264_difficulty_1,bae_qqp_290_fluency_1,bae_qqp_67_fluency_1,bae_qqp_242_consistency_1,pso_qqp_373_label,pso_qqp_373_difficulty_1,bae_qqp_21_fluency_1,pso_qqp_139_label,pso_qqp_139_difficulty_1,pso_qqp_140_label,pso_qqp_140_difficulty_1,alzantot_qqp_293_consistency_1,pso_qqp_105_consistency_1,alzantot_qqp_228_consistency_1,alzantot_qqp_139_consistency_1,bae_qqp_346_consistency_1,pso_qqp_67_fluency_1,pso_qqp_114_consistency_1,pso_qqp_86_fluency_1,alzantot_qqp_293_fluency_1,pso_qqp_347_fluency_1,pso_qqp_135_label,pso_qqp_135_difficulty_1,pso_qqp_67_label,pso_qqp_67_difficulty_1,alzantot_qqp_70_fluency_1,alzantot_qqp_116_label,alzantot_qqp_116_difficulty_1,alzantot_qqp_184_label,alzantot_qqp_184_difficulty_1,bae_qqp_396_label,bae_qqp_396_difficulty_1,pso_qqp_73_fluency_1,bae_qqp_242_label,bae_qqp_242_difficulty_1,bae_qqp_273_consistency_1,alzantot_qqp_73_fluency_1,checklist_qqp_8_fluency_1,bae_qqp_273_label,bae_qqp_273_difficulty_1,pso_qqp_264_consistency_1,bae_qqp_92_fluency_1,pso_qqp_393_fluency_1,alzantot_qqp_334_label,alzantot_qqp_334_difficulty_1,bae_qqp_376_consistency_1,pso_qqp_363_consistency_1,bae_qqp_24_fluency_1,alzantot_qqp_53_label,alzantot_qqp_53_difficulty_1,pso_qqp_212_label,pso_qqp_212_difficulty_1,bae_qqp_158_consistency_1,bae_qqp_24_consistency_1,bae_qqp_377_consistency_1,pso_qqp_189_fluency_1,pso_qqp_241_consistency_1,bae_qqp_27_consistency_1,pso_qqp_134_consistency_1,bae_qqp_192_fluency_1,bae_qqp_267_label,bae_qqp_267_difficulty_1,alzantot_qqp_360_label,alzantot_qqp_360_difficulty_1,alzantot_qqp_0_consistency_1,bae_qqp_307_fluency_1,pso_qqp_17_label,pso_qqp_17_difficulty_1,bae_qqp_275_consistency_1,pso_qqp_256_label,pso_qqp_256_difficulty_1,bae_qqp_97_consistency_1,bae_qqp_365_fluency_1,bae_qqp_24_label,bae_qqp_24_difficulty_1,alzantot_qqp_255_consistency_1,pso_qqp_388_fluency_1,alzantot_qqp_165_consistency_1,bae_qqp_41_consistency_1,pso_qqp_114_fluency_1,bae_qqp_343_fluency_1,bae_qqp_0_fluency_1,bae_qqp_316_consistency_1,bae_qqp_1_consistency_1,alzantot_qqp_97_fluency_1,alzantot_qqp_73_label,alzantot_qqp_73_difficulty_1,bae_qqp_396_consistency_1,bae_qqp_188_fluency_1,bae_qqp_41_fluency_1,alzantot_qqp_165_label,alzantot_qqp_165_difficulty_1,pso_qqp_134_fluency_1,pso_qqp_165_label,pso_qqp_165_difficulty_1,pso_qqp_264_fluency_1,pso_qqp_309_label,pso_qqp_309_difficulty_1,pso_qqp_222_fluency_1,bae_qqp_328_fluency_1,bae_qqp_149_label,bae_qqp_149_difficulty_1,alzantot_qqp_116_consistency_1,alzantot_qqp_275_fluency_1,pso_qqp_241_fluency_1,checklist_qqp_126_fluency_1,bae_qqp_97_label,bae_qqp_97_difficulty_1,bae_qqp_2_fluency_1,bae_qqp_343_consistency_1,pso_qqp_195_label,pso_qqp_195_difficulty_1,pso_qqp_393_label,pso_qqp_393_difficulty_1,bae_qqp_188_label,bae_qqp_188_difficulty_1,checklist_qqp_126_consistency_1,bae_qqp_396_fluency_1,pso_qqp_140_consistency_1,alzantot_qqp_334_fluency_1,pso_qqp_195_consistency_1,bae_qqp_101_fluency_1,alzantot_qqp_219_fluency_1,alzantot_qqp_284_fluency_1,bae_qqp_300_label,bae_qqp_300_difficulty_1,pso_qqp_189_label,pso_qqp_189_difficulty_1,pso_qqp_105_fluency_1,pso_qqp_189_consistency_1,pso_qqp_135_fluency_1,pso_qqp_373_consistency_1,bae_qqp_1_label,bae_qqp_1_difficulty_1,pso_qqp_295_fluency_1,alzantot_qqp_90_fluency_1,bae_qqp_188_consistency_1,bae_qqp_234_consistency_1,bae_qqp_290_consistency_1,pso_qqp_388_consistency_1,alzantot_qqp_53_consistency_1,alzantot_qqp_183_consistency_1,pso_qqp_393_consistency_1,bae_qqp_92_label,bae_qqp_92_difficulty_1,bae_qqp_1_fluency_1,bae_qqp_328_consistency_1,alzantot_qqp_256_consistency_1,pso_qqp_21_fluency_1,bae_qqp_9_label,bae_qqp_9_difficulty_1,pso_qqp_222_consistency_1,alzantot_qqp_66_label,alzantot_qqp_66_difficulty_1,bae_qqp_365_consistency_1,pso_qqp_140_fluency_1,bae_qqp_324_fluency_1,Suggestion
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please enter your Prolific ID:,"Please see the two sentences below:
+
+
+
+How does India stand to gain from the US President-elect Mr. Donald Trump? What does a Donald Trump presidency mean for the US - India relationship?
+
+
+
+How does India stand to gain from the US President-elect Mr. Donald Trump? What does a Donald Trump presidency mean for the US - delhi relationship?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is the best instagram to stream online English dubbed anime can somebody give me a good website suggestion please?>>>>Question2: Where can I watch English dubbed anime free?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Why will Trump becoming President influence Indies? What will be the effects of Donald Trump being the US president on India?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Why did VLC media player choose a logo of a traffic cone? Why does VLC media player use traffic cone as a logo?
+
+
+
+first did VLC media player choose a logo of a traffic cone? Why does VLC media player use traffic cone as a logo?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Why do some completely straight forward trials get marked by Quora as needing improvement and what can you do about it? Why is every question I post on Quora marked as needing clarification?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Any five difference between accounting and accountancy? What is the difference between accounting and accountancy?
+
+
+
+Any five difference between accounting and bookkeeper? What is the difference between accounting and accountancy?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Somme?
+
+
+
+What was the significance of the battle of feld, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Somme?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+wil GST be applicable for may 2018 CA final exam? Should I opt for ACCA along with my CA Final due in May 16?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Exists laser eye surgery unharmed? Mode is laser eye surgery done?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Question what is string theory? What exactly is the String Theory?
+
+
+
+Question what is knot theory? What exactly is the String Theory?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Who's the iest man in the world?>>>>Question2: Who is the richest man in the world (by money)?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Question what is knot theory?>>>>Question2: What exactly is the String Theory?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Sum?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is the best instagram to stream online English dubbed anime can somebody give me a good website suggestion please? Where can I watch English dubbed anime free?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How do I have weight fast for operation? How can I loose weight in a week?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How is your work life?>>>>Question2: How did you feel the work of your life?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Does weed cause depression? How can smoking weed cause nausea?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: wil GST be applicable for may 2018 CA final exam?>>>>Question2: Should I opt for ACCA along with my CA Final due in May 16?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What is the best thing to do on weekend?>>>>Question2: What are the best things to do on a week?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Any five difference between accounting and bookkeeper?>>>>Question2: What is the difference between accounting and accountancy?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: my should wear with orange pants?>>>>Question2: it can I change with green pants?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Has person ever survived the death penalty? Whar Indian abolished death penalty?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Does Snapchat send screenshot notifications for stories? How can I screenshot snaps posted in stories?
+
+
+
+Ai Snapchat dispatch screenshot notifications for stories? How can I screenshot snaps post in stories?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Why does my voice sound different when recorded?>>>>Question2: Why does my voice sound unlike on video?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What is the best website to stream online English dubbed anime can somebody give me a good website suggestion please? Where can I watch English dubbed anime free?
+
+
+
+What is the best instagram to stream online English dubbed anime can somebody give me a good website suggestion please? Where can I watch English dubbed anime free?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Which are the best open source projects one should initially start contributing to? What is a simple open source project to contribute  code to?
+
+
+
+Which are the best open source projects one should initially start listening to? What is a simple open source project to contribute  code to?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Which country has more atheist? Which country has most atheists?
+
+
+
+Which village has more atheist? Which country has most atheists?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Way will Trump becoming President masquerade India? What will be the influences of Donald Trump being the US principal on India?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What are cell membranes? Where can they be found? What is a cell response?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: really widely accepted are credit cards at small businesses and eating in sydney?>>>>Question2: How widely accepted are credit cards at small businesses and dining in Australia?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How will Trump becoming President affect India? What will be the effects of Donald Trump being the US president on India?
+
+
+
+Way will Trump becoming President masquerade India? What will be the influences of Donald Trump being the US principal on India?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is the best thing to do on weekend? What are the best things to do on a weekend?
+
+
+
+What is the best thing to do on weekend? What are the best things to do on a week?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How significant are the consequences of climate change?>>>>Question2: What are the most possible consequences of global warming?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What is your review of Discontinued Quora Features?>>>>Question2: What is your review of Boards (abolished Quora feature)?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: guess me join the Marines? If so, why?>>>>Question2: How do you join the Marines?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How do we know that dark matter exists? Where is dark matter? How do we know it exists?
+
+
+
+How do we know that dark matter exists? Where is swarthy matter? How do we know it exists?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How can one enter into universities of Germany? How do I apply for universities in Germany?
+
+
+
+How can one enter into universities of Germany? How do I smear for universities in Germany?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What are some of the best WhatsApp gags? What are the funniest WhatsApp forwards?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How do I deal with extreme Social anxiety disorder? What is the best way to deal with social anxiety disorder?
+
+
+
+Why do I deal with extreme Social anxiety disorder? What is the best way to deal with social anxiety disorder?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Has anyone ever survived the death penalty? What India abolished death penalty?
+
+
+
+Has person ever survived the death penalty? Whar Indian abolished death penalty?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is your review of Discontinued Quora Features? What is your review of Boards (discontinued Quora feature)?
+
+
+
+What is your review of Discontinued Quora Features? What is your review of Boards (abolished Quora feature)?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What is the most silly thing you have ever done? What is the dumbest thing you have ever done?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What are the questions should not ask on google?>>>>Question2: What are some questions that shouldn't be asked on Quora?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What does it mean for a woman to be explained as a exuberant wonton?>>>>Question2: What does it mean for a woman to have regal gorgeousness?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What are some examples of cardiac brawn?>>>>Question2: What are examples of cardiac muscles?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What is the condition of international medical graduates in UK? What is the situation of international medical graduates in UK now?
+
+
+
+What is the imagery of international medical graduates in UK? What is the situation of international medical graduates in UK now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What does it mean for a woman to be explained as a exuberant wonton? What does it mean for a woman to have regal gorgeousness?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Is laser eye surgery safe? How is laser eye surgery done?
+
+
+
+Exists laser eye surgery unharmed? Mode is laser eye surgery done?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How do we know that dark matter exists? Where is swarthy matter? How do we know it exists?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of France?>>>>Question2: What is the significance of the Battle of the Sum?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What is the condition of international medical graduates in UK? What is the situation of international medical graduates in london now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How do carbon dioxide be converted into electricity? How can I convert carbon dioxide into oxygen?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How can I tell if she likes me? How would I know if she likes me?
+
+
+
+How can I said if she love me? Why would I know if she likes me?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How do I save money while online shopping? they are the online money saving shopping hacks?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How can I said if she love me? Why would I know if she likes me?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Should I join the Marines? If so, why? How do you join the Marines?
+
+
+
+guess me join the Marines? If so, why? How do you join the Marines?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I need to prepare for campus interviews? How should I prepare for a campus interview?
+
+
+
+How do I need to prepare for campus interviews? How should I smoke for a campus interview?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How does a prisoner's incarceration influence family and friends?>>>>Question2: Prison and Prison Life: What are the influence of someone’s incarceration on their families?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What are some real life examples of goodness? What are some of the practical examples that demonstrate the existence of karma?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Are vegetables considered to be a fruit or pickle?>>>>Question2: Are pickles considered a fruit or a vegetable?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How is your work life? How did you find the work of your life?
+
+
+
+How is your work life? How did you find the working of your life?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How can I get rid of my depression?>>>>Question2: How can I win rid of my depression on my own?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How do I have weight fast for operation?>>>>Question2: How can I loose weight in a week?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How does a prisoner's incarceration affect family and friends? Prisons and Prison Life: What are the effects of someone’s incarceration on their families?
+
+
+
+How does a prisoner's incarceration influence family and friends? Prison and Prison Life: What are the influence of someone’s incarceration on their families?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Ai Snapchat dispatch screenshot notifications for stories? How can I screenshot snaps post in stories?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What the purpose of life on lands?>>>>Question2: What's our purpose of life in this world?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Which country has more atheist? Which country has most atheists?
+
+
+
+Which country has more atheist? Which country has most americans?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What's the best trick to publish a children's book? What's the best tunnel to self publish an e-book?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How serious are the effects of climate change? What are the most serious consequences of global warming?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What's the best way to publish a children's book? What's the best way to self publish an e-book?
+
+
+
+What's the best trick to publish a children's book? What's the best tunnel to self publish an e-book?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is Reddit karma and how do people benefit from having more Reddit karma? Do you get any kind of karma for posting stuff on reddit?
+
+
+
+What is Reddit karma and how do people benefits from having more Reddit comments? Do you get any kind of karma for posting people on reddit?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I save money while online shopping? What are the online money saving shopping hacks?
+
+
+
+How do I save money while online shopping? they are the online money saving shopping hacks?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Which is the best book for learning Python 3 for absolute beginners?>>>>Question2: Which is the best book for learning Python linguistics for beginners?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Which are the best open source projects one should initially start listening to?>>>>Question2: What is a simple open source project to contribute  code to?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Who is now the most famous person alive? Who is in the top 10?>>>>Question2: Who is the most famous personality from when humans evolved to till now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How is Donald Trump seen in office?>>>>Question2: What might happening now that trump Donald Trump has won the election? What will be the impact?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How does a prisoner's incarceration influence family and friends? Prison and Prison Life: What are the influence of someone’s incarceration on their families?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Why will Trump becoming President influence Indies?>>>>Question2: What will be the effects of Donald Trump being the US president on India?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: It it true that learning new tango languages goes much easier and faster after you learned one?>>>>Question2: Does learning a new programming language become easier with each subsequent programming language learned?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Who is currently the most famous person alive? Who is in the top 10? Who is the most famous personality from when humans evolved to till now?
+
+
+
+Who is currently the most famous person alive? Who is in the top 10? Who is the most famous humanity from when humans evolved to till now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is the tether of Embedded case in Gujarat?>>>>Question2: What is the magnitude for embedded statutes?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What are the benefits of watching opera?>>>>Question2: What benefits you in watching anime?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How do I can removing fear of an questioning?>>>>Question2: How do I remove scared of an interview?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What do all Indians commonly doing wrong? What are indians secondly doing wrong?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Why does my voice sound different when recorded? Why does my voice sound different on video?
+
+
+
+Why does my voice sound different when recorded? Why does my voice sound unlike on video?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Which country has more atheist?>>>>Question2: Which country has most americans?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+guess me join the Marines? If so, why? How do you join the Marines?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Why aren't some people willing to release Donald Trump a contingent?>>>>Question2: Why are so many people here so hostile to Donald Trump and unwilling to give him a chance after he was fairly elected?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What are the questions should not ask on google? What are some questions that shouldn't be asked on Quora?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Are mushrooms considered to be a fruit or vegetable? Are pickles considered a fruit or a vegetable?
+
+
+
+Are vegetables considered to be a fruit or pickle? Are pickles considered a fruit or a vegetable?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is Reddit karma and how do people benefits from having more Reddit comments?>>>>Question2: Do you get any kind of karma for posting people on reddit?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What are some of the best WhatsApp gags? What are the funniest WhatsApp forwards?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Which village has more atheist?>>>>Question2: Which country has most atheists?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Any five difference between accounting and bookkeeper? What is the difference between accounting and accountancy?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Is there a chance that Donald Trump turns out to be a very good headmaster? Does Donald Trump have any potential to be a good president?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Who is now the most famous person alive? Who is in the top 10? Who is the most famous personality from when humans evolved to till now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question what is knot theory? What exactly is the String Theory?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Ai Snapchat dispatch screenshot notifications for stories?>>>>Question2: How can I screenshot snaps post in stories?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What is the imagery of international medical graduates in UK? What is the situation of international medical graduates in UK now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Are there any good colleges accepting MAT scores? What are the best colleges accepting MAT scores?
+
+
+
+Are there any good colleges accepting RUG scores? What are the best colleges accepting MAT scores?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% charge?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Who is currently the most famous person alive? Who is in the top 10? Who is the most famous humanity from when humans evolved to till now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How can I said if she love me?>>>>Question2: Why would I know if she likes me?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Why do I speak fluent English with confidence?>>>>Question2: How To speak British Fluently ?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How can you tell apart God's voice from a hallucination? How can I tell the difference between my own thoughts and God's voice?
+
+
+
+How can you tell apart God's vocals from a hallucination? How can I tell the difference between my own think and God's vocal?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What are some of the best WhatsApp jokes? What are the funniest WhatsApp forwards?
+
+
+
+What are some of the best WhatsApp gags? What are the funniest WhatsApp forwards?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How can I get the monies for my initiation without revealing my idea? How do I get funding for my launch idea before we have a prototype?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is the stipulation of global medical graduate in UK? What is the situation of international medical graduates in UK now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Can a transgender male get a woman pregnant? Can a woman get pregnant a couple of days before her period?
+
+
+
+Can a transgender buster get a woman pregnant? Can a woman get meaningful a couple of days before her period?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How can I get the funding for my startup without revealing my idea? How do I get funding for my startup idea before we have a prototype?
+
+
+
+How can I get the monies for my initiation without revealing my idea? How do I get funding for my launch idea before we have a prototype?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What are the benefits of watching opera? What benefits you in watching anime?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Is it better to listen to music or silence when studying?>>>>Question2: Needs it ok for me to listen to music while I am studying?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How do I find VTU old semester results?>>>>Question2: Where I cam find VTU last batch result? S?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How significant are the effects of climate change? What are the most possible consequences of global warming?
+
+
+
+How significant are the consequences of climate change? What are the most possible consequences of global warming?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is it like to spend time in a Guantanamo Bay prison?>>>>Question2: What is it like to be at Guantanamo Bay?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What was the significance of the battle of feld, and how did this battle compare and contrast to the Battle of France?>>>>Question2: What is the significance of the Battle of the Somme?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How do I can removing fear of an questioning? How do I remove scared of an interview?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What are the questions should not ask on Quora? What are some questions that shouldn't be asked on Quora?
+
+
+
+What are the questions should not ask on google? What are some questions that shouldn't be asked on Quora?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Which are the best open source projects one should initially start listening to? What is a simple open source project to contribute  code to?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Which is the best book for learning Python 3 for absolute beginners? Which is the best book for learning Python language for beginners?
+
+
+
+Which is the best book for learning Python 3 for absolute beginners? Which is the best book for learning Python linguistics for beginners?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I find VTU old semester results? Where I cam find VTU 2004-2005 batch result? S?
+
+
+
+How do I find VTU old semester results? Where I cam find VTU last batch result? S?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Could Australia become a superpower? If so, what political, economic, diplomatic and social steps would it take to become one? Is it possible that Australia could become a future superpower?
+
+
+
+Could Australia become a superpower? If so, what political, economic, diplomatic and social steps would it take to become one? Is it first that Australia could become a future superpower?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How do I find an excellent PTE Academic coaching in South Delhi? How do I find an excellent coaching for PTE Academic in sud Delhi?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Is it bad for a battery if you leave it charging even when it's full charged?>>>>Question2: Is it okay to leave an iPhone plugged into the charger even after it is 100% indicted?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% charged?
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% indicted?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is the proof of Indian Army's surgical strike? Has India ever held a surgical strike?
+
+
+
+What is the proof of Indian Army's surgical strike? Has Argentina ever held a surgical strike?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is the heart of Game of Thrones?>>>>Question2: What is the Game of Thrones?What is it about? I am confused about whether to watch it or not. I don't know anything about it.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How can I get rid of my depression? How can I win rid of my depression on my own?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What are the best e-learning platforms for tuition? What are the best e-learning platforms?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Are vegetables considered to be a fruit or pickle? Are pickles considered a fruit or a vegetable?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Why do I speak fluent English with confidence? How To speak British Fluently ?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How is your work life? How did you find the work of your life?
+
+
+
+How is your work life? How did you feel the work of your life?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Are there any good colleges accepting RUG scores?>>>>Question2: What are the best colleges accepting MAT scores?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Who's the richest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Who's the iest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is it like to spend time in a Guantanamo Bay prison? What is it like to work at Guantanamo Bay?
+
+
+
+What is it like to spend time in a Guantanamo Bay prison? What is it like to be at Guantanamo Bay?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How can you tell apart God's vocals from a hallucination? How can I tell the difference between my own think and God's vocal?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What are the best e-learning platforms for education? What are the best e-learning platforms?
+
+
+
+What are the best e-learning platforms for tuition? What are the best e-learning platforms?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What are some good topics to be found on Quora? What are the best topics in Quora?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Who's the richest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Who's the oddest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+""""""How to make money?"""""" How could I make money now?
+
+
+
+""""""How to make money?"""""" How could I bring money now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What is the condition of international medical graduates in UK?>>>>Question2: What is the situation of international medical graduates in london now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Is it bad for a battery if you leave it charging even when it's full charged?>>>>Question2: Is it okay to leave an iPhone plugged into the charger even after it is 100% charge?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How do I find an excellent PTE Academic coaching in South Delhi? How do I find an excellent coaching for PTE Academic in South Delhi?
+
+
+
+How do I find an excellent PTE Academic coaching in South Delhi? How do I find an excellent coaching for PTE Academic in sud Delhi?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What are some of the best WhatsApp gags?>>>>Question2: What are the funniest WhatsApp forwards?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What is the most silly thing you have ever done?>>>>Question2: What is the dumbest thing you have ever done?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What are the best e-learning platforms for tuition?>>>>Question2: What are the best e-learning platforms?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How do I need to prepare for campus interviews?>>>>Question2: How should I smoke for a campus interview?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Why do I deal with extreme Social anxiety disorder? What is the best way to deal with social anxiety disorder?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How do I deal with a loud boss?>>>>Question2: How do I tackle with an angry boss?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What is the proof of Indian Army's surgical strike?>>>>Question2: Has Argentina ever held a surgical strike?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How do I deal with a loud boss? How do I tackle with an angry boss?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What is the most stupid thing you have ever done? What is the dumbest thing you have ever done?
+
+
+
+What is the most silly thing you have ever done? What is the dumbest thing you have ever done?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How do I increase my number of take ups?>>>>Question2: How do you increase the number of push ups you can do?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What are some good topics to be found on Quora?>>>>Question2: What are the best topics in Quora?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How do I wish someone happy birthday? What is the best way to wish someone a happy birthday?
+
+
+
+How do I wish someone happy childhood? What is the best way to wish someone a happy birthday?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What does * mean?>>>>Question2: What does: * relish?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Why do some completely straight forward questions get marked by Quora as needing improvement and what can you do about it? Why is every question I post on Quora marked as needing clarification?
+
+
+
+Why do some completely straight forward trials get marked by Quora as needing improvement and what can you do about it? Why is every question I post on Quora marked as needing clarification?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How can one enter into universities of Germany?>>>>Question2: How do I smear for universities in Germany?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How do I enter the incident management field? What do I do to enter the line of event management?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How do I enter the incident management field?>>>>Question2: What do I do to enter the line of event management?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How do we know that dark matter exists?>>>>Question2: Where is swarthy matter? How do we know it exists?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What the purpose of life on earth? What's our purpose of life in this world?
+
+
+
+What the purpose of life on lands? What's our purpose of life in this world?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What is the best rhyme you have written? What is the best poem that you have ever composed?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How do I wish someone happy childhood?>>>>Question2: What is the best way to wish someone a happy birthday?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Can I withdraw cash from any bank by necessity? may can I withdraw cash from my bank account while I do not have a bank passbook and I forgot my debit card?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What does it mean for a woman to be described as a hot mess? What does it mean for a woman to have regal beauty?
+
+
+
+What does it mean for a woman to be explained as a exuberant wonton? What does it mean for a woman to have regal gorgeousness?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Can I withdraw cash from any bank by cheque? How can I withdraw cash from my bank account while I do not have a bank passbook and I lost my debit card?
+
+
+
+Can I withdraw cash from any bank by necessity? may can I withdraw cash from my bank account while I do not have a bank passbook and I forgot my debit card?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+first did VLC media player choose a logo of a traffic cone? Why does VLC media player use traffic cone as a logo?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: I turn 20 in May, what advice can you give me?>>>>Question2: What is the best advice you can give me considering that I am about to turn 35 soon?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What is the condition of international medical graduates in UK? What is the situation of international medical graduates in UK now?
+
+
+
+What is the condition of international medical graduates in UK? What is the situation of international medical graduates in london now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How do carbon dioxide be converted into electricity?>>>>Question2: How can I convert carbon dioxide into oxygen?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Can a transgender buster get a woman pregnant? Can a woman get meaningful a couple of days before her period?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What are cell membranes? Where can they be found?>>>>Question2: What is a cell response?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Has person ever survived the death penalty?>>>>Question2: Whar Indian abolished death penalty?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How get you destroy an aircraft carrier?>>>>Question2: somehow can you destroy an Indian aircraft carrier?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Exists laser eye surgery unharmed?>>>>Question2: Mode is laser eye surgery done?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How is life at the NDA?>>>>Question2: How is lifetime at NDA?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How do I increase my number of take ups? How do you increase the number of push ups you can do?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Who's the iest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Does weed cause depression? How can smoking weed cause depression?
+
+
+
+Does weed cause depression? How can smoking weed cause nausea?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Is there a chance that Donald Trump turns out to be a very good headmaster?>>>>Question2: Does Donald Trump have any potential to be a good president?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Which country has more atheist? Which country has most americans?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Way will Trump becoming President masquerade India?>>>>Question2: What will be the influences of Donald Trump being the US principal on India?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How is it like to live and work in Madrid?>>>>Question2: How is it camping in Madrid?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What are some examples of cardiac muscles? What are examples of cardiac muscles?
+
+
+
+What are some examples of cardiac brawn? What are examples of cardiac muscles?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is the scope of Embedded system in Gujarat? What is the scope for embedded systems?
+
+
+
+What is the tether of Embedded case in Gujarat? What is the magnitude for embedded statutes?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I enter the event management field? What do I do to enter the line of event management?
+
+
+
+How do I enter the incident management field? What do I do to enter the line of event management?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How will Trump becoming President affect India? What will be the effects of Donald Trump being the US president on India?
+
+
+
+Why will Trump becoming President influence Indies? What will be the effects of Donald Trump being the US president on India?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What are the benefits of watching anime? What benefits you in watching anime?
+
+
+
+What are the benefits of watching opera? What benefits you in watching anime?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Who's the oddest man in the world? Who is the richest man in the world (by money)?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Is it better to listen to music or silence when studying? Is it ok for me to listen to music while I am studying?
+
+
+
+Is it better to listen to music or silence when studying? Needs it ok for me to listen to music while I am studying?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How can one enter into universities of Germany? How do I smear for universities in Germany?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What are some examples of cardiac brawn? What are examples of cardiac muscles?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How do I need to prepare for campus interviews? How should I smoke for a campus interview?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Could Australia become a superpower? If so, what political, economic, diplomatic and social steps would it take to become one?>>>>Question2: Is it first that Australia could become a future superpower?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Who's the oddest man in the world?>>>>Question2: Who is the richest man in the world (by money)?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Which is the best book for learning Python 3 for absolute beginners? Which is the best book for learning Python linguistics for beginners?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What are some of the best WhatsApp gags?>>>>Question2: What are the funniest WhatsApp forwards?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Why do I deal with extreme Social anxiety disorder?>>>>Question2: What is the best way to deal with social anxiety disorder?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What is the typical starting salary for someone with an undergraduate degree in aviation?>>>>Question2: What is the typical starting salary for someone with an undergraduate degree in aviation?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How is your work life? How did you feel the work of your life?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Does weed cause depression?>>>>Question2: How can smoking weed cause nausea?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What are some real life examples of karma? What are some of the practical examples that demonstrate the existence of karma?
+
+
+
+What are some real life examples of goodness? What are some of the practical examples that demonstrate the existence of karma?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How is your work life? How did you find the working of your life?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is the proof of Indian Army's surgical strike? Has Argentina ever held a surgical strike?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What are some real life examples of goodness?>>>>Question2: What are some of the practical examples that demonstrate the existence of karma?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How is life at the NDA? How is life at NDA?
+
+
+
+How is life at the NDA? How is lifetime at NDA?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How does India stand to gain from the US President-elect Mr. Donald Trump? What does a Donald Trump presidency mean for the US - delhi relationship?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Can I heap my IQ? How can one increase and break his IQ?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: """"""How to make money?"""""">>>>Question2: How could I bring money now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What are some good topics to be bookmarked on Quora? What are the best topics in Quora?
+
+
+
+What are some good topics to be found on Quora? What are the best topics in Quora?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I deal with a loud boss? How do I deal with an angry boss?
+
+
+
+How do I deal with a loud boss? How do I tackle with an angry boss?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What are the best e-learning platforms for education? What are the best new platforms?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What is the best rhyme you have written?>>>>Question2: What is the best poem that you have ever composed?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Why do some completely straight forward trials get marked by Quora as needing improvement and what can you do about it?>>>>Question2: Why is every question I post on Quora marked as needing clarification?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What are cell membranes? Where can they be found? What is a cell membrane?
+
+
+
+What are cell membranes? Where can they be found? What is a cell response?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What are the best e-learning platforms for education? What are the best e-learning platforms?
+
+
+
+What are the best e-learning platforms for education? What are the best new platforms?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do carbon dioxide be converted into oxygen? How can I convert carbon dioxide into oxygen?
+
+
+
+How do carbon dioxide be converted into electricity? How can I convert carbon dioxide into oxygen?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What are the good verses to read for CAT preparation? What are the best novels to read while preparing for the CAT?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What is the ending of Game of Thrones? What is the Game of Thrones?What is it about? I am confused about whether to watch it or not. I don't know anything about it.
+
+
+
+What is the heart of Game of Thrones? What is the Game of Thrones?What is it about? I am confused about whether to watch it or not. I don't know anything about it.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Will GST be applicable for may 2018 CA final exam? Should I opt for ACCA along with my CA Final due in May 16?
+
+
+
+wil GST be applicable for may 2018 CA final exam? Should I opt for ACCA along with my CA Final due in May 16?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Why aren't some people willing to give Donald Trump a chance? Why are so many people here so hostile to Donald Trump and unwilling to give him a chance after he was fairly elected?
+
+
+
+Why aren't some people willing to release Donald Trump a contingent? Why are so many people here so hostile to Donald Trump and unwilling to give him a chance after he was fairly elected?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How do I find VTU old semester results? Where I cam find VTU last batch result? S?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: first did VLC media player choose a logo of a traffic cone?>>>>Question2: Why does VLC media player use traffic cone as a logo?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: How can you tell apart God's vocals from a hallucination?>>>>Question2: How can I tell the difference between my own think and God's vocal?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Somme?
+
+
+
+What was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Sum?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How do I wish someone happy childhood? What is the best way to wish someone a happy birthday?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Can a transgender buster get a woman pregnant?>>>>Question2: Can a woman get meaningful a couple of days before her period?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% charged?
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% charge?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: Who is currently the most famous person alive? Who is in the top 10?>>>>Question2: Who is the most famous humanity from when humans evolved to till now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How significant are the effects of climate change? What are the most possible consequences of global warming?
+
+
+
+How serious are the effects of climate change? What are the most serious consequences of global warming?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+really widely accepted are credit cards at small businesses and eating in sydney? How widely accepted are credit cards at small businesses and dining in Australia?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What are the best e-learning platforms for education?>>>>Question2: What are the best new platforms?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How do I speak fluent English with confidence? How To speak English Fluently ?
+
+
+
+Why do I speak fluent English with confidence? How To speak British Fluently ?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+It it true that learning new tango languages goes much easier and faster after you learned one? Does learning a new programming language become easier with each subsequent programming language learned?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What is the condition of international medical graduates in UK? What is the situation of international medical graduates in UK now?
+
+
+
+What is the stipulation of global medical graduate in UK? What is the situation of international medical graduates in UK now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How would you destroy an aircraft carrier? How can you destroy an Indian aircraft carrier?
+
+
+
+How get you destroy an aircraft carrier? somehow can you destroy an Indian aircraft carrier?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Is it better to listen to music or silence when studying? Needs it ok for me to listen to music while I am studying?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+my should wear with orange pants? it can I change with green pants?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What was the significance of the battle of feld, and how did this battle compare and contrast to the Battle of France? What is the significance of the Battle of the Somme?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How can I get rid of my depression? How can I get rid of my depression on my own?
+
+
+
+How can I get rid of my depression? How can I win rid of my depression on my own?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How much weight can I healthily lose in a week? How much weight can I lose in a week?
+
+
+
+How much weight can I healthily lose in a week? How much weight can I lose in a day?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How significant are the consequences of climate change? What are the most possible consequences of global warming?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How is your work life?>>>>Question2: How did you find the working of your life?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What is the typical starting salary for someone with an undergraduate degree in theology? What is the typical starting salary for someone with an undergraduate degree in aviation?
+
+
+
+What is the typical starting salary for someone with an undergraduate degree in aviation? What is the typical starting salary for someone with an undergraduate degree in aviation?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Which is the best headphone under Rs 3000? What are the best headphones under Rs. 300 available in India?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How get you destroy an aircraft carrier? somehow can you destroy an Indian aircraft carrier?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What is the stipulation of global medical graduate in UK?>>>>Question2: What is the situation of international medical graduates in UK now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Why aren't some people willing to release Donald Trump a contingent? Why are so many people here so hostile to Donald Trump and unwilling to give him a chance after he was fairly elected?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What is the imagery of international medical graduates in UK?>>>>Question2: What is the situation of international medical graduates in UK now?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How is life at the NDA? How is lifetime at NDA?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: What's the best trick to publish a children's book?>>>>Question2: What's the best tunnel to self publish an e-book?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What does * mean? What does: * relish?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+How is Donald Trump seen in office? What might happening now that trump Donald Trump has won the election? What will be the impact?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: Can I withdraw cash from any bank by necessity?>>>>Question2: may can I withdraw cash from my bank account while I do not have a bank passbook and I forgot my debit card?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What are some of the best WhatsApp jokes? What are the funniest WhatsApp forwards?
+
+
+
+What are some of the best WhatsApp gags? What are the funniest WhatsApp forwards?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Is it bad for a battery if you leave it charging even when it's full charged? Is it okay to leave an iPhone plugged into the charger even after it is 100% indicted?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is the heart of Game of Thrones? What is the Game of Thrones?What is it about? I am confused about whether to watch it or not. I don't know anything about it.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+I turn 20 in May, what advice can you give me? What is the best advice you can give me considering that I am about to turn 35 soon?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How serious are the effects of climate change?>>>>Question2: What are the most serious consequences of global warming?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What is it like to spend time in a Guantanamo Bay prison? What is it like to be at Guantanamo Bay?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What should wear with orange pants? What can I wear with red pants?
+
+
+
+my should wear with orange pants? it can I change with green pants?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: What do all Indians commonly doing wrong?>>>>Question2: What are indians secondly doing wrong?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Can I heap my IQ?>>>>Question2: How can one increase and break his IQ?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: Which is the best headphone under Rs 3000?>>>>Question2: What are the best headphones under Rs. 300 available in India?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+I turn 20 in May, what advice can you give me? What is the best advice you can give me considering that I am about to turn 20 soon?
+
+
+
+I turn 20 in May, what advice can you give me? What is the best advice you can give me considering that I am about to turn 35 soon?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What is the typical starting salary for someone with an undergraduate degree in aviation? What is the typical starting salary for someone with an undergraduate degree in aviation?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How is it like to live and work in Madrid? How is it living in Madrid?
+
+
+
+How is it like to live and work in Madrid? How is it camping in Madrid?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+""""""How to make money?"""""" How could I bring money now?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What do all Indians commonly doing wrong? What are indians still doing wrong?
+
+
+
+What do all Indians commonly doing wrong? What are indians secondly doing wrong?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+What is the best thing to do on weekend? What are the best things to do on a week?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Are there any good colleges accepting RUG scores? What are the best colleges accepting MAT scores?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is your review of Discontinued Quora Features? What is your review of Boards (abolished Quora feature)?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How do I find an excellent PTE Academic coaching in South Delhi?>>>>Question2: How do I find an excellent coaching for PTE Academic in sud Delhi?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Question1: What are the good verses to read for CAT preparation?>>>>Question2: What are the best novels to read while preparing for the CAT?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What is the tether of Embedded case in Gujarat? What is the magnitude for embedded statutes?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+What are the good novels to read for CAT preparation? What are the best novels to read while preparing for the CAT?
+
+
+
+What are the good verses to read for CAT preparation? What are the best novels to read while preparing for the CAT?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Could Australia become a superpower? If so, what political, economic, diplomatic and social steps would it take to become one? Is it first that Australia could become a future superpower?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Is there a chance that Donald Trump turns out to be a very good president? Does Donald Trump have any potential to be a good president?
+
+
+
+Is there a chance that Donald Trump turns out to be a very good headmaster? Does Donald Trump have any potential to be a good president?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How much weight can I healthily lose in a week?>>>>Question2: How much weight can I lose in a day?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Why does my voice sound different when recorded? Why does my voice sound unlike on video?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What the purpose of life on lands? What's our purpose of life in this world?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Which is the best headphone under Rs 3000? What are the best headphones under Rs. 3000 available in India?
+
+
+
+Which is the best headphone under Rs 3000? What are the best headphones under Rs. 300 available in India?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I loose weight fast for operation? How can I loose weight in a week?
+
+
+
+How do I have weight fast for operation? How can I loose weight in a week?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I increase my number of push ups? How do you increase the number of push ups you can do?
+
+
+
+How do I increase my number of take ups? How do you increase the number of push ups you can do?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+It it true that learning new programming languages goes much easier and faster after you learned one? Does learning a new programming language become easier with each subsequent programming language learned?
+
+
+
+It it true that learning new tango languages goes much easier and faster after you learned one? Does learning a new programming language become easier with each subsequent programming language learned?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What is the best poem you have written? What is the best poem that you have ever composed?
+
+
+
+What is the best rhyme you have written? What is the best poem that you have ever composed?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+How do I can remove fear of an interview? How do I remove fear of an interview?
+
+
+
+How do I can removing fear of an questioning? How do I remove scared of an interview?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Can I increase my IQ? How can one increase and improve his IQ?
+
+
+
+Can I heap my IQ? How can one increase and break his IQ?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How does India stand to gain from the US President-elect Mr. Donald Trump?>>>>Question2: What does a Donald Trump presidency mean for the US - delhi relationship?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+How much weight can I healthily lose in a week? How much weight can I lose in a day?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+How is Donald Trump seen in Russia? What might happen now that President-elect Donald Trump has won the election? What will be the impact?
+
+
+
+How is Donald Trump seen in office? What might happening now that trump Donald Trump has won the election? What will be the impact?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Who is currently the most famous person alive? Who is in the top 10? Who is the most famous personality from when humans evolved to till now?
+
+
+
+Who is now the most famous person alive? Who is in the top 10? Who is the most famous personality from when humans evolved to till now?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Which village has more atheist? Which country has most atheists?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Question1: How do I save money while online shopping?>>>>Question2: they are the online money saving shopping hacks?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+What does * mean? What does: * mean?
+
+
+
+What does * mean? What does: * relish?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Question1: How can I get the monies for my initiation without revealing my idea?>>>>Question2: How do I get funding for my launch idea before we have a prototype?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+How widely accepted are credit cards at small businesses and restaurants in Austria? How widely accepted are credit cards at small businesses and restaurants in Australia?
+
+
+
+really widely accepted are credit cards at small businesses and eating in sydney? How widely accepted are credit cards at small businesses and dining in Australia?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+How is it like to live and work in Madrid? How is it camping in Madrid?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+What is Reddit karma and how do people benefits from having more Reddit comments? Do you get any kind of karma for posting people on reddit?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency",Say something about this survey. Are the questions clear? Do we provide enough choices? Is the workload too big? (Please proceed to the next page to get the completion code)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27_1""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35_1""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44_1""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46_1""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50_1""}","{""ImportId"":""QID51_1""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID54_1""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID56_1""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61_1""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID64_1""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66_1""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78_1""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80""}","{""ImportId"":""QID81_1""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92_1""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID96_1""}","{""ImportId"":""QID97""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID99""}","{""ImportId"":""QID100_1""}","{""ImportId"":""QID101""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID108""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID110_1""}","{""ImportId"":""QID111""}","{""ImportId"":""QID112_1""}","{""ImportId"":""QID113""}","{""ImportId"":""QID114_1""}","{""ImportId"":""QID115""}","{""ImportId"":""QID116_1""}","{""ImportId"":""QID117_1""}","{""ImportId"":""QID118_1""}","{""ImportId"":""QID119""}","{""ImportId"":""QID120_1""}","{""ImportId"":""QID121_1""}","{""ImportId"":""QID122""}","{""ImportId"":""QID123_1""}","{""ImportId"":""QID124_1""}","{""ImportId"":""QID125_1""}","{""ImportId"":""QID126""}","{""ImportId"":""QID127_1""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID129""}","{""ImportId"":""QID130_1""}","{""ImportId"":""QID131_1""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID133_1""}","{""ImportId"":""QID134_1""}","{""ImportId"":""QID135""}","{""ImportId"":""QID136_1""}","{""ImportId"":""QID137_1""}","{""ImportId"":""QID138_1""}","{""ImportId"":""QID139_1""}","{""ImportId"":""QID140_1""}","{""ImportId"":""QID141""}","{""ImportId"":""QID142_1""}","{""ImportId"":""QID143""}","{""ImportId"":""QID144_1""}","{""ImportId"":""QID145_1""}","{""ImportId"":""QID146_1""}","{""ImportId"":""QID147_1""}","{""ImportId"":""QID148_1""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID150_1""}","{""ImportId"":""QID151_1""}","{""ImportId"":""QID152""}","{""ImportId"":""QID153_1""}","{""ImportId"":""QID154""}","{""ImportId"":""QID155_1""}","{""ImportId"":""QID156_1""}","{""ImportId"":""QID157""}","{""ImportId"":""QID158_1""}","{""ImportId"":""QID159""}","{""ImportId"":""QID160_1""}","{""ImportId"":""QID161_1""}","{""ImportId"":""QID162_1""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID164_1""}","{""ImportId"":""QID165_1""}","{""ImportId"":""QID166_1""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID168""}","{""ImportId"":""QID169_1""}","{""ImportId"":""QID170_1""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID172""}","{""ImportId"":""QID173_1""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID175_1""}","{""ImportId"":""QID176_1""}","{""ImportId"":""QID177_1""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID181_1""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID183_1""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID185_1""}","{""ImportId"":""QID186_1""}","{""ImportId"":""QID187_1""}","{""ImportId"":""QID188""}","{""ImportId"":""QID189_1""}","{""ImportId"":""QID190""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID192_1""}","{""ImportId"":""QID193""}","{""ImportId"":""QID194_1""}","{""ImportId"":""QID195""}","{""ImportId"":""QID196_1""}","{""ImportId"":""QID197""}","{""ImportId"":""QID198_1""}","{""ImportId"":""QID199""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID201_1""}","{""ImportId"":""QID202""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID204""}","{""ImportId"":""QID205_1""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID207_1""}","{""ImportId"":""QID208""}","{""ImportId"":""QID209_1""}","{""ImportId"":""QID210""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID212_1""}","{""ImportId"":""QID213""}","{""ImportId"":""QID214_1""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID216""}","{""ImportId"":""QID217_1""}","{""ImportId"":""QID218_1""}","{""ImportId"":""QID219""}","{""ImportId"":""QID220_1""}","{""ImportId"":""QID221""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID224_1""}","{""ImportId"":""QID225""}","{""ImportId"":""QID226_1""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID228_1""}","{""ImportId"":""QID229_1""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID231""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID233_1""}","{""ImportId"":""QID234""}","{""ImportId"":""QID235_1""}","{""ImportId"":""QID236_1""}","{""ImportId"":""QID237""}","{""ImportId"":""QID238_1""}","{""ImportId"":""QID239""}","{""ImportId"":""QID240_1""}","{""ImportId"":""QID241""}","{""ImportId"":""QID242_1""}","{""ImportId"":""QID243""}","{""ImportId"":""QID244_1""}","{""ImportId"":""QID245""}","{""ImportId"":""QID246_1""}","{""ImportId"":""QID247_1""}","{""ImportId"":""QID248_1""}","{""ImportId"":""QID249_1""}","{""ImportId"":""QID250""}","{""ImportId"":""QID251_1""}","{""ImportId"":""QID252_1""}","{""ImportId"":""QID253""}","{""ImportId"":""QID254_1""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256_1""}","{""ImportId"":""QID257_1""}","{""ImportId"":""QID258_1""}","{""ImportId"":""QID259_1""}","{""ImportId"":""QID260_1""}","{""ImportId"":""QID261_1""}","{""ImportId"":""QID262_1""}","{""ImportId"":""QID263_1""}","{""ImportId"":""QID264_1""}","{""ImportId"":""QID265_1""}","{""ImportId"":""QID266_1""}","{""ImportId"":""QID267""}","{""ImportId"":""QID268_1""}","{""ImportId"":""QID269""}","{""ImportId"":""QID270_1""}","{""ImportId"":""QID271_1""}","{""ImportId"":""QID272""}","{""ImportId"":""QID273_1""}","{""ImportId"":""QID274""}","{""ImportId"":""QID275_1""}","{""ImportId"":""QID276""}","{""ImportId"":""QID277_1""}","{""ImportId"":""QID278_1""}","{""ImportId"":""QID279""}","{""ImportId"":""QID280_1""}","{""ImportId"":""QID281_1""}","{""ImportId"":""QID282_1""}","{""ImportId"":""QID283_1""}","{""ImportId"":""QID284""}","{""ImportId"":""QID285_1""}","{""ImportId"":""QID286_1""}","{""ImportId"":""QID287_1""}","{""ImportId"":""QID288_1""}","{""ImportId"":""QID289""}","{""ImportId"":""QID290_1""}","{""ImportId"":""QID291_1""}","{""ImportId"":""QID292_1""}","{""ImportId"":""QID293_1""}","{""ImportId"":""QID294""}","{""ImportId"":""QID295_1""}","{""ImportId"":""QID296""}","{""ImportId"":""QID297_1""}","{""ImportId"":""QID298_1""}","{""ImportId"":""QID299_1""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID301_1""}","{""ImportId"":""QID302_1""}","{""ImportId"":""QID303_1""}","{""ImportId"":""QID304_1""}","{""ImportId"":""QID305_1""}","{""ImportId"":""QID306""}","{""ImportId"":""QID307_1""}","{""ImportId"":""QID308""}","{""ImportId"":""QID309_1""}","{""ImportId"":""QID310_1""}","{""ImportId"":""QID311_1""}","{""ImportId"":""QID312""}","{""ImportId"":""QID313_1""}","{""ImportId"":""QID314_1""}","{""ImportId"":""QID315""}","{""ImportId"":""QID316_1""}","{""ImportId"":""QID317_1""}","{""ImportId"":""QID318_1""}","{""ImportId"":""QID319""}","{""ImportId"":""QID320_1""}","{""ImportId"":""QID321_1""}","{""ImportId"":""QID322_1""}","{""ImportId"":""QID323_1""}","{""ImportId"":""QID324_1""}","{""ImportId"":""QID325_1""}","{""ImportId"":""QID326_1""}","{""ImportId"":""QID327_1""}","{""ImportId"":""QID328_1""}","{""ImportId"":""QID329_1""}","{""ImportId"":""QID330_1""}","{""ImportId"":""QID331""}","{""ImportId"":""QID332_1""}","{""ImportId"":""QID333_1""}","{""ImportId"":""QID334_1""}","{""ImportId"":""QID335_1""}","{""ImportId"":""QID336""}","{""ImportId"":""QID337_1""}","{""ImportId"":""QID338_1""}","{""ImportId"":""QID339""}","{""ImportId"":""QID340_1""}","{""ImportId"":""QID341_1""}","{""ImportId"":""QID342""}","{""ImportId"":""QID343_1""}","{""ImportId"":""QID344_1""}","{""ImportId"":""QID345_1""}","{""ImportId"":""QID346""}","{""ImportId"":""QID347_1""}","{""ImportId"":""QID348_1""}","{""ImportId"":""QID349_1""}","{""ImportId"":""QID350_1""}","{""ImportId"":""QID351_1""}","{""ImportId"":""QID352""}","{""ImportId"":""QID353_1""}","{""ImportId"":""QID354_1""}","{""ImportId"":""QID355_1""}","{""ImportId"":""QID356""}","{""ImportId"":""QID357_1""}","{""ImportId"":""QID358""}","{""ImportId"":""QID359_1""}","{""ImportId"":""QID360""}","{""ImportId"":""QID361_1""}","{""ImportId"":""QID362_1""}","{""ImportId"":""QID363_1""}","{""ImportId"":""QID364_1""}","{""ImportId"":""QID365_1""}","{""ImportId"":""QID366_1""}","{""ImportId"":""QID367_1""}","{""ImportId"":""QID368_1""}","{""ImportId"":""QID369_1""}","{""ImportId"":""QID370""}","{""ImportId"":""QID371_1""}","{""ImportId"":""QID372""}","{""ImportId"":""QID373_1""}","{""ImportId"":""QID374_1""}","{""ImportId"":""QID375_1""}","{""ImportId"":""QID376_1""}","{""ImportId"":""QID377_1""}","{""ImportId"":""QID378""}","{""ImportId"":""QID379_1""}","{""ImportId"":""QID380_1""}","{""ImportId"":""QID381_1""}","{""ImportId"":""QID382_1""}","{""ImportId"":""QID383_1""}","{""ImportId"":""QID384_1""}","{""ImportId"":""QID385_1""}","{""ImportId"":""QID386_1""}","{""ImportId"":""QID387_1""}","{""ImportId"":""QID388_1""}","{""ImportId"":""QID389""}","{""ImportId"":""QID390_1""}","{""ImportId"":""QID391_1""}","{""ImportId"":""QID392_1""}","{""ImportId"":""QID393_1""}","{""ImportId"":""QID394_1""}","{""ImportId"":""QID395""}","{""ImportId"":""QID396_1""}","{""ImportId"":""QID397_1""}","{""ImportId"":""QID398""}","{""ImportId"":""QID399_1""}","{""ImportId"":""QID400_1""}","{""ImportId"":""QID401_1""}","{""ImportId"":""QID402_1""}","{""ImportId"":""QID403_TEXT""}"
+20/4/2021 21:43,20/4/2021 21:49,0,86.183.68.160,100,372,1,20/4/2021 21:49,R_1DBUegNpE9rzvzs,,,,,53.09649658,-2.309295654,anonymous,EN,5de312201efe513486ed5569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,2,2,5,5,2,1,5,1,1,5,2,4,2,1,4,2,4,1,4,2,5,4,2,4,2,2,5,2,5,2,5,2,4,1,5,2,5,1,2,5,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,survey was fine.
+20/4/2021 21:52,20/4/2021 22:01,0,99.228.36.137,100,544,1,20/4/2021 22:01,R_3oyFetRoQRopoI2,,,,,43.79350281,-79.42469788,anonymous,EN,5dd2d431181abc2ecde6edb4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,4,2,5,1,2,1,1,4,2,2,4,1,2,5,1,1,2,5,4,2,1,2,2,5,4,1,2,5,2,5,2,5,1,5,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The survey was kind of nonsensical. It asked to compare two sentences when it was really providing four sentences. It appeared that the author did not understand how a sentence was formed. 
+20/4/2021 21:50,20/4/2021 22:02,0,41.144.87.172,100,725,1,20/4/2021 22:02,R_r0W0GnGIp3LYC3L,,,,,-26.38110352,27.83760071,anonymous,EN,605355a5907eccfe85aae24f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,2,1,5,5,1,2,2,2,3,3,2,5,2,5,3,1,4,5,4,1,1,1,4,1,5,4,1,4,1,5,1,5,2,5,2,2,4,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20/4/2021 21:59,20/4/2021 22:06,0,103.111.178.193,100,395,1,20/4/2021 22:06,R_3CHDEgkQGhzfFf6,,,,,-33.85910034,151.2001953,anonymous,EN,5ecddcf366133c160b7437b7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,4,2,2,4,4,2,4,4,3,4,2,2,3,2,4,4,3,2,3,2,2,4,1,3,2,3,4,1,3,2,4,2,3,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,its a bit confusing at times
+20/4/2021 21:47,20/4/2021 22:07,0,99.234.194.219,100,1188,1,20/4/2021 22:07,R_2yqPmS36Y3pB3vx,,,,,43.69299316,-79.83650208,anonymous,EN,5f7e700665a5f514520a6f80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,2,4,1,2,3,2,1,2,2,4,4,2,2,3,2,2,2,3,2,5,5,2,4,4,1,2,4,4,4,4,3,3,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I think the instructions need to be clearer in the beginning. For example, there already are two sentences within the first ""statement"". When asked to see if the ""two"" sentences have the same meaning, I was confused and thought that the system had a glitch and just replicated the sentences from top. I guess clearer language would be more helpful."
+20/4/2021 21:51,20/4/2021 22:07,0,41.162.60.90,100,936,1,20/4/2021 22:07,R_23gzxA6MX8jYTyA,,,,,-28.88090515,31.46470642,anonymous,EN,5fb8001908f1d0478862aedd,2,2,2,5,2,4,1,5,4,4,2,2,5,2,2,5,4,4,2,3,4,2,4,1,5,2,5,2,1,5,5,2,5,3,5,2,4,5,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Instructions are clear
+20/4/2021 22:00,20/4/2021 22:07,0,45.50.78.11,100,427,1,20/4/2021 22:07,R_30ipf52J1OMxEiX,,,,,33.82060242,-118.0339966,anonymous,EN,5eeaa000fc53c11be14cfc62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,2,3,2,3,2,1,3,2,2,4,5,2,4,2,3,2,2,2,4,1,4,2,3,4,2,1,2,1,2,2,1,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were clear. There were enough choices. The workload was fine.
+20/4/2021 22:02,20/4/2021 22:08,0,101.190.6.91,100,355,1,20/4/2021 22:08,R_1myIcJ8Poh0AkiS,,,,,-33.86950684,150.9518127,anonymous,EN,5e52a8ee0033f9000b01e91b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,2,4,1,5,4,2,2,3,2,4,2,2,4,2,3,5,4,2,5,1,1,3,1,1,5,4,2,5,1,2,5,2,5,1,3,2,5,2,2,3,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20/4/2021 21:51,20/4/2021 22:13,0,198.166.106.98,100,1327,1,20/4/2021 22:13,R_1OQ7k5G4GlnEkcB,,,,,53.45629883,-113.5802994,anonymous,EN,6067541f59790f9afb3956d4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,5,1,4,2,3,3,4,3,2,2,4,2,2,1,2,2,1,1,2,2,2,3,4,2,4,4,1,3,2,2,2,2,2,1,The questions are clear
+20/4/2021 22:02,20/4/2021 22:13,0,82.11.164.38,100,658,1,20/4/2021 22:13,R_2Cs7bCOiKnpfENK,,,,,53.40440369,-3.071502686,anonymous,EN,5961160005f2df0001727887,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,2,2,5,2,5,3,1,1,1,1,3,1,4,3,2,2,5,2,5,4,1,5,2,5,1,5,2,2,5,1,2,3,2,5,1,4,2,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions are clear. More choices are not necessary.
+20/4/2021 22:05,20/4/2021 22:15,0,2.31.143.209,100,560,1,20/4/2021 22:15,R_2WumaW2N58fFObn,,,,,51.51579285,-0.423400879,anonymous,EN,5b45aba0e3c3b60001667682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,2,2,4,5,2,1,4,1,4,4,4,3,2,1,2,1,1,2,4,2,5,4,2,5,2,2,4,2,1,2,4,1,4,1,4,2,5,2,2,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20/4/2021 22:06,20/4/2021 22:16,0,175.33.197.225,100,543,1,20/4/2021 22:16,R_2DMkCnC9I30ir5y,,,,,-37.81590271,144.9668884,anonymous,EN,5b532ca12a4d0c0001ae2a1d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,2,2,2,2,3,2,4,2,2,4,1,2,1,2,1,1,5,2,4,4,1,4,1,2,2,4,2,2,5,2,2,2,2,4,4,3,2,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions are straightforward and easy to answer. 
+20/4/2021 22:09,20/4/2021 22:17,0,115.189.128.217,100,497,1,20/4/2021 22:17,R_3lKUoXqONdyVBgp,,,,,-41.36749268,174.7153015,anonymous,EN,602b1c7faa061b232ed9d3bd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,5,1,4,1,2,1,2,1,3,5,5,2,2,1,4,2,4,2,2,2,5,5,2,5,2,1,2,5,1,2,2,2,2,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,All good
+20/4/2021 22:10,20/4/2021 22:17,0,153.206.74.104,100,416,1,20/4/2021 22:17,R_10VPmaPYyttdxab,,,,,35.69059753,139.7399902,anonymous,EN,5fc452df39c5f23dd403a57e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,3,2,4,1,1,2,4,2,5,3,1,2,2,2,4,4,2,4,1,1,2,2,2,2,2,2,4,1,2,5,2,4,2,3,2,4,1,3,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I think overall ,the survey was pretty good."
+20/4/2021 22:07,20/4/2021 22:18,0,20.188.200.96,100,627,1,20/4/2021 22:18,R_3oXDEiBhbx1WVjz,,,,,-33.85910034,151.2001953,anonymous,EN,606d46c0ff389cdfd089d566,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,2,1,4,3,1,1,4,2,4,4,4,5,2,4,2,2,4,3,4,1,1,1,4,1,4,4,1,4,1,5,1,4,2,5,5,2,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"No issues, the survey was fine"
+20/4/2021 22:13,20/4/2021 22:19,0,103.15.149.210,100,358,1,20/4/2021 22:19,R_2ckj3JsYAe0bHQ7,,,,,-38.15289307,145.9334106,anonymous,EN,5d63cd65b9233e0019f94fd3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,2,4,1,2,4,4,1,3,1,2,1,2,1,2,1,4,2,2,2,5,4,2,4,4,1,2,4,4,2,2,2,2,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Interesting questions to consider, easy to read and determine fluency of questions"
+20/4/2021 22:07,20/4/2021 22:19,0,70.27.136.163,100,716,1,20/4/2021 22:19,R_2BxQtFPYlLqw4DA,,,,,45.43359375,-75.68250275,anonymous,EN,604a74f9b60eea64b28c68c5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,2,2,4,1,4,1,2,4,2,2,4,4,2,4,3,1,2,3,5,3,4,5,1,4,5,1,2,4,2,2,2,4,2,5,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"wow, I really had to concentrate and think. I had to slow my reading down to really take in the words."
+20/4/2021 22:11,20/4/2021 22:20,0,109.154.39.101,100,534,1,20/4/2021 22:20,R_2e5bJAsWl3pIy7q,,,,,56.11849976,-3.7940979,anonymous,EN,6051570d959c53ccacb61130,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,2,5,1,2,2,2,5,4,2,5,1,2,5,2,5,1,5,2,5,2,4,4,2,2,3,2,2,5,1,2,5,2,5,1,2,2,4,2,3,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Some spelling errors, poor grammar is confusing"
+20/4/2021 22:14,20/4/2021 22:20,0,173.181.56.201,100,369,1,20/4/2021 22:20,R_271FJoGyA2OvJjm,,,,,49.86250305,-119.5832977,anonymous,EN,606cd35c0bb26a795b9cb148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,2,2,3,2,5,4,4,1,4,1,5,5,2,4,2,2,4,2,5,5,1,3,2,4,1,5,2,2,5,4,2,4,2,5,3,5,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some of the questions are straight up grammatically incorrect making it hard to understand if the meanings are the same or if they are there on purpose
+20/4/2021 22:14,20/4/2021 22:21,0,76.178.72.183,100,432,1,20/4/2021 22:21,R_25sk469vYtWGRhG,,,,,34.16900635,-118.3712997,anonymous,EN,5ea90859a303b73732c90bee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,2,2,3,4,5,4,2,1,2,4,5,2,2,2,2,2,2,5,5,4,1,1,5,2,2,2,1,2,1,4,2,4,1,2,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20/4/2021 22:11,20/4/2021 22:22,0,189.225.252.141,100,674,1,20/4/2021 22:22,R_3iI2d8HtCwuWtq0,,,,,18.83140564,-98.93840027,anonymous,EN,5f8d35cc8c96854e037df333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,2,1,5,2,4,3,2,1,4,2,5,3,5,4,1,3,5,3,4,3,2,4,5,5,5,4,2,4,3,1,4,4,2,1,"The survey has somewhat confusing phrases, but you must specify in the multiple-choice questions which one it refers to."
+20/4/2021 22:05,20/4/2021 22:22,0,82.25.146.102,100,1055,1,20/4/2021 22:22,R_2TSEd06lXKAFL4M,,,,,52.54510498,-1.880996704,anonymous,EN,5ffdad019eaac233bc9164e6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,1,2,2,2,4,5,1,4,2,5,2,1,1,2,1,5,5,1,4,2,4,5,1,4,5,2,1,5,2,2,2,5,4,
+20/4/2021 22:05,20/4/2021 22:22,0,109.149.56.161,100,1016,1,20/4/2021 22:22,R_1f9u5rKv0OTLfft,,,,,51.32699585,-1.567901611,anonymous,EN,5c5948299adbca0001ce9fd1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,5,2,4,2,5,2,1,4,4,1,5,2,2,5,2,5,2,4,2,5,1,5,2,5,3,2,1,5,2,4,1,1,4,5,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20/4/2021 22:12,20/4/2021 22:23,0,198.166.111.179,100,626,1,20/4/2021 22:23,R_Om0qY9S21Ha798l,,,,,51.04550171,-114.1987991,anonymous,EN,6070fc8a8d1ca69dd118e54b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,2,4,4,2,1,4,2,2,4,4,2,4,1,4,1,4,2,4,2,5,4,1,3,2,4,4,2,4,2,4,2,4,1,4,2,5,1,2,4,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sufficient workload, clear questions "
+20/4/2021 22:09,20/4/2021 22:24,0,1.136.26.82,100,874,1,20/4/2021 22:24,R_31KrvQ4kIw2yrNz,,,,,-37.81590271,144.9668884,anonymous,EN,5e4760cb18bf8222df9c508d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,5,2,4,5,3,2,1,4,2,4,2,2,2,2,3,2,4,4,4,2,2,4,2,4,2,4,4,2,4,2,4,1,2,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,All good. Very interesting. 
+20/4/2021 22:14,20/4/2021 22:26,0,135.0.34.124,100,709,1,20/4/2021 22:26,R_TvFyneiinR4BJHr,,,,,43.01469421,-81.30490112,anonymous,EN,5c34f3081cd88200016aa63c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,2,4,1,4,2,4,2,2,2,2,5,5,5,1,4,2,4,1,3,1,2,4,4,2,4,5,2,4,1,1,5,1,1,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were unique and clear. The workload was reasonable.
+20/4/2021 22:24,20/4/2021 22:36,0,49.178.47.201,100,743,1,20/4/2021 22:36,R_1FxJrU2xIyDTO73,,,,,-34.92739868,138.6004944,anonymous,EN,5f251850612f0b165b23fd0c,1,2,2,2,2,2,1,1,3,2,1,2,3,2,4,3,3,3,2,4,4,2,3,1,5,2,4,2,3,2,2,2,4,1,4,1,1,5,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some of the questions did not make any sense. Some had spelling mistakes- I don't know whether that was intended
+20/4/2021 23:15,20/4/2021 23:24,0,68.144.99.160,100,519,1,20/4/2021 23:24,R_3CR5r58e7TV6Yhz,,,,,50.88049316,-113.952301,anonymous,EN,5e741ceaa996a2000a2456ab,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,5,1,1,2,4,2,1,1,2,2,5,1,2,4,2,1,1,1,1,1,2,4,4,1,4,2,2,1,2,2,2,1,5,5,Survey was ok. 
+20/4/2021 23:15,20/4/2021 23:27,0,69.166.126.243,100,706,1,20/4/2021 23:27,R_2XcCMMjmTvLM17s,,,,,43.69090271,-79.30979919,anonymous,EN,5f2c016c2f70940256e2b54d,4,1,4,4,4,4,2,3,4,2,2,1,4,2,4,3,5,2,1,5,3,1,4,1,5,2,3,1,4,3,4,2,4,3,4,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I FIND THIS STUDY UNIQU AND WANT TO PARTICIPATE IN FUTURE STUDIES 
+20/4/2021 22:09,20/4/2021 23:29,0,41.13.108.239,100,4772,1,20/4/2021 23:29,R_OvDO7nSBbJ1DtqV,,,,,-25.75990295,28.26040649,anonymous,EN,60420abc070aee0009a0f719,4,2,4,4,3,3,2,2,2,3,4,2,1,2,4,4,4,3,2,4,5,2,5,1,5,2,5,2,5,1,3,2,5,4,1,2,4,4,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions are clear. The choices provided are enough. Some questions were tricky because of the fluency i had to re read acouple of them. But overall the survey is good 
+20/4/2021 22:15,20/4/2021 22:28,0,84.70.212.25,100,804,0,21/4/2021 0:28,R_2wh8dMWE331GaRS,,,,,,,anonymous,EN,5a0dbc9e9b760100013a7857,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,2,1,3,4,1,2,3,2,4,4,3,4,2,4,2,2,4,4,4,2,2,2,4,2,4,3,1,4,1,4,1,3,2,3,2,2,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some of the questions where not clear. 
+20/4/2021 22:13,20/4/2021 22:23,0,23.127.177.105,98,609,0,21/4/2021 0:28,R_2zwHB67DqL1LAjE,,,,,,,anonymous,EN,559cc7e3fdf99b66d8b28f88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,3,2,4,1,4,1,2,2,4,2,1,3,2,5,1,4,2,1,5,3,5,5,2,4,5,2,2,3,1,1,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

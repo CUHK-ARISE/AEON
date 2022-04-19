@@ -1,0 +1,2837 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,ID,bae_mnli_192_fluency_1,pso_mnli_183_fluency_1,pso_mnli_214_consistency_1,pso_mnli_344_consistency_1,pso_mnli_183_consistency_1,alzantot_mnli_292_label,alzantot_mnli_292_difficulty_1,bae_mnli_92_consistency_1,bae_mnli_182_consistency_1,bae_mnli_271_label,bae_mnli_271_difficulty_1,bae_mnli_107_consistency_1,bae_mnli_93_consistency_1,pso_mnli_84_consistency_1,bae_mnli_68_fluency_1,bae_mnli_169_consistency_1,alzantot_mnli_265_fluency_1,bae_mnli_305_consistency_1,bae_mnli_375_consistency_1,bae_mnli_368_consistency_1,alzantot_mnli_183_fluency_1,alzantot_mnli_147_label,alzantot_mnli_147_difficulty_1,pso_mnli_241_fluency_1,alzantot_mnli_354_label,alzantot_mnli_354_difficulty_1,bae_mnli_192_consistency_1,alzantot_mnli_155_fluency_1,pso_mnli_232_consistency_1,alzantot_mnli_183_consistency_1,pso_mnli_398_consistency_1,pso_mnli_52_consistency_1,pso_mnli_148_label,pso_mnli_148_difficulty_1,bae_mnli_305_label,bae_mnli_305_difficulty_1,bae_mnli_93_fluency_1,alzantot_mnli_45_consistency_1,bae_mnli_175_consistency_1,pso_mnli_279_fluency_1,pso_mnli_334_consistency_1,bae_mnli_177_label,bae_mnli_177_difficulty_1,pso_mnli_349_label,pso_mnli_349_difficulty_1,bae_mnli_54_label,bae_mnli_54_difficulty_1,pso_mnli_120_label,pso_mnli_120_difficulty_1,bae_mnli_92_fluency_1,pso_mnli_352_fluency_1,pso_mnli_7_label,pso_mnli_7_difficulty_1,pso_mnli_271_label,pso_mnli_271_difficulty_1,checklist_mnli_288_fluency_1,alzantot_mnli_59_fluency_1,checklist_mnli_288_consistency_1,bae_mnli_6_label,bae_mnli_6_difficulty_1,alzantot_mnli_288_fluency_1,bae_mnli_245_label,bae_mnli_245_difficulty_1,pso_mnli_378_consistency_1,pso_mnli_309_fluency_1,bae_mnli_165_label,bae_mnli_165_difficulty_1,pso_mnli_206_consistency_1,checklist_mnli_383_consistency_1,pso_mnli_347_label,pso_mnli_347_difficulty_1,bae_mnli_175_label,bae_mnli_175_difficulty_1,pso_mnli_214_fluency_1,alzantot_mnli_45_label,alzantot_mnli_45_difficulty_1,bae_mnli_165_consistency_1,pso_mnli_0_consistency_1,bae_mnli_208_fluency_1,pso_mnli_46_fluency_1,pso_mnli_183_label,pso_mnli_183_difficulty_1,pso_mnli_84_fluency_1,bae_mnli_264_fluency_1,pso_mnli_0_fluency_1,alzantot_mnli_142_fluency_1,pso_mnli_352_label,pso_mnli_352_difficulty_1,pso_mnli_110_fluency_1,pso_mnli_269_label,pso_mnli_269_difficulty_1,bae_mnli_177_fluency_1,pso_mnli_362_consistency_1,pso_mnli_46_label,pso_mnli_46_difficulty_1,bae_mnli_38_fluency_1,alzantot_mnli_148_fluency_1,pso_mnli_232_label,pso_mnli_232_difficulty_1,bae_mnli_54_fluency_1,pso_mnli_84_label,pso_mnli_84_difficulty_1,alzantot_mnli_155_label,alzantot_mnli_155_difficulty_1,bae_mnli_271_fluency_1,alzantot_mnli_142_consistency_1,pso_mnli_148_consistency_1,bae_mnli_107_label,bae_mnli_107_difficulty_1,pso_mnli_206_fluency_1,alzantot_mnli_163_consistency_1,bae_mnli_360_consistency_1,checklist_mnli_383_label,checklist_mnli_383_difficulty_1,pso_mnli_378_fluency_1,alzantot_mnli_147_fluency_1,pso_mnli_147_fluency_1,pso_mnli_269_fluency_1,bae_mnli_338_fluency_1,checklist_mnli_234_fluency_1,alzantot_mnli_45_fluency_1,pso_mnli_241_label,pso_mnli_241_difficulty_1,bae_mnli_320_consistency_1,bae_mnli_375_fluency_1,bae_mnli_208_consistency_1,alzantot_mnli_148_label,alzantot_mnli_148_difficulty_1,bae_mnli_338_consistency_1,alzantot_mnli_288_consistency_1,bae_mnli_18_consistency_1,pso_mnli_329_label,pso_mnli_329_difficulty_1,bae_mnli_107_fluency_1,pso_mnli_334_fluency_1,pso_mnli_368_consistency_1,bae_mnli_1_label,bae_mnli_1_difficulty_1,bae_mnli_93_label,bae_mnli_93_difficulty_1,alzantot_mnli_271_consistency_1,pso_mnli_368_fluency_1,checklist_mnli_223_fluency_1,pso_mnli_309_label,pso_mnli_309_difficulty_1,bae_mnli_360_fluency_1,bae_mnli_73_consistency_1,alzantot_mnli_343_label,alzantot_mnli_343_difficulty_1,pso_mnli_378_label,pso_mnli_378_difficulty_1,pso_mnli_52_fluency_1,bae_mnli_208_label,bae_mnli_208_difficulty_1,alzantot_mnli_343_consistency_1,pso_mnli_110_label,pso_mnli_110_difficulty_1,pso_mnli_206_label,pso_mnli_206_difficulty_1,pso_mnli_107_label,pso_mnli_107_difficulty_1,pso_mnli_352_consistency_1,bae_mnli_381_label,bae_mnli_381_difficulty_1,pso_mnli_7_fluency_1,pso_mnli_214_label,pso_mnli_214_difficulty_1,bae_mnli_350_label,bae_mnli_350_difficulty_1,alzantot_mnli_163_fluency_1,alzantot_mnli_292_fluency_1,alzantot_mnli_345_fluency_1,pso_mnli_373_fluency_1,alzantot_mnli_59_label,alzantot_mnli_59_difficulty_1,alzantot_mnli_59_consistency_1,pso_mnli_251_label,pso_mnli_251_difficulty_1,bae_mnli_305_fluency_1,pso_mnli_148_fluency_1,alzantot_mnli_265_label,alzantot_mnli_265_difficulty_1,bae_mnli_111_label,bae_mnli_111_difficulty_1,alzantot_mnli_183_label,alzantot_mnli_183_difficulty_1,pso_mnli_21_consistency_1,pso_mnli_368_label,pso_mnli_368_difficulty_1,bae_mnli_169_fluency_1,pso_mnli_107_consistency_1,bae_mnli_382_label,bae_mnli_382_difficulty_1,alzantot_mnli_274_consistency_1,pso_mnli_21_label,pso_mnli_21_difficulty_1,bae_mnli_320_label,bae_mnli_320_difficulty_1,pso_mnli_147_consistency_1,bae_mnli_318_consistency_1,alzantot_mnli_354_consistency_1,pso_mnli_264_label,pso_mnli_264_difficulty_1,pso_mnli_279_consistency_1,pso_mnli_344_fluency_1,alzantot_mnli_251_consistency_1,checklist_mnli_223_label,checklist_mnli_223_difficulty_1,pso_mnli_329_fluency_1,bae_mnli_111_consistency_1,alzantot_mnli_46_label,alzantot_mnli_46_difficulty_1,pso_mnli_347_fluency_1,alzantot_mnli_354_fluency_1,bae_mnli_169_label,bae_mnli_169_difficulty_1,pso_mnli_107_fluency_1,alzantot_mnli_251_label,alzantot_mnli_251_difficulty_1,alzantot_mnli_251_fluency_1,checklist_mnli_191_consistency_1,checklist_mnli_191_label,checklist_mnli_191_difficulty_1,bae_mnli_79_label,bae_mnli_79_difficulty_1,alzantot_mnli_274_fluency_1,alzantot_mnli_177_label,alzantot_mnli_177_difficulty_1,bae_mnli_350_consistency_1,bae_mnli_229_consistency_1,pso_mnli_163_label,pso_mnli_163_difficulty_1,bae_mnli_73_label,bae_mnli_73_difficulty_1,bae_mnli_68_consistency_1,bae_mnli_182_label,bae_mnli_182_difficulty_1,bae_mnli_245_consistency_1,alzantot_mnli_232_fluency_1,bae_mnli_79_consistency_1,bae_mnli_18_label,bae_mnli_18_difficulty_1,bae_mnli_318_label,bae_mnli_318_difficulty_1,bae_mnli_264_consistency_1,bae_mnli_111_fluency_1,bae_mnli_1_fluency_1,bae_mnli_165_fluency_1,checklist_mnli_234_consistency_1,checklist_mnli_200_consistency_1,alzantot_mnli_148_consistency_1,pso_mnli_329_consistency_1,bae_mnli_210_label,bae_mnli_210_difficulty_1,bae_mnli_79_fluency_1,pso_mnli_387_label,pso_mnli_387_difficulty_1,bae_mnli_54_consistency_1,bae_mnli_68_label,bae_mnli_68_difficulty_1,bae_mnli_318_fluency_1,bae_mnli_6_consistency_1,pso_mnli_347_consistency_1,alzantot_mnli_214_consistency_1,bae_mnli_338_label,bae_mnli_338_difficulty_1,bae_mnli_245_fluency_1,alzantot_mnli_265_consistency_1,pso_mnli_163_consistency_1,bae_mnli_382_consistency_1,bae_mnli_229_fluency_1,bae_mnli_360_label,bae_mnli_360_difficulty_1,pso_mnli_311_consistency_1,alzantot_mnli_155_consistency_1,pso_mnli_311_fluency_1,alzantot_mnli_142_label,alzantot_mnli_142_difficulty_1,pso_mnli_279_label,pso_mnli_279_difficulty_1,pso_mnli_398_fluency_1,pso_mnli_264_consistency_1,bae_mnli_381_consistency_1,bae_mnli_6_fluency_1,alzantot_mnli_345_consistency_1,pso_mnli_147_label,pso_mnli_147_difficulty_1,pso_mnli_241_consistency_1,pso_mnli_398_label,pso_mnli_398_difficulty_1,pso_mnli_120_fluency_1,alzantot_mnli_187_fluency_1,pso_mnli_362_label,pso_mnli_362_difficulty_1,pso_mnli_195_fluency_1,pso_mnli_269_consistency_1,pso_mnli_21_fluency_1,pso_mnli_394_consistency_1,pso_mnli_349_consistency_1,bae_mnli_381_fluency_1,bae_mnli_175_fluency_1,checklist_mnli_200_fluency_1,pso_mnli_394_fluency_1,bae_mnli_264_label,bae_mnli_264_difficulty_1,pso_mnli_46_consistency_1,bae_mnli_271_consistency_1,checklist_mnli_383_fluency_1,alzantot_mnli_288_label,alzantot_mnli_288_difficulty_1,bae_mnli_182_fluency_1,alzantot_mnli_187_consistency_1,checklist_mnli_191_fluency_1,bae_mnli_38_consistency_1,pso_mnli_120_consistency_1,pso_mnli_373_consistency_1,checklist_mnli_223_consistency_1,pso_mnli_110_consistency_1,bae_mnli_368_fluency_1,pso_mnli_311_label,pso_mnli_311_difficulty_1,checklist_mnli_288_label,checklist_mnli_288_difficulty_1,alzantot_mnli_214_fluency_1,bae_mnli_375_label,bae_mnli_375_difficulty_1,pso_mnli_232_fluency_1,pso_mnli_387_consistency_1,pso_mnli_309_consistency_1,alzantot_mnli_232_consistency_1,pso_mnli_52_label,pso_mnli_52_difficulty_1,alzantot_mnli_46_consistency_1,pso_mnli_195_label,pso_mnli_195_difficulty_1,pso_mnli_334_label,pso_mnli_334_difficulty_1,bae_mnli_73_fluency_1,bae_mnli_92_label,bae_mnli_92_difficulty_1,bae_mnli_177_consistency_1,pso_mnli_271_fluency_1,pso_mnli_251_fluency_1,pso_mnli_251_consistency_1,bae_mnli_1_consistency_1,pso_mnli_344_label,pso_mnli_344_difficulty_1,bae_mnli_368_label,bae_mnli_368_difficulty_1,checklist_mnli_234_label,checklist_mnli_234_difficulty_1,checklist_mnli_200_label,checklist_mnli_200_difficulty_1,pso_mnli_0_label,pso_mnli_0_difficulty_1,pso_mnli_394_label,pso_mnli_394_difficulty_1,alzantot_mnli_177_fluency_1,alzantot_mnli_271_fluency_1,pso_mnli_195_consistency_1,pso_mnli_163_fluency_1,alzantot_mnli_214_label,alzantot_mnli_214_difficulty_1,pso_mnli_271_consistency_1,alzantot_mnli_292_consistency_1,bae_mnli_192_label,bae_mnli_192_difficulty_1,bae_mnli_320_fluency_1,alzantot_mnli_147_consistency_1,pso_mnli_264_fluency_1,alzantot_mnli_274_label,alzantot_mnli_274_difficulty_1,bae_mnli_18_fluency_1,bae_mnli_382_fluency_1,pso_mnli_7_consistency_1,alzantot_mnli_163_label,alzantot_mnli_163_difficulty_1,bae_mnli_38_label,bae_mnli_38_difficulty_1,alzantot_mnli_46_fluency_1,alzantot_mnli_345_label,alzantot_mnli_345_difficulty_1,pso_mnli_349_fluency_1,pso_mnli_373_label,pso_mnli_373_difficulty_1,bae_mnli_350_fluency_1,bae_mnli_229_label,bae_mnli_229_difficulty_1,pso_mnli_362_fluency_1,alzantot_mnli_343_fluency_1,alzantot_mnli_177_consistency_1,alzantot_mnli_187_label,alzantot_mnli_187_difficulty_1,alzantot_mnli_232_label,alzantot_mnli_232_difficulty_1,bae_mnli_210_fluency_1,alzantot_mnli_271_label,alzantot_mnli_271_difficulty_1,pso_mnli_387_fluency_1,bae_mnli_210_consistency_1,Suggestion
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please enter your Prolific ID:,"Please see the sentence below:
+
+
+
+Starting from being Hanging on to what we have.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is exactly ailing and has no distinguishable successor that is willing to wear his hats.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+and for regular readers who are a bit confused about our schedule (and who can blame them?) who can blame who greatly appreciates our schedule?
+
+
+
+and for regular readers who are a bit confused about our schedule (and who can blame them?) who can blame who greatly criticizes our schedule?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Under the leadership of Henry the Navigator, caravels set out from the westernmost point of the Algarve, in southern Portugal, in search of foreign lands, fame, and wealth. Expeditions left the Algarve in southern Portugal in order to discover new countries and create fortunes.
+
+
+
+Under the leadership of Henry the Navigator, caravels set out from the westernmost point of the Algarve, in southern Portugal, in search of foreign lands, fame, and wealth. Expeditions dismissed the Algarve in southern Portugal in order to discover new countries and create fortunes.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is also ailing and has no clear successor that is willing to wear his hats.
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is exactly ailing and has no distinguishable successor that is willing to wear his hats.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Good-bye."" Julius was bent over the car.>>>>Hypothesis: Julius wouldn't let the home.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+British action wouldn't have mattered. British action would have made a big difference.
+
+
+
+welsh action wouldn't have mattered. British action would have made a big difference.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+The Romans never really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained. The Romans didn't infiltrate Ibiza because it wasn't valuable.
+
+
+
+The Romans still really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained. The Romans didn't infiltrate Ibiza because it wasn't valuable.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: oh that could be tons of interesting is it>>>>Hypothesis: That sounds kinda interesting to me.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Minutes producer.
+
+
+
+But although the 70 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Minutes producer.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+yeah that's probably a  a little bit under what it is for this time of year i i think i haven't seen the weather the news the weather on the news in the evening lately but i think the average high would be it should be about seventy All I do is watch the weather channel and I'm totally up to date on it.
+
+
+
+yeah that's probably a  a little bit under what it is for this time of year i i think i haven't seen the weather the news the weather on the news in the evening lately but i think the average high would be it should be about seventy All I do is watch the weather channel and I'm not up to date on it.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+in you know just dealing with the customer maybe that's there only reason why they don't it'd seem like they'd just put a little barrel out there and say it pour here and go on  we'll take your money The customers were just one of many reasons.
+
+
+
+in you know just dealing with the customer maybe that's there only reason why they don't it'd seem like they'd just put a little barrel out there and say it pour here and go on  we'll take your money The customers were just one of many arguments.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Through Responsive and Naturalistic Approaches. Natural approaches are available
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+In 1923, Turkey broke away from the tired Ottoman rulers, and Kemal Ataturk rose to power on a wave of popular support. Kemal Ataturk was never affiliated with the Ottoman Empire.
+
+
+
+In 1923, Turkey broke away from the tired Ottoman rulers, and Kemal Ataturk rose to power on a wave of popular support. Kemal Ataturk was always affiliated with the Ottoman Empire.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Additionally, these excise taxes, like other taxes, are determined through the exercise of the power of the Council to compel payment. Government's proficiency to force payment is how excise taxes are calculated.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Second, reducing the rate of HIV transmission is in any event not the only social goal worth  If it were, we'd outlaw sex entirely. Reducing the transmission of HIV is just as important as reducing drug abuse.
+
+
+
+Second, reducing the rate of HIV transmission is in any event not the only societal goal worth  If it were, we'd outlaw sex entirely. increasing the transmission of HIV is just as important as reducing substance abuse.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+well that's not why i got it right  how do you like your tread mill That is not the reason I got it.
+
+
+
+maybe im not why i got it right  how do you like your tread mill That is not the point I got it.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+He pulled his cloak tighter and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his cloak and was distressed about not having hair.
+
+
+
+He pulled his cloak closer and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his cloak and was distressed about not having hair.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is also patient and has no clear successor that is willing to wear his hats.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Small town like Louisian lay scattered all over the Hydrocarbon Fields; the main train line branched between them.>>>>Hypothesis: There was only one municipal in the oil fields.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+There is a good restaurant in the village, in addition to a well-stocked mini-market for self-catering visitors. The village has a cabaret.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Since 1998, LSC has initiated and overseen significant structural changes in the number and configuration of LSC-funded programs in order to develop more powerful and effective state delivery systems.>>>>Hypothesis: LSC has developed optimum state delivery systems.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Starting from Scratch Hanging on to what we have.
+
+
+
+Starting from being Hanging on to what we have.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+I went on, 'I'm going to warn you, if you love it or not.  You are loony that the boy doesn't like you.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field It's beed super dry.
+
+
+
+if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field It's needed super dry.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is also ailing and has no clear successor that is willing to wear his hats.
+
+
+
+Arafat is also ailing and has no clear successor. Arafat is also patient and has no clear successor that is willing to wear his hats.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+[Requires free registration. Does not require free registration.
+
+
+
+[Requires free registration. Does not require unlimited registration.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Vrenna looked it and smiled. Vrenna was happy it was destroyed
+
+
+
+Vrenna looked it and smiled. Vrenna was dilly it was destroyed
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: that would be good what'd you say>>>>Hypothesis: Conclude down what you would say.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Second, reducing the rate of HIV transmission is in any event not the only societal goal worth  If it were, we'd outlaw sex entirely.>>>>Hypothesis: increasing the transmission of HIV is just as important as reducing substance abuse.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+yeah that's probably a  a little bit under what it is for this time of year i i think i haven't seen the weather the news the weather on the news in the evening lately but i think the average high would be it should be about seventy All I do is watch the weather channel and I'm not up to date on it.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Exhibitions are often held in the splendid entrance hall. The entrance hall is often used to host exhibitions.
+
+
+
+Exhibitions are often held in the splendid entrance hall. The entrance hall is often used to hospitality exhibitions.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+I don't know. I am not sure.
+
+
+
+I don't mind. I am not sure.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Regulators may not be totally supportive of a more comprehensive business model because they are concerned that the information would be based on a lot of judgment and, therefore, lack of precision, which could make enforcement of reporting standards difficult. Being totally supportive of a more comprehensive cartel model is not something regulators may do.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+I could've afforded a much swankier, up-town place- or at least, a slightly swankier, mid-town place- but all that space would just encourage me to clutter. I could have had a bigger place but then I would have clutter.
+
+
+
+I could've afforded a much swankier, up-town place- or at least, a slightly swankier, mid-town place- but all that space would just encourage me to clutter. I could have had a bigger finance but then I would have clutter.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: It was going to be a hot summer. >>>>Hypothesis: It was going to get very warm that day.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: The Star reports that actress Jodie Foster is pregnant through artificial insemination.>>>>Hypothesis: It has been reported by The Star that Jodie Foster is not keen
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: There is very little left of old Ocho  the scant remains of Ocho Rios Fort are probably the older and now lie in an industrial area, almost forgotten as the tide of progress has swept over the town.>>>>Hypothesis: The remains of the Ocho Rios Fort are most likely the oldest parts of the town.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: By placing ”one card ”on another ”with mathematical ”precision!"" I watched the card house rising under his hands, story by story. >>>>Hypothesis: I watched as he built the jail, story by story.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+welsh action wouldn't have mattered. British action would have made a big difference.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+As Russell points out, some 400,000 legal aid cases go unassisted each year. A lot of legal aid cases go unassisted each year, so this supposes to be pegged.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that's one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that's another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this country but in the second type at least overtly uh where someone comes in and uh finds out information about you that should be private uh does not seem uh um obviously everyday>>>>Hypothesis: All invasions of privacy should be severely wreaked, because it will teach the criminals that it is not worth doing.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: oh that might be kind of interesting is it>>>>Hypothesis: That creaks kinda interesting to me.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 10.0 to 6.0, additional reagent is required
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+He looked San'doro silencer in his thoughts. The bloke made lots of noise.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 10.0 to 6.0, additional reagent is required
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Two natural rock formation are always pointed out on occasion.>>>>Hypothesis: Natural rock formations on visible on excursions.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 5.0 to 6.0, complementary reagent is required
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: I should think some one had taken charge of it."">>>>Hypothesis: somebody one should have taken charge of it.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Cruises are available from the Bhansi Ghat, which is near the CityPalace. You can take cruises from Phoenix Arizona.
+
+
+
+Cruises are available from the Bhansi Ghat, which is near the CityPalace. You can borrow sails from Phoenix Arizona.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+and uh the whole organization was targeting to replace whole life policies with a term life with annuity an annuity and uh Exhaustive livelihood policies with a semester life with annuity could be replaced by the whole organization with something more complicated.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: If the collecting entity transfers the nonexchange revenue to the state Fund or another entity, the amount is accounted for as a custodial activity by the collecting entity.>>>>Hypothesis: The General Fund handles nonexchange revenue.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+The unintended side effect is radical, direct  In what other state do voters set the tax rates? There is a radical side effect that was not intended, said the teacher.
+
+
+
+The unintended side effect is radical, direct  In what other state do voters set the tax rates? There is a composite flock effect that was not projected, lectured the teacher.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies. Senators Fred Thompson requested the study to benefit federal agencies.
+
+
+
+To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies. Senators Fred Steinman requested the study to benefit federal agencies.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A chancy road winding up to the 475-metre (1,560-foot) summit is likely to test the engine and suspension of your car, as well as your own persistence.>>>>Hypothesis: Hikers often collect into ruins trying to reach the summit because their cars weren't able to make it to the top.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: I don't mind.>>>>Hypothesis: I am not sure.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+and for regular readers who are a bit confused about our schedule (and who can blame them?) who can blame who greatly criticizes our schedule?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Exhibitions are often held in the splendid entrance hall.>>>>Hypothesis: The entrance hall is often used to hospitality exhibitions.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+If the collecting entity transfers the nonexchange revenue to the General Fund or another entity, the amount is accounted for as a custodial activity by the collecting entity. The General Fund handles nonexchange revenue.
+
+
+
+If the collecting entity transfers the nonexchange revenue to the state Fund or another entity, the amount is accounted for as a custodial activity by the collecting entity. The General Fund handles nonexchange revenue.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Anwar el-Sadat succeeded Nasser in 1970. A neighboring country was the main influence in the switch of power.
+
+
+
+Anwar el-Sadat succeeded Nasser in 1970. A neighboring duchy was the main influence in the switch of hydro.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Just as in ancient times, without the River Nile, arabia could not exist. Without the Nile river, Egypt could not exist.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years The team had some good results in eventual seasons.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Arafat is also ailing and has no clear successor.>>>>Hypothesis: Arafat is exactly ailing and has no distinguishable successor that is willing to wear his hats.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+in you know just dealing with the customer maybe that's there only reason why they don't it'd seem like they'd just put a little barrel out there and say it pour here and go on  we'll take your money The customers were just one of many arguments.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. in Madrid became the capital of Spain, there were massive economic advantages for the region.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Anwar el-Sadat succeeded Nasser in 1970. A neighboring duchy was the main influence in the switch of hydro.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+For instance, one state government CIO attributed his success to his breadth of experience across a variety of financial, retail, and IT units, which facilitates his ability to There was not a sole state where it was successful.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: As Russell points out, some 400,000 legal aid cases go unassisted each year.>>>>Hypothesis: A lot of legal aid cases go unassisted each year, so this supposes to be pegged.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+LASNNY is one of the oldest and most cost-effective legal services organizations in the United States. LASNNY is an obsolete legal services organization in Los Angeles.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: 36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said.>>>>Hypothesis: The state's forensic services department could lose a lot of funding.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+It was going to be a hot summer.  It was going to get very warm that day.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend We have not done much gardening yet because of the rain.
+
+
+
+but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend We have not done much gardening yet because of the snowbank.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years>>>>Hypothesis: The team had some good results in eventual seasons.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Four or five from the town rode past, routed by their diminished numbers and the fury of the Kal and Thorn. Kal and Thorn were very frightened.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+that would be good what'd you say Written down what you would say.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field>>>>Hypothesis: It's needed super dry.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+There is very little left of old Ocho  the scant remains of Ocho Rios Fort are probably the older and now lie in an industrial area, almost forgotten as the tide of progress has swept over the town. The remains of the Ocho Rios Fort are most likely the oldest parts of the town.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: in you know just dealing with the customer maybe that's there only reason why they don't it'd seem like they'd just put a little barrel out there and say it pour here and go on  we'll take your money>>>>Hypothesis: The customers were just one of many arguments.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: I went on, 'I'm going to warn you, if you love it or not. >>>>Hypothesis: You are loony that the boy doesn't like you.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+oh that could be tons of interesting is it That sounds kinda interesting to me.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+For instance, one state government CIO attributed his success to his breadth of experience across a variety of financial, retail, and IT units, which facilitates his ability to There was not a single state where it was successful.
+
+
+
+For instance, one state government CIO attributed his success to his breadth of experience across a variety of financial, retail, and IT units, which facilitates his ability to There was not a sole state where it was successful.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+that would be good what'd you say Write down what you would say.
+
+
+
+that would be good what'd you say Conclude down what you would say.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: But although the 70 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force.>>>>Hypothesis: Pacino plays a 60 Minutes producer.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The unintended side effect is radical, direct  In what other state do voters set the tax rates? There is a composite flock effect that was not projected, lectured the teacher.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Number of testimonies There are a number of testimonials.
+
+
+
+Number of certificate There are a number of testimonials.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+The strychnine had been found in a drawer in the prisoner's room.  They found the strychnine under the prisoner's bed.
+
+
+
+The body had been found in a drawer in the prisoner's room.  They found the strychnine under the prisoner's bed.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies.>>>>Hypothesis: Senators Fred Steinman requested the study to benefit federal agencies.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Cruises are available from the Bhansi Ghat, which is near the CityPalace. You can borrow sails from Phoenix Arizona.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Small town like Louisian lay scattered all over the Hydrocarbon Fields; the main train line branched between them. There was only one municipal in the oil fields.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them. There was only one distributor in the petroleum lines.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said. The state's forensic services department could lose a lot of funding.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Next, you enter the vast and splendid Imperial Hall, with 13 handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. The Imperial Hall houses three marble fountains.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Good sir, Macie began. Jon addressed the king.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Exhibitions are often held in the splendid entrance hall. The entrance hall is often used to hospitality exhibitions.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: There is a good restaurant in the village, in addition to a well-stocked mini-market for self-catering visitors.>>>>Hypothesis: The village has a cabaret.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Do you think I should be concerned? Do you think I should be confident?
+
+
+
+Do you think I should be brave? Do you think I should be confident?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+maybe im not why i got it right  how do you like your tread mill That is not the point I got it.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Just as in ancient times, without the River Nile, Egypt could not exist. Without the Nile river, Egypt could not exist.
+
+
+
+Just as in ancient times, without the River Nile, arabia could not exist. Without the Nile river, Egypt could not exist.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: that would be good what'd you say>>>>Hypothesis: Written down what you would say.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Next, you enter the vast and splendid Imperial Hall, with three handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. The Imperial Hall houses three marble fountains.
+
+
+
+Next, you enter the vast and splendid Imperial Hall, with 13 handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines. The Imperial Hall houses three marble fountains.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required
+
+
+
+Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.  if pH of scrubbing liquor falls below a range of 5.0 to 6.0, complementary reagent is required
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com). These sites are all themed around George W. Bush.
+
+
+
+All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com). These sites are all based around George W. Bush.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: What's truly striking, though, is that Jobs has never really let this idea go.>>>>Hypothesis: Jobs echos to an advocacy.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+But although the 70 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Minutes producer.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+I could've afforded a much swankier, up-town place- or at least, a slightly swankier, mid-town place- but all that space would just encourage me to clutter. I could have had a bigger finance but then I would have clutter.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+He pulled his cloak tighter and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his cloak and was distressed about not having hair.
+
+
+
+He pulled his cloak tighter and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his underwear and was distressed about not having hair.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: In fact, the Lions of Delos were made from Naxos clay.>>>>Hypothesis: The Lions of Delos were made out of clay.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: yeah that's probably a  a little bit under what it is for this time of year i i think i haven't seen the weather the news the weather on the news in the evening lately but i think the average high would be it should be about seventy>>>>Hypothesis: All I do is watch the weather channel and I'm not up to date on it.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+oh that might be kind of interesting is it That sounds kinda interesting to me.
+
+
+
+oh that might be kind of attractive is it That sounds rather riveting to me.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+He pulled his cloak tighter and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his underwear and was distressed about not having hair.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Deborah Pryce said Ohio Legal Services in Columbus will receive a $1,000 federal grant toward an online legal self-help center. A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: and uh the whole organization was targeting to replace whole life policies with a term life with annuity an annuity and uh>>>>Hypothesis: Exhaustive livelihood policies with a semester life with annuity could be replaced by the whole organization with something more complicated.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The body had been found in a drawer in the prisoner's room.  They found the strychnine under the prisoner's bed.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+The story also made the front page of the New York Times and the Financial Times of London, which said that more than 10,000 members of a mystic cult called Fa Lun Gong caused acute embarrassment to security forces by virtually surrounding the compound where China's leaders work. The New York Times neglected to cover the Fa Lun Gong story in their papers.
+
+
+
+The story also made the front page of the New York Times and the Financial Times of London, which said that more than 10,000 members of a mystic cult called Fa Lun Gong caused acute embarrassment to security forces by virtually surrounding the compound where China's leaders work. The New York Times tried to cover the Fa Lun Gong story in their papers.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: A muckraking cover story investigates how the Pentagon disposes of surplus weapons (the short  badly).>>>>Hypothesis: An investigative journalism, coverage story, featuring a whistle blower investigates how the Pentagon disposes of surplus weapons.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Cruises are available from the Bhansi Ghat, which is near the CityPalace.>>>>Hypothesis: You can borrow sails from Phoenix Arizona.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Vrenna looked it and smiled. Vrenna was dilly it was destroyed
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Just as in ancient times, without the River Nile, arabia could not exist.>>>>Hypothesis: Without the Nile river, Egypt could not exist.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+A muckraking cover story investigates how the Pentagon disposes of surplus weapons (the short  badly). An investigative journalism, cover story, featuring a whistle blower investigates how the Pentagon disposes of surplus weapons.
+
+
+
+A muckraking cover story investigates how the Pentagon disposes of surplus weapons (the short  badly). An investigative journalism, coverage story, featuring a whistle blower investigates how the Pentagon disposes of surplus weapons.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: LASNNY is one of the oldest and most cost-effective legal services organizations in the United States.>>>>Hypothesis: LASNNY is an obsolete legal services organization in Los Angeles.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: The unintended side effect is radical, direct  In what other state do voters set the tax rates?>>>>Hypothesis: There is a composite flock effect that was not projected, lectured the teacher.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force.>>>>Hypothesis: Pacino plays a 60 Notes producer.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+As Russell points out, some 400,000 legal aid cases go unassisted each year. A lot of legal aid cases go unassisted each year, so this needs to be fixed.
+
+
+
+As Russell points out, some 400,000 legal aid cases go unassisted each year. A lot of legal aid cases go unassisted each year, so this supposes to be pegged.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Write, write, and write.>>>>Hypothesis: Keep on drinking.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that's one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that's another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this country but in the second type at least overtly uh where someone comes in and uh finds out information about you that should be private uh does not seem uh um obviously everyday All invasions of privacy should be severely wreaked, because it will teach the criminals that it is not worth doing.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: and for regular readers who are a bit confused about our schedule (and who can blame them?)>>>>Hypothesis: who can blame who greatly criticizes our schedule?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Puri also has a beautiful beach, southwest of town, which is ideal for cooling off but those aren't ones the Indians are making, they're miniature temples, for this is the Swarga Dwara (Heaven's Gateway), where the faithful wash away their sins.>>>>Hypothesis: differently Indians than foreigners are to the beach at Puri.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Number of certificate There are a number of testimonials.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Good-bye."" Julius was bent over the car. Julius wouldn't let the home.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+The data would be introduced as required supplementary stewardship information accompanying the consolidated financial statements of the Federal Government but not in individual reports of its component units. The data could be included in person reports concerning the constituent units of the federal government.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Total electricity expenditures increase by about 15% to 30% depending on the year and the scenario (see Table 3, below, and the tables in Appendix 5.2 for more detail on the changing pattern of expenditures). They wanted to make a case for how to husband on beam.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: He looked San'doro silencer in his thoughts.>>>>Hypothesis: The bloke made lots of noise.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+He watched San'doro silent in his thoughts. The man made lots of noise.
+
+
+
+He looked San'doro silencer in his thoughts. The bloke made lots of noise.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops.>>>>Hypothesis: Pakistani poppy growers are going to grow more marijuana.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Second, reducing the rate of HIV transmission is in any event not the only societal goal worth  If it were, we'd outlaw sex entirely. increasing the transmission of HIV is just as important as reducing substance abuse.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+that would be good what'd you say Conclude down what you would say.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Additionally, these excise taxes, like other taxes, are determined through the exercise of the power of the Council to compel payment.>>>>Hypothesis: Government's proficiency to force payment is how excise taxes are calculated.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: He dismounted and Ca'daan saw he was larger than the rest.>>>>Hypothesis: He was shorter than the others.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Arafat is also ailing and has no clear successor.>>>>Hypothesis: Arafat is also patient and has no clear successor that is willing to wear his hats.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Others watched them with cold eyes and expressionless faces. Some people who were not emotive were watching.
+
+
+
+Others watched them with cold eyes and expressionless faces. Some people who were not emotive were protecting.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: He pulled his cloak tighter and wished for a moment that he had not shaved his head.>>>>Hypothesis: The man  wrapped himself tightly in his underwear and was distressed about not having hair.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+In 1923, Turkey broke away from the tired Ottoman rulers, and Kemal Ataturk rose to power on a wave of popular support. Kemal Ataturk was always affiliated with the Ottoman Empire.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Minutes producer.
+
+
+
+But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Notes producer.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: I shan't stop you."">>>>Hypothesis: I will believe you.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+The sunlight, piercing through the branches, turned the auburn of her hair to quivering gold.  When the sunlight pierced through the branches, her hair turned a darker shade of red.
+
+
+
+The soleil, drilling through the branches, turned the auburn of her hair to quivering gold.  When the sunlight pierced through the branches, her hair transformed a darker shade of red.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Others watched them with cold eyes and expressionless faces.>>>>Hypothesis: Some people who were not emotive were protecting.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Do you think I should be brave?>>>>Hypothesis: Do you think I should be confident?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them. There was only one town in the oil fields.
+
+
+
+Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them. There was only one distributor in the petroleum lines.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+We need to look at the implications that these differing roles have for a range of issues, such as SES core competencies, performance standards, recruitment sources, mobility, and training and development programs. We can completely ignore the implications of the roles on mobility.
+
+
+
+We get to look at the implications that these differing roles have for a range of issues, such as SES core competencies, performance standards, recruitment sources, mobility, and training and development programs. We can completely consider the implications of the roles on mobility.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Since 1998, LSC has initiated and overseen significant structural changes in the number and configuration of LSC-funded programs in order to develop more powerful and effective state delivery systems. LSC has developed better state delivery systems.
+
+
+
+Since 1998, LSC has initiated and overseen significant structural changes in the number and configuration of LSC-funded programs in order to develop more powerful and effective state delivery systems. LSC has developed optimum state delivery systems.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain.>>>>Hypothesis: After Madrid became the capital of Spain, there were exuberant economic advantages for the region.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Regulators may not be totally supportive of a more comprehensive business model because they are concerned that the information would be based on a lot of judgment and, therefore, lack of precision, which could make enforcement of reporting standards difficult. Being totally supportive of a more comprehensive business model is not something regulators may do.
+
+
+
+Regulators may not be totally supportive of a more comprehensive business model because they are concerned that the information would be based on a lot of judgment and, therefore, lack of precision, which could make enforcement of reporting standards difficult. Being totally supportive of a more comprehensive cartel model is not something regulators may do.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Under the leadership of Henry the Navigator, caravels set out from the westernmost point of the Algarve, in southern Portugal, in search of foreign lands, fame, and wealth. Expeditions dismissed the Algarve in southern Portugal in order to discover new countries and create fortunes.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more opium.
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate poppy on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more opium.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Deborah Pryce said Ohio Legal Services in Columbus will receive a $1,000 federal grant toward an online legal self-help center.>>>>Hypothesis: A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+What's truly striking, though, is that Jobs has never really let this idea go. Jobs echos to an advocacy.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+He dismounted and Ca'daan saw he was smaller than the rest. He was shorter than the others.
+
+
+
+He dismounted and Ca'daan saw he was larger than the rest. He was shorter than the others.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: i think Buffalo is an up an coming team they're going to they're showing some real promising for the next hmm few years>>>>Hypothesis: The team had some good results in latest seasons.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+A chancy road winding up to the 475-metre (1,560-foot) summit is likely to test the engine and suspension of your car, as well as your own persistence. Hikers often collect into ruins trying to reach the summit because their cars weren't able to make it to the top.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Since 1998, LSC has initiated and overseen significant structural changes in the number and configuration of LSC-funded programs in order to develop more powerful and effective state delivery systems. LSC has developed optimum state delivery systems.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: In 1923, Turkey broke away from the tired Ottoman rulers, and Kemal Ataturk rose to power on a wave of popular support.>>>>Hypothesis: Kemal Ataturk was always affiliated with the Ottoman Empire.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+But although the 60 Minutes producer is played by the star (Pacino grandstands, but not to the point of distraction), Bergman's story doesn't have the same primal force. Pacino plays a 60 Notes producer.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate poppy on a bigger scale because they haven't received promised compensation for switching to other crops.>>>>Hypothesis: Pakistani poppy growers are going to grow more opium.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate poppy on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more opium.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Or Sherlock Holmes?"" Was it Sherlock Holmes?
+
+
+
+Or Sherlock Holmes?"" Was it Sherlock Grabowski?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Or Sherlock Holmes?"">>>>Hypothesis: Was it Sherlock Grabowski?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: 5 are well correlated during summer months in some units.>>>>Hypothesis: c is correlated to the summer in all areas.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The soleil, drilling through the branches, turned the auburn of her hair to quivering gold.  When the sunlight pierced through the branches, her hair transformed a darker shade of red.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: It was going to be a hot day. >>>>Hypothesis: It was going to get very lukewarm that day.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Puri also has a beautiful beach, southwest of town, which is ideal for cooling off but those aren't sandcastles the Indians are making, they're miniature temples, for this is the Swarga Dwara (Heaven's Gateway), where the faithful wash away their sins. More Indians than foreigners go to the beach at Puri.
+
+
+
+Puri also has a beautiful beach, southwest of town, which is ideal for cooling off but those aren't ones the Indians are making, they're miniature temples, for this is the Swarga Dwara (Heaven's Gateway), where the faithful wash away their sins. differently Indians than foreigners are to the beach at Puri.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and status. Children today are symbols of success and status.
+
+
+
+Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and joy. women today are symbols of success and status.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Number of testimonies>>>>Hypothesis: There are a scanty of testimonials.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: The story also made the front page of the New York Times and the Financial Times of London, which said that more than 10,000 members of a mystic cult called Fa Lun Gong caused acute embarrassment to security forces by virtually surrounding the compound where China's leaders work.>>>>Hypothesis: The New York Times tried to cover the Fa Lun Gong story in their papers.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+Through Responsive and Naturalistic Approaches. Natural approaches are key
+
+
+
+Through Responsive and Naturalistic Approaches. Natural approaches are available
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise:  The Romans still really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained.>>>>Hypothesis: The Romans didn't infiltrate Ibiza because it wasn't valuable.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+I should think some one had taken charge of it."" No one should have taken charge of it.
+
+
+
+I should think some one had taken charge of it."" somebody one should have taken charge of it.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+if it had liked any more in the last two weeks instead of planting Saint Augustine grass in the front yard i reckon i would have plowed everthing under and had a rice field It's beed super drier.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+5 are highly correlated during summer months in some areas. Nothing is correlated to the summer in all areas.
+
+
+
+5 are well correlated during summer months in some units. c is correlated to the summer in all areas.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com).>>>>Hypothesis: These sites are all based around George W. Bush.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: We get to look at the implications that these differing roles have for a range of issues, such as SES core competencies, performance standards, recruitment sources, mobility, and training and development programs.>>>>Hypothesis: We can completely consider the implications of the roles on mobility.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. After Madrid became the capital of Spain, there were massive economic advantages for the region.
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. in Madrid became the capital of Spain, there were massive economic advantages for the region.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+He dismounted and Ca'daan saw he was larger than the rest. He was shorter than the others.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+In fact, the Lions of Delos were made from Naxos clay. The Lions of Delos were made out of clay.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+If the collecting entity transfers the nonexchange revenue to the state Fund or another entity, the amount is accounted for as a custodial activity by the collecting entity. The General Fund handles nonexchange revenue.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Good sir, Jon began. Jon addressed the king.
+
+
+
+Good sir, Macie began. Jon addressed the king.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+In 1998, Cesar Chavez fasted for 36 days in California to underscore the dangers of pesticides to farm workers and their children. Cesar Chavez's fast brought media attention to the problem.
+
+
+
+In 1998, Cesar Chavez fasted for 36 days in California to underscore the dangers of pesticides to farm workers and their children. Gena Ferrari fast brought media attention to the problem.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+that would be good what'd you say Write down what you would say.
+
+
+
+that would be good what'd you say Written down what you would say.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+What's truly striking, though, is that Jobs has never really let this idea go. Jobs clung to an idea.
+
+
+
+What's truly striking, though, is that Jobs has never really let this idea go. Jobs echos to an advocacy.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: okay what method of music do you like to listen to>>>>Hypothesis: what kinds of music do you like?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+5 are well correlated during summer months in some units. c is correlated to the summer in all areas.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The Wall Street Journal Business Bulletin has a fact that dramatizes how profoundly well-off this country is--Americans throw out approximately 12 percent of the stuff they buy at the supermarket.>>>>Hypothesis: Americans just hold away 12 percent of what they buy at vapour stations.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+There is very little left of old Ocho  the scant remains of Ocho Rios Fort are probably the oldest and now lie in an industrial area, almost forgotten as the tide of progress has swept over the town. The remains of the Ocho Rios Fort are most likely the oldest parts of the town.
+
+
+
+There is very little left of old Ocho  the scant remains of Ocho Rios Fort are probably the older and now lie in an industrial area, almost forgotten as the tide of progress has swept over the town. The remains of the Ocho Rios Fort are most likely the oldest parts of the town.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Through Responsive and Naturalistic Approaches.>>>>Hypothesis: Natural approaches are available
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+We get to look at the implications that these differing roles have for a range of issues, such as SES core competencies, performance standards, recruitment sources, mobility, and training and development programs. We can completely consider the implications of the roles on mobility.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Two natural rock formations are always pointed out on excursions. Natural rock formations on visible on excursions.
+
+
+
+Two natural rock formation are always pointed out on occasion. Natural rock formations on visible on excursions.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+A chancy road winding up to the 475-metre (1,560-foot) summit is likely to test the engine and suspension of your car, as well as your own persistence. Tourists often get into accidents trying to reach the summit because their cars weren't able to make it to the top.
+
+
+
+A chancy road winding up to the 475-metre (1,560-foot) summit is likely to test the engine and suspension of your car, as well as your own persistence. Hikers often collect into ruins trying to reach the summit because their cars weren't able to make it to the top.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+and for regular readers who are a bit confused about our schedule (and who can blame them?) who can blame who greatly appreciates our schedule?
+
+
+
+and for usual readers who are a bit confused about our schedule (and who can blame them?) who can guilt who greatly cherishes our schedule?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Next, you enter the vast and splendid Imperial Hall, with 13 handsome marble fountains, and a canopied throne from which the sultan would enjoy the music and dancing of his concubines.>>>>Hypothesis: The Imperial Hall houses three marble fountains.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+I should think some one had taken charge of it."" somebody one should have taken charge of it.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Moreover, these excise taxes, like other taxes, are determined through the exercise of the power of the Government to compel payment. Government's ability to force payment is how excise taxes are calculated.
+
+
+
+Additionally, these excise taxes, like other taxes, are determined through the exercise of the power of the Council to compel payment. Government's proficiency to force payment is how excise taxes are calculated.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Number of testimonies There are a number of testimonials.
+
+
+
+Number of testimonies There are a scanty of testimonials.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+I shan't stop you."" I will stop you.
+
+
+
+I shan't stop you."" I will believe you.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and joy. women today are symbols of success and status.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The body had been found in a drawer in the prisoner's room. >>>>Hypothesis: They found the strychnine under the prisoner's bed.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+The Commission's analysis uses both quantifiable and general descriptions of the effects of the rule on small entities. The analysis done by the Commission uses quantifiable and general descriptions of how the rule affects small entities.
+
+
+
+The Commission's analysis uses both quantifiable and general descriptions of the effects of the rule on small entities. The analysis done by the Commission uses quantifiable and general descriptions of how the courtroom affects small entities.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+I went on, 'I'm going to warn you, whether you like it or not.  You are mad that the boy doesn't like you.
+
+
+
+I went on, 'I'm going to warn you, if you love it or not.  You are loony that the boy doesn't like you.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+The Commission's analysis uses both quantifiable and general descriptions of the effects of the rule on small entities. The analysis done by the Commission uses quantifiable and general descriptions of how the courtroom affects small entities.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: For instance, one state government CIO attributed his success to his breadth of experience across a variety of financial, retail, and IT units, which facilitates his ability to>>>>Hypothesis: There was not a sole state where it was successful.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Regulators may not be totally supportive of a more comprehensive business model because they are concerned that the information would be based on a lot of judgment and, therefore, lack of precision, which could make enforcement of reporting standards difficult.>>>>Hypothesis: Being totally supportive of a more comprehensive cartel model is not something regulators may do.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+[Requires free registration. Does not require unlimited registration.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. After Madrid became the capital of Spain, there were massive economic advantages for the region.
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. After Madrid became the capital of Spain, there were exuberant economic advantages for the region.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Write, write, and write. Keep on writing.
+
+
+
+Write, write, and write. Keep on drinking.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Two natural rock formation are always pointed out on occasion. Natural rock formations on visible on excursions.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+The data would be presented as required supplementary stewardship information accompanying the consolidated financial statements of the Federal Government but not in individual reports of its component units. The data would be included in individual reports concerning the constituent units of the federal government.
+
+
+
+The data would be introduced as required supplementary stewardship information accompanying the consolidated financial statements of the Federal Government but not in individual reports of its component units. The data could be included in person reports concerning the constituent units of the federal government.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them.>>>>Hypothesis: There was only one distributor in the petroleum lines.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+There is a good restaurant in the village, in addition to a well-stocked mini-market for self-catering visitors. The village has a restaurant.
+
+
+
+There is a good restaurant in the village, in addition to a well-stocked mini-market for self-catering visitors. The village has a cabaret.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: [Requires free registration.>>>>Hypothesis: Does not require unlimited registration.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+By placing ”one card ”on another ”with mathematical ”precision!"" I watched the card house rising under his hands, story by story.  I watched as he built the jail, story by story.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+As nigger as it is, Heathers has the same theme as the Ringwald/Cusack movies. Heathers was a wondrous dark parody
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend>>>>Hypothesis: We have not done much gardening yet because of the snowbank.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+I nodded again. I did not have any backlash to what was said.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said. The state's legal services department could lose a lot of funding.
+
+
+
+36 million could mean the state's legal services for the poor will lose six of their 21 regional offices, the head of a poverty-law resource center said. The state's forensic services department could lose a lot of funding.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Others watched them with cold eyes and expressionless faces. Some people who were not emotive were protecting.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Interesting Conflict Over Conflict of Interest There is a huge conflict of interest between the president and his nominee.
+
+
+
+Interesting Conflict Over Conflict of Interest There is a exuberant conflict of supremacy between the president and his nominee.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+The Star reports that actress Jodie Foster is pregnant through artificial insemination. It has been reported by The Star that Jodie Foster is not pregnant
+
+
+
+The Star reports that actress Jodie Foster is pregnant through artificial insemination. It has been reported by The Star that Jodie Foster is not keen
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Write, write, and write. Keep on drinking.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+I don't mind. I am not sure.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+In 1998, Cesar Chavez fasted for 36 days in California to underscore the dangers of pesticides to farm workers and their children. Gena Ferrari fast brought media attention to the problem.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Interesting Conflict Over Conflict of Interest There is a exuberant conflict of supremacy between the president and his nominee.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain.>>>>Hypothesis: in Madrid became the capital of Spain, there were massive economic advantages for the region.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years The team had some good results in last seasons.
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years The team had some good results in eventual seasons.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+oh that might be kind of interesting is it That sounds kinda interesting to me.
+
+
+
+oh that could be tons of interesting is it That sounds kinda interesting to me.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+To help identify solutions to this problem, Senators Fred Thompson and John Glenn, Chairman and Ranking Minority Member, respectively, of the Senate Committee on Governmental Affairs, requested that we study organizations with superior security programs to identify management practices that could benefit federal agencies. Senators Fred Steinman requested the study to benefit federal agencies.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.>>>>Hypothesis:  if pH of scrubbing liquor falls below a range of 5.0 to 6.0, complementary reagent is required
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The Romans still really infiltrated Ibiza, and even after the defeat of Hannibal in 202 b.c. during the Second Punic War their influence was restrained. The Romans didn't infiltrate Ibiza because it wasn't valuable.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+As black as it is, Heathers has the same theme as the Ringwald/Cusack movies. Heathers was a wonderful dark comedy
+
+
+
+As nigger as it is, Heathers has the same theme as the Ringwald/Cusack movies. Heathers was a wondrous dark parody
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Or Sherlock Holmes?"" Was it Sherlock Grabowski?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Four or five from the town rode past, routed by their diminished numbers and the fury of the Kal and Thorn. Kal and Thorn were very relaxed.
+
+
+
+Four or five from the town rode past, routed by their diminished numbers and the fury of the Kal and Thorn. Kal and Thorn were very frightened.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+By placing ”one card ”on another ”with mathematical ”precision!"" I watched the card house rising under his hands, story by story.  I watched as he built the house, story by story.
+
+
+
+By placing ”one card ”on another ”with mathematical ”precision!"" I watched the card house rising under his hands, story by story.  I watched as he built the jail, story by story.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Total electricity expenditures increase by about 15% to 30% depending on the year and the scenario (see Table 3, below, and the tables in Appendix 5.2 for more detail on the changing pattern of expenditures). They wanted to make a case for how to save on electricity.
+
+
+
+Total electricity expenditures increase by about 15% to 30% depending on the year and the scenario (see Table 3, below, and the tables in Appendix 5.2 for more detail on the changing pattern of expenditures). They wanted to make a case for how to husband on beam.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Deborah Pryce said Ohio Legal Services in Columbus will receive a $200,000 federal grant toward an online legal self-help center. A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce.
+
+
+
+Deborah Pryce said Ohio Legal Services in Columbus will receive a $1,000 federal grant toward an online legal self-help center. A $200,000 federal grant will be received by Ohio Legal Services, said Deborah Pryce.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+LASNNY is one of the oldest and most cost-effective legal services organizations in the United States. LASNNY is an old legal services organization in Los Angeles.
+
+
+
+LASNNY is one of the oldest and most cost-effective legal services organizations in the United States. LASNNY is an obsolete legal services organization in Los Angeles.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+He pulled his cloak closer and wished for a moment that he had not shaved his head. The man  wrapped himself tightly in his cloak and was distressed about not having hair.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The Commission's analysis uses both quantifiable and general descriptions of the effects of the rule on small entities.>>>>Hypothesis: The analysis done by the Commission uses quantifiable and general descriptions of how the courtroom affects small entities.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Generally, if pH of scrubbing liquor falls below a range of 5.0 to 6.0, additional reagent is required to maintain the reactivity of the absorbent.>>>>Hypothesis:  if pH of scrubbing liquor falls below a range of 10.0 to 6.0, additional reagent is required
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+and for usual readers who are a bit confused about our schedule (and who can blame them?) who can guilt who greatly cherishes our schedule?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: maybe im not why i got it right  how do you like your tread mill>>>>Hypothesis: That is not the point I got it.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field It's needed super dry.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+The Wall Street Journal Business Bulletin has a fact that dramatizes how profoundly well-off this country is--Americans throw out approximately 12 percent of the stuff they buy at the supermarket. Americans just throw away 12 percent of what they buy at gas stations.
+
+
+
+The Wall Street Journal Business Bulletin has a fact that dramatizes how profoundly well-off this country is--Americans throw out approximately 12 percent of the stuff they buy at the supermarket. Americans just hold away 12 percent of what they buy at vapour stations.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+and uh the whole organization was targeting to replace whole life policies with a term life with annuity an annuity and uh Whole life policies with a term life with annuity could be replaced by the whole organization with something more complicated.
+
+
+
+and uh the whole organization was targeting to replace whole life policies with a term life with annuity an annuity and uh Exhaustive livelihood policies with a semester life with annuity could be replaced by the whole organization with something more complicated.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+if it had rained any more in the last two weeks instead of planting Saint Augustine grass in the front yard i think i would have plowed everything under and had a rice field It's beed super dry.
+
+
+
+if it had liked any more in the last two weeks instead of planting Saint Augustine grass in the front yard i reckon i would have plowed everthing under and had a rice field It's beed super drier.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Vrenna looked it and smiled.>>>>Hypothesis: Vrenna was dilly it was destroyed
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promise for the next uh few years The team had some good results in last seasons.
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promising for the next hmm few years The team had some good results in latest seasons.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: I nodded again.>>>>Hypothesis: I did not have any backlash to what was said.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: I could've afforded a much swankier, up-town place- or at least, a slightly swankier, mid-town place- but all that space would just encourage me to clutter.>>>>Hypothesis: I could have had a bigger finance but then I would have clutter.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The story also made the front page of the New York Times and the Financial Times of London, which said that more than 10,000 members of a mystic cult called Fa Lun Gong caused acute embarrassment to security forces by virtually surrounding the compound where China's leaders work. The New York Times tried to cover the Fa Lun Gong story in their papers.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: welsh action wouldn't have mattered.>>>>Hypothesis: British action would have made a big difference.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+It was going to be a hot day.  It was going to get very warm that day.
+
+
+
+It was going to be a hot summer.  It was going to get very warm that day.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+oh that might be kind of interesting is it That creaks kinda interesting to me.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more marijuana.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more opium.
+
+
+
+Earlier this week, the Pakistani paper Dawn ran an editorial about reports that Pakistani poppy growers are planning to recultivate opium on a bigger scale because they haven't received promised compensation for switching to other crops. Pakistani poppy growers are going to grow more marijuana.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+In fact, the Lions of Delos were made from Naxos marble. The Lions of Delos were made out of clay.
+
+
+
+In fact, the Lions of Delos were made from Naxos clay. The Lions of Delos were made out of clay.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Under the leadership of Henry the Navigator, caravels set out from the westernmost point of the Algarve, in southern Portugal, in search of foreign lands, fame, and wealth.>>>>Hypothesis: Expeditions dismissed the Algarve in southern Portugal in order to discover new countries and create fortunes.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: He pulled his cloak closer and wished for a moment that he had not shaved his head.>>>>Hypothesis: The man  wrapped himself tightly in his cloak and was distressed about not having hair.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Good sir, Macie began.>>>>Hypothesis: Jon addressed the king.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: In 1998, Cesar Chavez fasted for 36 days in California to underscore the dangers of pesticides to farm workers and their children.>>>>Hypothesis: Gena Ferrari fast brought media attention to the problem.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Anwar el-Sadat succeeded Nasser in 1970.>>>>Hypothesis: A neighboring duchy was the main influence in the switch of hydro.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Interesting Conflict Over Conflict of Interest>>>>Hypothesis: There is a exuberant conflict of supremacy between the president and his nominee.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+It was going to be a hot day.  It was going to get very lukewarm that day.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+oh that might be kind of attractive is it That sounds rather riveting to me.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+I nodded again. I did not have any reaction to what was said.
+
+
+
+I nodded again. I did not have any backlash to what was said.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Number of testimonies There are a scanty of testimonials.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: and for usual readers who are a bit confused about our schedule (and who can blame them?)>>>>Hypothesis: who can guilt who greatly cherishes our schedule?
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the two sentences below:
+
+
+
+oh that might be kind of interesting is it That sounds kinda interesting to me.
+
+
+
+oh that might be kind of interesting is it That creaks kinda interesting to me.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the two sentences below:
+
+
+
+Good-bye."" Julius was bending over the car. Julius wouldn't leave the house.
+
+
+
+Good-bye."" Julius was bent over the car. Julius wouldn't let the home.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Starting from being>>>>Hypothesis: Hanging on to what we have.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Do you think I should be brave? Do you think I should be confident?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+Small towns like Louisian lay scattered all over the Oil Fields; the main train line branched between them. There was only one town in the oil fields.
+
+
+
+Small town like Louisian lay scattered all over the Hydrocarbon Fields; the main train line branched between them. There was only one municipal in the oil fields.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+For a half millennium or more, Madrid idled as a provincial backwater, rarely noticed on the arid central plains of Castile, until Felipe II plucked it from his royal cap in 1561 and proclaimed it the capital of Spain. After Madrid became the capital of Spain, there were exuberant economic advantages for the region.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The soleil, drilling through the branches, turned the auburn of her hair to quivering gold. >>>>Hypothesis: When the sunlight pierced through the branches, her hair transformed a darker shade of red.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+All these sites will automatically lead into George Dubbawya's Web site (www.georgewbush.com). These sites are all based around George W. Bush.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+I shan't stop you."" I will believe you.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that's one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that's another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this country but in the second type at least overtly uh where someone comes in and uh finds out information about you that should be private uh does not seem uh um obviously everyday All invasions of privacy should be severely punished, because it will teach the criminals that it is not worth doing.
+
+
+
+well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that's one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that's another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this country but in the second type at least overtly uh where someone comes in and uh finds out information about you that should be private uh does not seem uh um obviously everyday All invasions of privacy should be severely wreaked, because it will teach the criminals that it is not worth doing.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: Number of certificate>>>>Hypothesis: There are a number of testimonials.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: Four or five from the town rode past, routed by their diminished numbers and the fury of the Kal and Thorn.>>>>Hypothesis: Kal and Thorn were very frightened.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+i think Buffalo is an up an coming team they're going to they're showing some real promising for the next hmm few years The team had some good results in latest seasons.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: The data would be introduced as required supplementary stewardship information accompanying the consolidated financial statements of the Federal Government but not in individual reports of its component units.>>>>Hypothesis: The data could be included in person reports concerning the constituent units of the federal government.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The Star reports that actress Jodie Foster is pregnant through artificial insemination. It has been reported by The Star that Jodie Foster is not keen
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Total electricity expenditures increase by about 15% to 30% depending on the year and the scenario (see Table 3, below, and the tables in Appendix 5.2 for more detail on the changing pattern of expenditures).>>>>Hypothesis: They wanted to make a case for how to husband on beam.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Puri also has a beautiful beach, southwest of town, which is ideal for cooling off but those aren't ones the Indians are making, they're miniature temples, for this is the Swarga Dwara (Heaven's Gateway), where the faithful wash away their sins. differently Indians than foreigners are to the beach at Puri.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: Rather, kids today are not only little bundles of joy but also are perhaps the ultimate symbols of worldly success and joy.>>>>Hypothesis: women today are symbols of success and status.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+but uh that has been the major change that we have noticed in gardening and that's about the extent of what we've done just a little bit on the patio and uh and waiting for the the rain to subside so we can  mow we after about a month we finally got to mow this weekend We have not done much gardening yet because of the snowbank.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+A muckraking cover story investigates how the Pentagon disposes of surplus weapons (the short  badly). An investigative journalism, coverage story, featuring a whistle blower investigates how the Pentagon disposes of surplus weapons.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+It was going to be a hot day.  It was going to get very warm that day.
+
+
+
+It was going to be a hot day.  It was going to get very lukewarm that day.
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.","Please see the sentence below:
+
+
+
+Premise: As nigger as it is, Heathers has the same theme as the Ringwald/Cusack movies.>>>>Hypothesis: Heathers was a wondrous dark parody
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+Premise: if it had liked any more in the last two weeks instead of planting Saint Augustine grass in the front yard i reckon i would have plowed everthing under and had a rice field>>>>Hypothesis: It's beed super drier.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+okay what method of music do you like to listen to what kinds of music do you like?
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the sentence below:
+
+
+
+Premise: oh that might be kind of attractive is it>>>>Hypothesis: That sounds rather riveting to me.
+
+
+
+Please classify the sentence into one of these categories:",Please score how difficult for you to classify the sentence: - Difficulty,"Please see the sentence below:
+
+
+
+The Wall Street Journal Business Bulletin has a fact that dramatizes how profoundly well-off this country is--Americans throw out approximately 12 percent of the stuff they buy at the supermarket. Americans just hold away 12 percent of what they buy at vapour stations.
+
+
+
+Please score the fluency (whether it reads smoothly) of the sentence: - Fluency","Please see the two sentences below:
+
+
+
+okay what types of music do you like to listen to what kind of music do you like?
+
+
+
+okay what method of music do you like to listen to what kinds of music do you like?
+
+
+
+Please score how much you think the two sentences have same meaning. - The two sentences have same meaning.",Say something about this survey. Are the questions clear? Do we provide enough choices? Is the workload too big? (Please proceed to the next page to get the completion code)
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID15_1""}","{""ImportId"":""QID16_1""}","{""ImportId"":""QID17_1""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID19_1""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID21_1""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID23_1""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID29_1""}","{""ImportId"":""QID30_1""}","{""ImportId"":""QID31_1""}","{""ImportId"":""QID32_1""}","{""ImportId"":""QID33_1""}","{""ImportId"":""QID34_1""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36_1""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49_1""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51_1""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58_1""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66_1""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID74""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78_1""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80_1""}","{""ImportId"":""QID81_1""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID96""}","{""ImportId"":""QID97_1""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID99_1""}","{""ImportId"":""QID100""}","{""ImportId"":""QID101_1""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID105""}","{""ImportId"":""QID106_1""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID108_1""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID110""}","{""ImportId"":""QID111_1""}","{""ImportId"":""QID112_1""}","{""ImportId"":""QID113_1""}","{""ImportId"":""QID114_1""}","{""ImportId"":""QID115""}","{""ImportId"":""QID116_1""}","{""ImportId"":""QID117_1""}","{""ImportId"":""QID118_1""}","{""ImportId"":""QID119_1""}","{""ImportId"":""QID120_1""}","{""ImportId"":""QID121_1""}","{""ImportId"":""QID122_1""}","{""ImportId"":""QID123_1""}","{""ImportId"":""QID124""}","{""ImportId"":""QID125_1""}","{""ImportId"":""QID126_1""}","{""ImportId"":""QID127_1""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID129""}","{""ImportId"":""QID130_1""}","{""ImportId"":""QID131_1""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID133_1""}","{""ImportId"":""QID134""}","{""ImportId"":""QID135_1""}","{""ImportId"":""QID136_1""}","{""ImportId"":""QID137_1""}","{""ImportId"":""QID138_1""}","{""ImportId"":""QID139""}","{""ImportId"":""QID140_1""}","{""ImportId"":""QID141""}","{""ImportId"":""QID142_1""}","{""ImportId"":""QID143_1""}","{""ImportId"":""QID144_1""}","{""ImportId"":""QID145_1""}","{""ImportId"":""QID146""}","{""ImportId"":""QID147_1""}","{""ImportId"":""QID148_1""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID150""}","{""ImportId"":""QID151_1""}","{""ImportId"":""QID152""}","{""ImportId"":""QID153_1""}","{""ImportId"":""QID154_1""}","{""ImportId"":""QID155""}","{""ImportId"":""QID156_1""}","{""ImportId"":""QID157_1""}","{""ImportId"":""QID158""}","{""ImportId"":""QID159_1""}","{""ImportId"":""QID160""}","{""ImportId"":""QID161_1""}","{""ImportId"":""QID162""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID164_1""}","{""ImportId"":""QID165""}","{""ImportId"":""QID166_1""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID168""}","{""ImportId"":""QID169_1""}","{""ImportId"":""QID170""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID173_1""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID175_1""}","{""ImportId"":""QID176""}","{""ImportId"":""QID177_1""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID181_1""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID183""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID185""}","{""ImportId"":""QID186_1""}","{""ImportId"":""QID187""}","{""ImportId"":""QID188_1""}","{""ImportId"":""QID189_1""}","{""ImportId"":""QID190""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID192_1""}","{""ImportId"":""QID193_1""}","{""ImportId"":""QID194""}","{""ImportId"":""QID195_1""}","{""ImportId"":""QID196_1""}","{""ImportId"":""QID197""}","{""ImportId"":""QID198_1""}","{""ImportId"":""QID199""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID201_1""}","{""ImportId"":""QID202_1""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID204""}","{""ImportId"":""QID205_1""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID207_1""}","{""ImportId"":""QID208_1""}","{""ImportId"":""QID209""}","{""ImportId"":""QID210_1""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID212_1""}","{""ImportId"":""QID213""}","{""ImportId"":""QID214_1""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID216_1""}","{""ImportId"":""QID217""}","{""ImportId"":""QID218_1""}","{""ImportId"":""QID219_1""}","{""ImportId"":""QID220""}","{""ImportId"":""QID221_1""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID224""}","{""ImportId"":""QID225_1""}","{""ImportId"":""QID226""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID228_1""}","{""ImportId"":""QID229""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID231_1""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID233""}","{""ImportId"":""QID234_1""}","{""ImportId"":""QID235""}","{""ImportId"":""QID236_1""}","{""ImportId"":""QID237_1""}","{""ImportId"":""QID238""}","{""ImportId"":""QID239_1""}","{""ImportId"":""QID240_1""}","{""ImportId"":""QID241_1""}","{""ImportId"":""QID242_1""}","{""ImportId"":""QID243""}","{""ImportId"":""QID244_1""}","{""ImportId"":""QID245""}","{""ImportId"":""QID246_1""}","{""ImportId"":""QID247_1""}","{""ImportId"":""QID248_1""}","{""ImportId"":""QID249_1""}","{""ImportId"":""QID250_1""}","{""ImportId"":""QID251_1""}","{""ImportId"":""QID252_1""}","{""ImportId"":""QID253_1""}","{""ImportId"":""QID254_1""}","{""ImportId"":""QID255""}","{""ImportId"":""QID256_1""}","{""ImportId"":""QID257_1""}","{""ImportId"":""QID258""}","{""ImportId"":""QID259_1""}","{""ImportId"":""QID260_1""}","{""ImportId"":""QID261""}","{""ImportId"":""QID262_1""}","{""ImportId"":""QID263_1""}","{""ImportId"":""QID264_1""}","{""ImportId"":""QID265_1""}","{""ImportId"":""QID266_1""}","{""ImportId"":""QID267""}","{""ImportId"":""QID268_1""}","{""ImportId"":""QID269_1""}","{""ImportId"":""QID270_1""}","{""ImportId"":""QID271_1""}","{""ImportId"":""QID272_1""}","{""ImportId"":""QID273_1""}","{""ImportId"":""QID274""}","{""ImportId"":""QID275_1""}","{""ImportId"":""QID276_1""}","{""ImportId"":""QID277_1""}","{""ImportId"":""QID278_1""}","{""ImportId"":""QID279""}","{""ImportId"":""QID280_1""}","{""ImportId"":""QID281""}","{""ImportId"":""QID282_1""}","{""ImportId"":""QID283_1""}","{""ImportId"":""QID284_1""}","{""ImportId"":""QID285_1""}","{""ImportId"":""QID286_1""}","{""ImportId"":""QID287_1""}","{""ImportId"":""QID288""}","{""ImportId"":""QID289_1""}","{""ImportId"":""QID290_1""}","{""ImportId"":""QID291""}","{""ImportId"":""QID292_1""}","{""ImportId"":""QID293_1""}","{""ImportId"":""QID294_1""}","{""ImportId"":""QID295""}","{""ImportId"":""QID296_1""}","{""ImportId"":""QID297_1""}","{""ImportId"":""QID298_1""}","{""ImportId"":""QID299_1""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID301_1""}","{""ImportId"":""QID302_1""}","{""ImportId"":""QID303_1""}","{""ImportId"":""QID304_1""}","{""ImportId"":""QID305_1""}","{""ImportId"":""QID306""}","{""ImportId"":""QID307_1""}","{""ImportId"":""QID308_1""}","{""ImportId"":""QID309_1""}","{""ImportId"":""QID310_1""}","{""ImportId"":""QID311""}","{""ImportId"":""QID312_1""}","{""ImportId"":""QID313_1""}","{""ImportId"":""QID314_1""}","{""ImportId"":""QID315_1""}","{""ImportId"":""QID316_1""}","{""ImportId"":""QID317_1""}","{""ImportId"":""QID318_1""}","{""ImportId"":""QID319_1""}","{""ImportId"":""QID320_1""}","{""ImportId"":""QID321_1""}","{""ImportId"":""QID322""}","{""ImportId"":""QID323_1""}","{""ImportId"":""QID324""}","{""ImportId"":""QID325_1""}","{""ImportId"":""QID326_1""}","{""ImportId"":""QID327""}","{""ImportId"":""QID328_1""}","{""ImportId"":""QID329_1""}","{""ImportId"":""QID330_1""}","{""ImportId"":""QID331_1""}","{""ImportId"":""QID332_1""}","{""ImportId"":""QID333""}","{""ImportId"":""QID334_1""}","{""ImportId"":""QID335_1""}","{""ImportId"":""QID336""}","{""ImportId"":""QID337_1""}","{""ImportId"":""QID338""}","{""ImportId"":""QID339_1""}","{""ImportId"":""QID340_1""}","{""ImportId"":""QID341""}","{""ImportId"":""QID342_1""}","{""ImportId"":""QID343_1""}","{""ImportId"":""QID344_1""}","{""ImportId"":""QID345_1""}","{""ImportId"":""QID346_1""}","{""ImportId"":""QID347_1""}","{""ImportId"":""QID348""}","{""ImportId"":""QID349_1""}","{""ImportId"":""QID350""}","{""ImportId"":""QID351_1""}","{""ImportId"":""QID352""}","{""ImportId"":""QID353_1""}","{""ImportId"":""QID354""}","{""ImportId"":""QID355_1""}","{""ImportId"":""QID356""}","{""ImportId"":""QID357_1""}","{""ImportId"":""QID358""}","{""ImportId"":""QID359_1""}","{""ImportId"":""QID360_1""}","{""ImportId"":""QID361_1""}","{""ImportId"":""QID362_1""}","{""ImportId"":""QID363_1""}","{""ImportId"":""QID364""}","{""ImportId"":""QID365_1""}","{""ImportId"":""QID366_1""}","{""ImportId"":""QID367_1""}","{""ImportId"":""QID368""}","{""ImportId"":""QID369_1""}","{""ImportId"":""QID370_1""}","{""ImportId"":""QID371_1""}","{""ImportId"":""QID372_1""}","{""ImportId"":""QID373""}","{""ImportId"":""QID374_1""}","{""ImportId"":""QID375_1""}","{""ImportId"":""QID376_1""}","{""ImportId"":""QID377_1""}","{""ImportId"":""QID378""}","{""ImportId"":""QID379_1""}","{""ImportId"":""QID380""}","{""ImportId"":""QID381_1""}","{""ImportId"":""QID382_1""}","{""ImportId"":""QID383""}","{""ImportId"":""QID384_1""}","{""ImportId"":""QID385_1""}","{""ImportId"":""QID386""}","{""ImportId"":""QID387_1""}","{""ImportId"":""QID388_1""}","{""ImportId"":""QID389""}","{""ImportId"":""QID390_1""}","{""ImportId"":""QID391_1""}","{""ImportId"":""QID392_1""}","{""ImportId"":""QID393_1""}","{""ImportId"":""QID394""}","{""ImportId"":""QID395_1""}","{""ImportId"":""QID396""}","{""ImportId"":""QID397_1""}","{""ImportId"":""QID398_1""}","{""ImportId"":""QID399""}","{""ImportId"":""QID400_1""}","{""ImportId"":""QID401_1""}","{""ImportId"":""QID402_1""}","{""ImportId"":""QID403_TEXT""}"
+18/4/2021 4:00,18/4/2021 4:07,0,90.254.172.128,100,401,1,18/4/2021 4:07,R_qw6EdC4XDiikMSt,,,,,51.64860535,0.049499512,anonymous,EN,5f2075147b2ccb1408401905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,2,1,2,4,2,3,5,3,3,2,5,2,2,4,3,2,2,2,3,3,1,3,5,1,5,4,1,4,1,2,2,2,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18/4/2021 4:02,18/4/2021 4:11,0,159.196.144.207,100,577,1,18/4/2021 4:11,R_3kLI1kZoh6QCidk,,,,,-35.2696991,149.1375122,anonymous,EN,5ec5f56cbc7291682f76277a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,2,3,2,2,1,4,2,3,2,5,5,2,2,3,4,2,2,5,1,1,3,2,4,2,3,5,4,3,2,3,4,1,2,4,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A little clear. premise and hypothesis section should be separate or instructions clearer (and the >>>> separated a bit more). Workload was fine. Perhaps replace the middle 'neither' option with 'about half and half' or something
+18/4/2021 4:02,18/4/2021 4:12,0,58.165.150.64,100,624,1,18/4/2021 4:12,R_RJ3P3rZagVEqL0B,,,,,-27.47320557,153.0215149,anonymous,EN,5ea964459e16b7052d303682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,2,2,1,2,4,3,2,2,2,1,1,5,2,2,4,4,4,5,3,4,2,3,1,1,4,3,2,4,4,3,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Questions are clear but some were very difficult to answer.
+18/4/2021 4:07,18/4/2021 4:15,0,94.15.231.152,100,431,1,18/4/2021 4:15,R_2ahLs81ezlrXUmf,,,,,51.60079956,-3.425292969,anonymous,EN,601a5003194e7224963be061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,2,2,2,1,4,4,4,4,1,2,4,3,2,1,4,1,3,3,1,3,2,1,3,4,1,3,2,4,4,1,3,1,4,2,2,4,2,2,the workload is a little too big.
+18/4/2021 4:01,18/4/2021 4:15,0,119.18.2.100,100,828,1,18/4/2021 4:15,R_2ZCbzD3qlJB4ZhM,,,,,-33.85910034,151.2001953,anonymous,EN,5f0aa26480cd5f1b0fe183ba,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,2,2,4,3,2,1,2,2,2,2,1,2,5,2,3,1,5,1,4,2,1,2,1,1,5,3,4,1,3,3,2,3,3,2,5,3,2,2,4,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The English level in lots of the questions seems to be poor so a lot of it was quite hard to understand
+18/4/2021 4:11,18/4/2021 4:16,0,82.37.44.142,100,301,1,18/4/2021 4:16,R_10OvmU5xAbl7STQ,,,,,55.9631958,-3.254592896,anonymous,EN,57824b69fa4465000113e18d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,3,1,1,1,2,4,3,4,1,2,4,4,4,3,4,3,3,4,1,3,4,2,3,2,2,3,2,4,3,3,3,1,3,2,2,3,2,4,It was interesting and simple to follow
+18/4/2021 4:10,18/4/2021 4:16,0,82.15.233.93,100,392,1,18/4/2021 4:16,R_2fk9ADHIKLZrrjW,,,,,50.95829773,-0.13420105,anonymous,EN,5b715c07e1727c0001e5e9cb,1,2,2,2,2,3,2,1,2,2,2,4,4,3,3,4,4,4,4,5,4,3,3,4,2,3,2,3,4,4,3,2,3,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maybe a page at the beginning explaining what the questions will entail
+18/4/2021 4:06,18/4/2021 4:16,0,92.25.187.25,100,606,1,18/4/2021 4:16,R_DqJR99a0xPRHeCJ,,,,,53.41740417,-2.70930481,anonymous,EN,59e6585c2f63d30001c8f9b2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,4,2,2,1,3,2,3,3,1,2,4,2,3,3,4,3,3,3,4,4,3,4,4,2,4,2,1,1,3,2,4,3,4,2,4,3,4,3,4,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Instructions at the start would have helped.
+18/4/2021 4:05,18/4/2021 4:16,0,79.67.139.165,100,685,1,18/4/2021 4:16,R_2YEW8Ds4xBwjdxP,,,,,52.90440369,-1.23260498,anonymous,EN,560925acd7def20005b7362a,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,2,1,3,2,3,2,1,2,3,2,3,4,4,2,3,3,3,3,3,3,3,2,3,3,4,1,3,2,3,2,3,2,4,3,4,3,3,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,confusing
+18/4/2021 4:09,18/4/2021 4:18,0,81.159.27.172,100,515,1,18/4/2021 4:18,R_2q7CkjUw6NEaqKv,,,,,54.35119629,-2.755599976,anonymous,EN,60075c50b660fb243f64521c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,3,4,4,1,4,2,2,2,5,5,3,1,1,2,2,2,4,1,2,4,2,1,1,2,4,2,3,2,3,4,2,3,2,5,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enough choices but I struggled with the meaning of some of the words. 
+18/4/2021 4:06,18/4/2021 4:20,0,86.169.155.168,100,852,1,18/4/2021 4:20,R_TmRKwC7x66ogAvv,,,,,51.41799927,-0.175201416,anonymous,EN,5ea043f2618bcf041cb4c245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,5,3,4,4,2,3,4,1,3,2,5,4,4,4,3,5,5,4,4,3,4,4,4,2,2,3,4,5,4,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes the questions were clear and direct. I felt somewhat awkward reading about the N word was there any need? 
+18/4/2021 4:13,18/4/2021 4:21,0,2.221.6.12,100,468,1,18/4/2021 4:21,R_VJSuoEnudWZ9BGF,,,,,51.44329834,-0.328903198,anonymous,EN,5b151badbd9c31000156f25c,1,2,1,1,4,1,4,2,1,3,2,2,2,4,4,2,4,4,2,4,5,3,4,4,2,5,4,4,4,4,4,3,3,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The questions are clear, however the hypothesis questions could have been laid out better "
+18/4/2021 4:04,18/4/2021 4:21,0,94.194.166.161,100,998,1,18/4/2021 4:21,R_CZXBm0souijtWkF,,,,,56.0348053,-3.498092651,anonymous,EN,5f6bf0ba90a06f165a723144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,2,4,1,3,1,5,4,4,1,2,4,5,4,2,2,1,2,1,1,1,1,3,2,1,3,3,1,1,1,3,1,3,1,3,2,1,1,5,"I suspect this was designed for people familiar with the American education system, I'm completely unfamiliar with the premise/hypothesis exercise and don't think I understood it."
+18/4/2021 4:10,18/4/2021 4:21,0,60.226.134.150,100,687,1,18/4/2021 4:21,R_x3gxUCgKGrXzbvb,,,,,-27.47320557,153.0215149,anonymous,EN,5f1284af0e72001e1863ea3e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,4,1,3,5,4,2,4,5,2,2,5,2,3,5,5,2,1,4,2,2,2,3,5,2,5,3,1,4,2,3,2,2,4,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The survey was excellent and easy to understand. 
+18/4/2021 4:12,18/4/2021 4:21,0,82.30.228.206,100,556,1,18/4/2021 4:21,R_2E5G1Dchas3ZXM8,,,,,51.81829834,-0.19720459,anonymous,EN,606b1a52a5612fb607b72a85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,2,4,4,2,4,3,3,2,2,3,2,4,2,3,1,2,2,2,2,3,3,1,3,2,3,2,2,3,1,2,3,2,2,1,3,2,2,2,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Too many questions that were very hard to interpret.
+18/4/2021 4:12,18/4/2021 4:22,0,5.70.206.250,100,610,1,18/4/2021 4:22,R_2fv8yqOh8TQezfp,,,,,52.50340271,-2.07749939,anonymous,EN,5c88cfc680858000011363df,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,1,3,1,1,1,1,2,5,4,2,5,5,3,2,4,5,1,1,1,5,1,5,1,1,4,3,5,5,5,4,1,5,2,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"the instructions were vague at times, and it did get a bit tedious towards the end"
+18/4/2021 4:11,18/4/2021 4:22,0,217.32.152.40,100,687,1,18/4/2021 4:22,R_3MQgqsDkQIp45Uz,,,,,52.90440369,-1.23260498,anonymous,EN,605f11d00db5d5f00a3161fc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,5,2,3,3,3,4,2,2,3,4,4,2,3,1,3,2,4,3,1,1,4,4,2,3,4,2,3,2,3,4,2,2,2,3,2,2,4,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,More explanation of the question types would have beenhelpful
+18/4/2021 4:12,18/4/2021 4:23,0,91.125.125.188,100,633,1,18/4/2021 4:23,R_3Q0qZsCW3fpXpLv,,,,,51.53840637,-0.039001465,anonymous,EN,607bfa69c30f5eb868379464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,2,2,3,1,3,2,3,4,3,4,2,2,2,4,1,4,4,4,2,3,2,1,4,4,2,3,3,3,3,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The example sentences to be compared to another example sentence were usually actually two sentences so it was confusing at first
+18/4/2021 4:08,18/4/2021 4:25,0,5.80.192.154,100,1029,1,18/4/2021 4:25,R_3jdKo0VkrnnJjdY,,,,,52.03610229,-0.7006073,anonymous,EN,5f60b5c0df4e880009c58934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,4,3,1,1,3,1,3,1,5,2,3,5,2,4,2,1,1,1,1,5,2,4,1,1,4,1,5,2,4,3,1,3,3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,It wasn't always clear what the question was asking for example the premise>>> hypothesis  questions.
+18/4/2021 4:15,18/4/2021 4:27,0,90.196.120.249,100,677,1,18/4/2021 4:27,R_VUxCovzb00PeRyx,,,,,51.8874054,0.918502808,anonymous,EN,5ed0ff79d782b5000bda8eca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,1,3,1,3,4,1,2,4,3,4,1,1,2,2,1,4,2,3,5,2,1,2,4,3,5,2,5,2,1,5,4,4,2,5,4,3,4,2,4,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I thought it was very good indeed. Good Luck and best wishes
+18/4/2021 4:09,18/4/2021 4:27,0,85.255.233.46,100,1065,1,18/4/2021 4:27,R_Aj7R2YVKLvo5ZpT,,,,,51.49639893,-0.122406006,anonymous,EN,5f1b2c762c60652d891ab82e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,3,3,1,2,4,2,3,4,4,5,1,4,4,2,5,5,2,1,4,3,3,4,1,5,3,3,3,2,1,4,2,1,5,2,1,3,3,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"A couple of times I selected ""unrelated"" because two sentences didn't clearly ""entail"" or ""conflict"", but actually they were related so in hindsight I should have picked one of the other two"
+18/4/2021 4:02,18/4/2021 4:28,0,81.147.4.234,100,1576,1,18/4/2021 4:28,R_2w4trMmjCOXpItM,,,,,54.65190125,-1.6927948,anonymous,EN,5d8f74ce5767850019a99ffd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,1,4,1,2,3,3,5,2,3,1,2,3,2,3,1,2,3,5,2,1,2,4,5,2,5,3,2,3,2,4,3,3,5,1,5,1,2,3,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some of the sentences were far too long when asking if they meant the same. 
+18/4/2021 4:15,18/4/2021 4:30,0,84.146.53.200,100,873,1,18/4/2021 4:30,R_4THzE4J1YpUsRDH,,,,,51.33909607,6.854904175,anonymous,EN,5fb2af792942a58ffe303948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,2,3,3,5,3,2,4,2,3,5,5,5,2,4,4,4,2,2,5,1,3,4,4,4,2,4,5,1,3,5,2,4,2,2,4,5,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were very clear and I rather enjoyed the time spent on the questions as they did not feel too long winded.
+18/4/2021 4:14,18/4/2021 4:33,0,80.193.52.226,100,1135,1,18/4/2021 4:33,R_3RgX9m5m2Lyc5YC,,,,,51.46380615,0.1434021,anonymous,EN,600167a5e860e701daf423b8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4,2,2,1,4,2,3,1,4,3,2,1,3,1,4,2,3,2,4,4,3,5,2,2,4,1,2,3,1,2,4,3,4,3,4,3,4,3,4,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Workload too big, takes longer than stated "
+18/4/2021 4:13,18/4/2021 4:37,0,102.249.2.248,100,1436,1,18/4/2021 4:37,R_PYAo9rgeAZb0Rvb,,,,,-29.85560608,31.04490662,anonymous,EN,600586dca1789179961d9d34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,2,1,4,4,2,3,2,4,1,4,4,2,2,4,2,4,1,5,3,1,2,1,4,1,4,2,1,4,1,1,4,2,2,5,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The choices were enough and the workload was manageable 
+18/4/2021 4:08,18/4/2021 4:54,0,197.185.107.62,100,2743,1,18/4/2021 4:54,R_cv7z3qyDZkvg1jz,,,,,-26.38110352,27.83760071,anonymous,EN,60772f932c4856e0daf1944b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,2,3,3,3,2,2,2,3,3,3,2,3,2,3,2,1,2,2,2,2,3,4,2,2,3,2,4,2,3,2,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Some questions were not clear. However the options were enough to choose from.
+18/4/2021 4:53,18/4/2021 5:07,0,146.200.174.241,100,842,1,18/4/2021 5:07,R_1Naj7N6v5f0W8oi,,,,,51.37350464,-2.359405518,anonymous,EN,5e2caf81f0143c2d7b8bbb7e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,2,2,2,2,1,2,4,2,3,4,4,2,2,3,4,2,1,1,4,2,4,1,1,4,3,4,4,1,2,1,4,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes enough choices
+18/4/2021 5:00,18/4/2021 5:10,0,82.37.1.68,100,606,1,18/4/2021 5:10,R_33dqwSLcYekyZYd,,,,,51.13980103,-0.120605469,anonymous,EN,5f31a239e7ed2f09f2b4a4ef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,3,1,1,2,1,4,5,2,4,1,4,2,2,5,3,4,3,4,2,1,4,2,3,5,2,3,4,2,4,4,3,1,2,2,5,2,4,4,4,question where clear in their instructions. 
+18/4/2021 5:00,18/4/2021 5:10,0,79.77.69.195,100,620,1,18/4/2021 5:10,R_2s1Ja4Rx8miuecH,,,,,51.79870605,1.162200928,anonymous,EN,5eda779c9944ee0c4197e633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,2,1,3,3,2,2,4,4,3,3,4,2,3,4,4,2,2,2,4,3,5,3,4,2,4,2,3,3,1,1,2,3,2,2,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The questions were clear, the scentances were sometimes difficukt to u derstand, but the options were good"
+18/4/2021 4:16,18/4/2021 5:12,0,105.225.109.40,100,3394,1,18/4/2021 5:12,R_273guyLuh6hIG7R,,,,,-26.38110352,27.83760071,anonymous,EN,606b116c0312192853ccd01f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,1,2,1,1,4,2,1,3,1,2,5,1,4,1,3,4,2,5,1,3,3,2,5,2,2,1,1,2,5,2,2,1,1,5,1,1,1,3,3,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Intellectually challenging but fair. 
+18/4/2021 5:13,18/4/2021 5:32,0,86.25.155.222,100,1122,1,18/4/2021 5:32,R_28Yx8YT5UDHSOKa,,,,,51.56460571,0.089797974,anonymous,EN,5c23ce53930b3e0001637d27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,2,5,2,2,3,3,2,2,2,3,3,3,2,3,1,2,4,5,2,5,2,3,5,2,2,4,1,2,2,2,5,3,2,3,3,2,2,2,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18/4/2021 4:03,18/4/2021 5:32,0,84.64.205.236,100,5366,1,18/4/2021 5:32,R_1re5eQRvJB5qyMo,,,,,53.50239563,-2.522399902,anonymous,EN,6016ea9708c86b8da095d447,1,2,2,2,5,3,2,2,2,2,4,2,1,1,3,1,4,1,2,5,4,3,2,4,2,2,1,4,1,1,2,1,3,2,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,The questions were clear however it was difficult to answer the questions
+18/4/2021 4:07,18/4/2021 4:17,0,89.240.204.36,99,576,0,18/4/2021 8:17,R_1rjZnGrWv8prZQm,,,,,,,anonymous,EN,5fb2f05fe8f4f59bfee7164b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,5,3,3,1,3,2,1,3,4,2,3,3,3,2,2,4,4,1,3,5,3,4,1,1,4,2,1,3,4,2,4,2,3,4,1,1,1,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18/4/2021 4:08,18/4/2021 4:23,0,104.205.49.164,100,877,0,18/4/2021 8:23,R_28P11mqNlm675WJ,,,,,,,anonymous,EN,607a7939513fc48d09e2bb58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,1,3,2,3,5,1,2,3,2,2,2,2,3,3,3,1,1,1,5,1,1,2,2,1,5,3,4,1,3,3,5,2,3,4,3,3,5,3,3,2,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Guidelines/examples would produce consistency at the cost of natural linguistic variance
